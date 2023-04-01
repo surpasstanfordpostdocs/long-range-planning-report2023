@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.335">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>long-range-planning-report2023 - Appendix A</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./appendixb.html" rel="next">
+<link href="./biblio.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked">
+
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Appendix A</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">SURPAS Long Range Planning Report 2023: The Future of Postdocs at Stanford</a> 
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./contents.html" class="sidebar-item-text sidebar-link">Table of Contents</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./execsumm.html" class="sidebar-item-text sidebar-link">EXECUTIVE SUMMARY</a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Front Matter</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./acknowledgements.html" class="sidebar-item-text sidebar-link">Acknowledgements</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./background.html" class="sidebar-item-text sidebar-link">Postdocs at Stanford</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./purpose.html" class="sidebar-item-text sidebar-link">Purpose, Mission, &amp; Process</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Body of Report</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./competitivelandscape.html" class="sidebar-item-text sidebar-link">Competitive Landscape</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./previouswork.html" class="sidebar-item-text sidebar-link">Previous SURPAS Advocacy</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./focusgroups.html" class="sidebar-item-text sidebar-link">Postdoc Focus Groups 2021</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ongoingadvocacy.html" class="sidebar-item-text sidebar-link">Ongoing Postdoc Advocacy</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./recs.html" class="sidebar-item-text sidebar-link">RECOMMENDATIONS</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./conclusions.html" class="sidebar-item-text sidebar-link">Conclusions</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./biblio.html" class="sidebar-item-text sidebar-link">Bibliography</a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Appendices</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./appendixa.html" class="sidebar-item-text sidebar-link active">Appendix A</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./appendixb.html" class="sidebar-item-text sidebar-link">Appendix B</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./appendixc.html" class="sidebar-item-text sidebar-link">Appendix C</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./appendixd.html" class="sidebar-item-text sidebar-link">Appendix D</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  charts.qmd
+  </li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./downloads.html" class="sidebar-item-text sidebar-link">Download the Report</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#surpas-stanford-postdoc-association-by-laws" id="toc-surpas-stanford-postdoc-association-by-laws" class="nav-link active" data-scroll-target="#surpas-stanford-postdoc-association-by-laws">SURPAS (Stanford Postdoc Association) By-Laws</a></li>
+  <li><a href="#bylaws-of-the-stanford-university-postdoctoral-association" id="toc-bylaws-of-the-stanford-university-postdoctoral-association" class="nav-link" data-scroll-target="#bylaws-of-the-stanford-university-postdoctoral-association">Bylaws of the Stanford University Postdoctoral Association</a>
+  <ul class="collapse">
+  <li><a href="#history" id="toc-history" class="nav-link" data-scroll-target="#history">History</a></li>
+  <li><a href="#revision-history-current-version-approved-january-2023" id="toc-revision-history-current-version-approved-january-2023" class="nav-link" data-scroll-target="#revision-history-current-version-approved-january-2023">Revision History (current version approved: January 2023)</a></li>
+  <li><a href="#article-i-general" id="toc-article-i-general" class="nav-link" data-scroll-target="#article-i-general">Article I: General</a></li>
+  <li><a href="#article-ii-legislative-branch" id="toc-article-ii-legislative-branch" class="nav-link" data-scroll-target="#article-ii-legislative-branch">Article II: Legislative Branch</a></li>
+  <li><a href="#article-iii-executive-branch" id="toc-article-iii-executive-branch" class="nav-link" data-scroll-target="#article-iii-executive-branch">Article III: Executive Branch</a></li>
+  <li><a href="#article-iv-guidelines-for-committee-meetings" id="toc-article-iv-guidelines-for-committee-meetings" class="nav-link" data-scroll-target="#article-iv-guidelines-for-committee-meetings">Article IV: Guidelines for Committee Meetings</a></li>
+  <li><a href="#article-v-elections" id="toc-article-v-elections" class="nav-link" data-scroll-target="#article-v-elections">Article V: Elections</a></li>
+  <li><a href="#article-vi-finances" id="toc-article-vi-finances" class="nav-link" data-scroll-target="#article-vi-finances">Article VI: Finances</a></li>
+  <li><a href="#article-vii-review-and-conflict-resolution" id="toc-article-vii-review-and-conflict-resolution" class="nav-link" data-scroll-target="#article-vii-review-and-conflict-resolution">Article VII: Review and Conflict Resolution</a></li>
+  <li><a href="#article-viii-external-communications" id="toc-article-viii-external-communications" class="nav-link" data-scroll-target="#article-viii-external-communications">Article VIII: External Communications</a></li>
+  <li><a href="#appendices" id="toc-appendices" class="nav-link" data-scroll-target="#appendices">Appendices</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Appendix A</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="surpas-stanford-postdoc-association-by-laws" class="level2">
+<h2 class="anchored" data-anchor-id="surpas-stanford-postdoc-association-by-laws">SURPAS (Stanford Postdoc Association) By-Laws</h2>
+<p><em>Postdocs at Stanford have been self-organized to represent their interests within the university community since at least 1998. SURPAS is governed by the following bylaws. SURPAS Council periodically votes on bylaws amendments to reflect changing needs of the organization and community; this process ensures new Council members are aware of our governing structure.</em></p>
+<p>–</p>
+</section>
+<section id="bylaws-of-the-stanford-university-postdoctoral-association" class="level2">
+<h2 class="anchored" data-anchor-id="bylaws-of-the-stanford-university-postdoctoral-association">Bylaws of the Stanford University Postdoctoral Association</h2>
+<section id="history" class="level3">
+<h3 class="anchored" data-anchor-id="history">History</h3>
+<p>The Stanford University Postdoctoral Association (SURPAS) was founded in 1998 to promote a community among Postdoctoral Scholars at Stanford University. SURPAS is governed by the Council. The Council was formed in Spring of 1999, and addresses issues related to Postdoctoral Scholars at Stanford. The Council functions in advocacy and helps to maintain a social structure within the postdoctoral community.</p>
+<p><strong>Note:</strong> The Stanford University Postdoctoral Association previously used the acronym SUPD, which was often confused with the Stanford University Police Department. In 2013, the Council appointed a Name and Logo committee to report on the name confusion and potential alternatives. The committee reported that even though the Stanford Police department uses the acronym SUDPS, or Stanford University Department of Public Safety, confusion still occurs, and many alternative acronyms were already claimed by other organizations at Stanford. For instance, SUPA was already used by the Stanford Undergraduate Psychology Association. The acronym SURPAS was identified as a viable alternative, which sounds like the word, “surpass” and has a meaning that aligns well with the mission of the Association. The council voted by majority on September 25, 2013, to adopt the acronym SURPAS.</p>
+</section>
+<section id="revision-history-current-version-approved-january-2023" class="level3">
+<h3 class="anchored" data-anchor-id="revision-history-current-version-approved-january-2023">Revision History (current version approved: January 2023)</h3>
+<section id="section-1-1998-1999-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-1998-1999-session">Section 1: 1998-1999 Session</h4>
+<ol type="A">
+<li><p>Creation</p></li>
+<li><p>1,200 Postdoctoral Scholars at Stanford</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-2-2010-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-2010-session">Section 2: 2010 Session</h4>
+<ol type="A">
+<li><p>Unknown</p></li>
+<li><p>1,800 Postdoctoral Scholars at Stanford</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-3-2013-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-3-2013-session">Section 3: 2013 Session</h4>
+<ol type="A">
+<li><p>Redesign of Bylaws based on Associated Students of Stanford University (ASSU) Bylaws</p></li>
+<li><p>Creation of Advisory Board</p></li>
+<li><p>Added articles for Conflict of Interest, Conflict Resolution, non-discrimination, decision making</p></li>
+<li><p>Removed redundant passages</p></li>
+<li><p>2,000 Postdoctoral Scholars at Stanford</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-4-2015-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-4-2015-session">Section 4: 2015 Session</h4>
+<ol type="A">
+<li>Added activity requirement for Council members to contribute to SURPAS that will be evaluated during review prior to re-election after one year</li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-5-2016-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-5-2016-session">Section 5: 2016 Session</h4>
+<ol type="A">
+<li><p>Change in the election timing of co-chairs, leadership team and honorary committees</p></li>
+<li><p>Added a responsibility for secretary</p></li>
+<li><p>Added a clause on maternity leave</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-6-2017-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-6-2017-session">Section 6: 2017 Session</h4>
+<ol type="A">
+<li><p>Added positions of Events Coordinator and Advocacy Coordinator to leadership team</p></li>
+<li><p>Updated bylaws to reflect organizational practices (including cap on council seats, number of meetings held, SPIF budget, committee formation, officer responsibilities, timing of elections)</p></li>
+<li><p>Included diversity and inclusion statement in mission</p></li>
+<li><p>Expanded maternity leave clause to include other types of leave</p></li>
+<li><p>Added guidelines for external communications</p></li>
+<li><p>2,100 Postdoctoral Scholars at Stanford</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-7-2018-2019-sessions" class="level4">
+<h4 class="anchored" data-anchor-id="section-7-2018-2019-sessions">Section 7: 2018 &amp; 2019 Sessions</h4>
+<p><strong>Documentation of previously-approved updates</strong></p>
+<ol type="A">
+<li><p>Use of poll everywhere for voting</p></li>
+<li><p>Nov and Dec meetings may occur earlier than the last week of month</p></li>
+<li><p>Council meetings can occur in different locations across campus</p></li>
+<li><p>SURPAS seats on ‘honorary committees’</p></li>
+<li><p>Updated structure and responsibilities for SURPAS Leadership</p></li>
+<li><p>Updated timing of elections to reflect offset co-chair positions and campaign regulations.</p></li>
+<li><p>Term information for Council and Leadership members</p></li>
+</ol>
+<p><strong>Minor updates to bylaw language</strong></p>
+<ol start="8" type="A">
+<li><p>Council member responsibilities include the ability to override decisions by the leadership team and require active participation in SURPAS activities</p></li>
+<li><p>Council member term expiration includes notice</p></li>
+<li><p>Defined ‘adequate’ notification for meetings.</p></li>
+<li><p>Updated the process for the management of Committees and information stream from Committees to the Leadership and Council</p></li>
+<li><p>Recognition of other postdoc groups on campus</p></li>
+</ol>
+<p><strong>Category 3 - Major updates to bylaw content</strong></p>
+<ol start="13" type="A">
+<li><p>Votes of no confidence for removal from positions.</p></li>
+<li><p>Updated the process for the appointment and responsibilities of Committee chairs.</p></li>
+<li><p>Added new Community Engagement Liaison position</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-8-2020-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-8-2020-session">Section 8: 2020 Session</h4>
+<p><strong>Approved changes</strong></p>
+<ol type="A">
+<li><p>Postdocs transitioning to non-tenure track roles may continue to be SURPAS members and occupy voting council member seats as long as there are open Council seats and no new members wishing to occupy these.</p></li>
+<li><p>Wording to increase accessibility to SURPAS Council Meetings</p></li>
+<li><p>Changes to guidelines for using SURPAS emails</p></li>
+</ol>
+<p><strong>Minor updates to bylaw language</strong></p>
+<ol start="4" type="A">
+<li><p>“Maternal/baby/bonding leave” changed to “parental/baby bonding leave”</p></li>
+<li><p>2400 postdocs at Stanford</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-9-2021-2022-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-9-2021-2022-session">Section 9: 2021-2022 Session</h4>
+<ol type="A">
+<li><p>SURPAS co-chairs should extend an invitation and share OPA meeting agenda to the affinity groups. This will enhance SURPAS collaborative interaction with the postdoc affinity groups.</p></li>
+<li><p>The position of SURPAS representative to the School of Medicine Diversity Cabinet is an elected position from within the current SURPAS leadership OR The position of SURPAS representative to the School of Medicine Diversity Cabinet is an elected position from within the SURPAS Council OR The position of SURPAS representative to the School of Medicine Diversity Cabinet will be assumed by the Advocacy Coordinator.</p></li>
+<li><p>SURPAS co-chairs should invite Faculty Staff Help Center to present at Council Meetings biannually – this is essential as postdocs are a transient community within Stanford and ensuring that all incoming postdocs have the opportunity to know about the services that FSHC provide is important. Postdocs face many challenges both in research, mentor-mentee relationships and personally and it is important to ensure that our community is aware of these services.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-10-2022-2023-session" class="level4">
+<h4 class="anchored" data-anchor-id="section-10-2022-2023-session">Section 10: 2022-2023 Session</h4>
+<ol type="A">
+<li><p>Addition to Treasurer/Financial Officer’s responsibility: All monthly financial transactions shall be completed within SURPAS for each month prior to the 1st of the next month.</p></li>
+<li><p>Addition to Co-Chairs’ responsibility: Add “Co-Chairs should schedule quarterly meetings with OPA and Affinity group co-chairs”.</p></li>
+<li><p>Council member responsibility: Council members must attend at least 9 (75%) council meetings in a year of service on council. Excused absences should be coordinated with the Operations Manager in advance of the meeting. Excused absences and canceled meetings will not be considered missed meetings. Council members missing 3 (25%) scheduled council meetings will be given a warning. Missing additional meetings thereafter will result in being removed from the roster and losing membership.</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="article-i-general" class="level3">
+<h3 class="anchored" data-anchor-id="article-i-general">Article I: General</h3>
+<section id="section-1-mission" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-mission">Section 1: Mission</h4>
+<ol type="A">
+<li><p>The mission of the Stanford University Postdoctoral Association is to enrich the Postdoctoral experience at Stanford, to enable Postdoctoral Scholars to explore opportunities, and to empower Postdoctoral Scholars to become leaders in areas of their choice.</p></li>
+<li><p>The Council represents and advocates for the best interests of all Stanford Postdoctoral Scholars. Primary goals of the Council include the following:</p>
+<ol type="1">
+<li><p>To develop social and networking opportunities for Postdoctoral Scholars from all disciplines, in the interest of fostering a community of postdocs at Stanford.</p></li>
+<li><p>To promote inclusion and representation of all postdoctoral fellows and advocate for a postdoctoral community that better reflects the diversity that is crucial for research and other progress.</p></li>
+<li><p>To work with University Administration to optimize the postdoctoral experience.</p></li>
+<li><p>To strive for the professional enrichment and development of Postdoctoral Scholars.</p></li>
+<li><p>To ensure that postdoctoral benefits and salaries are commensurate with the NIH salary scale and the high cost of living in the Bay Area.</p></li>
+<li><p>To clearly define and communicate the Postdoctoral Scholar status at an institutional level.</p></li>
+</ol></li>
+<li><p>The members of the Council will act as a liaison to the postdoctoral population at large and represent the interests of Postdoctoral Scholars to the Office of Postdoctoral Affairs and to Stanford University by representing Postdoctoral Scholars on University committees and governing bodies.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-2-membership-of-registered-postdoctoral-scholars" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-membership-of-registered-postdoctoral-scholars">Section 2: Membership of Registered Postdoctoral Scholars</h4>
+<p>All registered Postdoctoral Scholars of Stanford University are members of SURPAS. Registered Postdoctoral Scholars of Stanford University shall be defined to include all Postdoctoral Scholars appointed by the Office of Postdoctoral Affairs of Stanford University. SURPAS recognizes that there are people working in similar positions [individuals who possess a doctoral degree (Ph.D., M.D., J.D., Ed.D., etc.) and conduct research under a Stanford faculty member’s sponsorship or supervision, but are not appointed by the Office of Postdoctoral Affairs (such as Research Associates and Visiting Scholars)]. These individuals are not members of SURPAS, but are invited to participate in SURPAS events. SURPAS recognizes that Postdoctoral scholars may move into other non-tenure track trainee roles at Stanford upon expiration of the Postdoctoral scholar term limit or award of transitional funding. These former Postdocs may continue to be SURPAS members.</p>
+<p>–</p>
+</section>
+<section id="section-3-dissolution-of-the-organization." class="level4">
+<h4 class="anchored" data-anchor-id="section-3-dissolution-of-the-organization.">Section 3: Dissolution of the Organization.</h4>
+<p>SURPAS will be dissolved when its mission is accomplished.</p>
+<p>–</p>
+</section>
+<section id="section-4-non-discrimination-and-diversity-statement" class="level4">
+<h4 class="anchored" data-anchor-id="section-4-non-discrimination-and-diversity-statement">Section 4: Non-Discrimination and Diversity Statement</h4>
+<p>These Bylaws, the Council, the elected officers, and all Committees, shall not discriminate against any individual or organization on account of race, gender, religion, ethnicity, nationality, sexual orientation, or physical or mental disability. SURPAS seeks to promote diversity and ensure equal opportunity and inclusion for all Postdoctoral Scholars, across all seven schools, in the membership, leadership, and activities of SURPAS.</p>
+<p>–</p>
+</section>
+<section id="section-5-conflict-of-interest" class="level4">
+<h4 class="anchored" data-anchor-id="section-5-conflict-of-interest">Section 5: Conflict of Interest</h4>
+<ol type="A">
+<li><p>The members of the Leadership Team, Council, and Committees are expected to avoid any actual or apparent conflict between their own individual personal or professional interests and the interests of SURPAS. The members of the Leadership Team, Council, and Committees shall act at all times in the best interests of SURPAS. This means setting aside personal self-interest and performing their duties in transaction of the affairs of SURPAS in such a manner that promotes confidence and trust in the integrity, objectivity and impartiality of the Leadership Team, the Council, and Committees.</p></li>
+<li><p>This Conflict of Interest policy is in place to protect both the individual and SURPAS from accusations of improper conduct. As such, all members of the Leadership Team, the Council, and Committees are expected to respect the Conflict of Interest policy and should feel personal responsibility for self-monitoring.</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="article-ii-legislative-branch" class="level3">
+<h3 class="anchored" data-anchor-id="article-ii-legislative-branch">Article II: Legislative Branch</h3>
+<section id="section-1-members-of-the-council" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-members-of-the-council">Section 1: Members of the Council</h4>
+<ol type="A">
+<li><p>SURPAS Council shall be composed of thirty (30) total seats.</p></li>
+<li><p>All members of SURPAS are eligible to run for vacant Council seats. Former Postdocs who have moved into non-tenure track roles may continue to serve on SURPAS Council.</p></li>
+<li><p>If the Council has more volunteers than open slots, new members will be recruited by elections with consideration given to the current needs of the Council.</p></li>
+<li><p>If all Council member slots become full, Council slots occupied by former Postdocs now in early career, non-tenure track roles must move into advisory roles to make Council seats available for new members.</p></li>
+<li><p>The membership of the Council is to be representative of the Postdoctoral Scholar distribution across the seven schools at Stanford. This will be achieved to the extent possible, by active recruitment by current council members and the leadership team.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-2-responsibilities" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-responsibilities">Section 2: Responsibilities</h4>
+<ol type="A">
+<li><p>The Council holds the overall responsibility for SURPAS’ operations with guidance from, the Leadership Team (<a href="#article-iii-executive-branch">Article III, Section 1</a>), its Advisory Board (<a href="#article-vii-review-and-conflict-resolution">Article VII, Section 2</a>), and the Office of Postdoctoral Affairs. Council members have the right to openly discuss decisions made by the Leadership Team and request a motion to override such decisions with a simple majority vote.</p></li>
+<li><p>Council members must attend at least 9 (75%) council meetings in a year of service on council. Excused absences should be coordinated with the <strong>Operations Manager</strong> in advance of the meeting. Excused absences and canceled meetings will not be considered missed meetings. Council members missing 3 (25%) scheduled council meetings will be given a warning. Missing additional meetings thereafter will result in being removed from the roster and losing membership.</p></li>
+<li><p>In addition to attending council meetings, council members must significantly contribute to SURPAS activities and the well-being of postdocs at Stanford. For example, council members are required to either (a) serve on the leadership team (Article III), (b) serve as a Faculty Senate representative (Section 7), (c) be an active member of a SURPAS Committee (Sections 5 &amp; 6) or (d) be an active member of a postdoc affinity group. The council will review each member’s contribution to SURPAS and the well-being of postdocs at Stanford at the end of their one year term and can then vote on re-election to the SURPAS council.</p></li>
+<li><p>Council members must ensure that pertinent information is disseminated to the postdoctoral population at large. They will communicate concerns to the Council from those Postdoctoral Scholars that they represent, and hold informal meetings with Postdoctoral Scholars as necessary.</p></li>
+<li><p>Council members must inform Postdoctoral Scholars of special events and help organize as needed.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-3-term-expiration" class="level4">
+<h4 class="anchored" data-anchor-id="section-3-term-expiration">Section 3: Term Expiration</h4>
+<ol type="A">
+<li><p>Appointments to the Council are for one year, confirmed by a letter of appointment or email.</p></li>
+<li><p>Members who are no longer able to execute their tasks shall notify the <strong>Co-Chairs</strong> in writing.</p></li>
+<li><p>If a member fails to attend 3 meetings in a row, without prior notification to the <strong>Operations Manager</strong>, he or she will be notified in writing by the <strong>Co-Chairs</strong> that they are no longer an active member of the Council.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-4-meetings-of-the-council" class="level4">
+<h4 class="anchored" data-anchor-id="section-4-meetings-of-the-council">Section 4: Meetings of the Council</h4>
+<ol type="A">
+<li><p>The <strong>Co-Chairs</strong> and the Leadership Team may call meetings of the Council. Adequate public notice of meeting location and agenda items (defined as 3 business days) must be given for each meeting.</p></li>
+<li><p>Quorum for Council meetings shall consist of at least half of the non-vacant seats. If a quorum is not present, following reasonable notification for a second meeting, proposed motions may be voted upon with fewer members than a full quorum attending.</p></li>
+<li><p>Votes that concern SURPAS members will be done by Council members anonymously using paper voting slips or an online voting system, such as PollEverywhere. Council members can abstain from voting. Votes that concern missions, plans, and other impersonal items can be done by a show of hands, as the Council sees fit.</p></li>
+<li><p>The <strong>Co-Chairs</strong> shall share responsibility of the Presiding Officer at each Council meeting.</p></li>
+<li><p>Council meetings shall be scheduled the last week of each month, with the exception of November and December which may occur earlier in the month due to holidays. Additional Council meetings can be called, as the need arises. The Council shall be given adequate notice of planned meetings.</p></li>
+<li><p>Council meetings shall take place throughout campus and/or on zoom to ease accessibility and improve participation from postdocs across all Stanford schools and departments.</p>
+<ol type="1">
+<li><p>SURPAS Leadership members must actively be mindful of accessibility when scheduling Council meetings. This includes scheduling Council meetings in rooms that meet ADA requirements and which are located throughout campus, and/or via a web based platform (such as Zoom)</p></li>
+<li><p>All SURPAS members are invited to attend meetings, but are eligible to vote only when they are members of the Council.</p></li>
+<li><p>Council meetings last no longer than 1.5 hours. Unfinished business will be relegated to the next meeting.</p></li>
+</ol></li>
+<li><p>Order of Business</p>
+<ol type="1">
+<li><p>Agendas and supporting documents will be distributed in advance of all scheduled meetings.</p></li>
+<li><p>Determination of quorum by the <strong>Co-Chairs</strong> and/or the ****Operations Manager****</p></li>
+<li><p>Approval of previous Council meeting minutes by the Council, should there be comments on the draft.</p></li>
+<li><p>Reports of special representatives and standing committees.</p></li>
+<li><p>General orders or unfinished business.</p></li>
+<li><p>Voting motions shall carry if they receive a majority vote.</p></li>
+<li><p>Additional agenda items can be recommended to the <strong>Co-Chairs</strong> by any SURPAS member up to one day before the meeting.</p></li>
+</ol></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-5-committees" class="level4">
+<h4 class="anchored" data-anchor-id="section-5-committees">Section 5: Committees</h4>
+<p>The Council shall have the power to create Committees for specific purposes, to vest in them all appropriate powers of the Council, and to determine their composition.</p>
+<ol type="A">
+<li><p>Committees shall be composed of volunteers from the Council and SURPAS. It is recommended that all committees have at least one council member involved. Committee members shall appoint or elect a chair (or co-chairs) to manage the Committee. This chair or co-chairs must be approved by simple majority vote (anonymous or show of hands) of the Council.</p></li>
+<li><p>The duties of a Committee and its power to act on certain decisions shall be outlined at its formation and shall be approved by the Council. Leadership, on behalf of Council, will assist committees in carrying out their duties whenever possible and deemed appropriate.</p></li>
+<li><p>The Council will retain final responsibility for the committee’s actions and decisions. The members of the Committee and the Council have the power to remove a Committee Chair (or <strong>Co-Chairs</strong>) if necessary by a simple majority vote.</p></li>
+<li><p>Committees will submit a plan of action and a budget proposal to the <strong>Treasurer/Financial Officer</strong>, who will review it and present it to the Council. The Council can also decide to allocate a budget upon installment of a Committee, pending approval by the <strong>Treasurer/Financial Officer</strong>.</p></li>
+<li><p>All Committees shall regularly report to the Leadership Team, and, if suitable to the Council, at a Council meeting through the Chair (or <strong>Co-Chairs</strong>) or Committee Representative. The Committee Chair (or <strong>Co-Chairs</strong>) must submit a Project Plan outlining the Committee’s goals and activities for the year to the Leadership Team each January. Status reports from Committees may also be requested on an ad hoc basis by any Council member. If a Committee Chair or Representative is not a member of council, they will still be regulated under the same attendance requirements as Council members (<a href="#article-ii-legislative-branch">Article II Section 2</a>).</p></li>
+<li><p>A Committee will go out of existence when its goals have been met or task is complete, or can be terminated or merged with another Committee by majority vote of the Council.</p></li>
+<li><p>Committees of structural importance or that serve essential roles to postdoc well-being at Stanford will become standing committees with their own guidelines.</p></li>
+<li><p>Any SURPAS member may propose a Committee to the <strong>Co-Chairs</strong>, Leadership, or Council. The Council will then discuss and vote on the formation of the Committee at the next meeting. Committees can be created by the Leadership without a vote of the Council (<a href="#article-iii-executive-branch">Article III Section 1D</a>).</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-6-standing-committees---surpas-postdoc-initiative-fund-spif" class="level4">
+<h4 class="anchored" data-anchor-id="section-6-standing-committees---surpas-postdoc-initiative-fund-spif">Section 6: Standing Committees - SURPAS Postdoc Initiative Fund (SPIF)</h4>
+<ol type="A">
+<li><p>Objectives and mandate of SPIF: to provide financial support and foster Postdoctoral Scholar initiatives that enrich the postdoctoral experience at Stanford. SPIF will consider a broad range of projects, and funding is targeted towards groups mostly specific to Postdoctoral Scholar affairs. Postdoctoral Scholars must be significantly involved in the organization of acceptable initiatives. In principle, any group can be considered for funding if the projects are organized mainly by and for Postdoctoral Scholars.</p></li>
+<li><p>The rules of operation are described in the general guidelines of SPIF.</p></li>
+<li><p>The chair of SPIF regularly reports to the <strong>Treasurer/Financial Officer</strong> about approved proposals, and the amount of funding that is awarded, and monthly to the Council about their progress.</p></li>
+<li><p>The annual operating budget of SPIF shall be set and agreed upon by the Council as part of the Treasurer’s/Financial Officer’s budget proposal for the upcoming year (<a href="#article-iii-executive-branch">Article III Section 5B</a>).</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-7-postdoc-representative-seats" class="level4">
+<h4 class="anchored" data-anchor-id="section-7-postdoc-representative-seats">Section 7: Postdoc Representative Seats</h4>
+<ol type="A">
+<li><p>SURPAS has a voting seat on the Faculty Senate Committee on Library (C-LIB), Faculty Senate Committee on Academic Computing and Information Systems (C-ACIS), and Faculty Senate Committee on Research (C-RES). These prestigious seats must be filled by May-June to be effective by September of the same year and are elected by Council.</p></li>
+<li><p>The <strong>Co-Chairs</strong> are granted two non-voting seats on the Faculty Senate for the School of Medicine, but in the instance that one or both <strong>Co-Chairs</strong> do not come from the School of Medicine another SURPAS member may be appointed (at least one of the two seats should be occupied by a member of the Leadership Team).</p></li>
+<li><p>SURPAS has one voting seat on the School of Medicine Diversity Cabinet that can be filled by appointment of a member of the Council or the Leadership Team.</p></li>
+<li><p>The <strong>Co-Chairs</strong> are granted one non-voting seat on the University Faculty Senate.</p></li>
+<li><p>The <strong>Co-Chairs</strong> have two non-voting seats on the Provost Advisory Council on Postdoctoral Affairs (PACPA).</p></li>
+<li><p>SURPAS representatives to these Committees, Cabinets, and Senates will uphold these Bylaws and represent to their best ability the interests of the Council and all Postdoctoral Scholars at Stanford. They will provide any updates to the Council of pertinent information if possible at the monthly Council meeting.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-8-special-advisors-to-the-council" class="level4">
+<h4 class="anchored" data-anchor-id="section-8-special-advisors-to-the-council">Section 8: Special Advisors to the Council</h4>
+<p>Former Council officers who remain in good standing with the Council have the option to become Special Advisors following their term in office. Special Advisors provide continuity from one Council administration to the next, and provide advice to the Council and Leadership Team as needed. They may be nominated by the <strong>Co-Chairs</strong>, Leadership Team, or Council for a one year term (with the option for renewal at the end of the term).</p>
+<p>–</p>
+</section>
+<section id="section-9-leave-of-absence-from-council" class="level4">
+<h4 class="anchored" data-anchor-id="section-9-leave-of-absence-from-council">Section 9: Leave of Absence from Council</h4>
+<p>A council member shall be permitted to take a leave of absence from SURPAS Council during parental/baby bonding leave, for physical or mental health reasons, family matters, or other extenuating circumstances. A council member on leave shall retain their position on council upon their return, but their seat is not counted towards quorum during their period of absence. The Council can appoint a substitute to serve on any committees or in any position that requires attendance while the council member is away on leave; however, the council member will resume all of these positions once he or she is back from leave. Notice for a leave of absence should be submitted to the <strong>Co-Chairs</strong> and the <strong>Operations Manager</strong>, should define the estimated period of absence (start and end dates), and identify any positions that would require a substitute during this absence (such requests do not require a vote of approval from Council or Leadership).</p>
+<hr>
+</section>
+</section>
+<section id="article-iii-executive-branch" class="level3">
+<h3 class="anchored" data-anchor-id="article-iii-executive-branch">Article III: Executive Branch</h3>
+<section id="section-1-membership-of-executive-branch-leadership-team" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-membership-of-executive-branch-leadership-team">Section 1: Membership of Executive Branch (Leadership Team)</h4>
+<ol type="A">
+<li><p>All members of the Council are eligible to run for vacant Leadership Team seats.</p></li>
+<li><p>The Leadership Team consists of two <strong>Co-Chairs</strong>, an <strong>Events Coordinator</strong>, an <strong>Advocacy Coordinator</strong>, a <strong>Financial Officer</strong>, an <strong>Operations Manager</strong>, a <strong>Community Engagement Liaison</strong>, a <strong>Social Media and Web Manager</strong>, and a <strong>Communications Manager</strong>.</p></li>
+<li><p>In the event that a position on the Leadership Team cannot be filled, the <strong>Co-Chairs</strong> must take on the responsibilities of that role until a nominee is found or delegate the tasks to a member of the Leadership Team or Council. If either or both of the Co-Chair positions cannot be filled, the Events and Advocacy Coordinators will share the extra responsibilities and may delegate additional responsibilities among Leadership and Council. Significant decisions should be discussed and approved by a simple majority vote of Council.</p></li>
+<li><p>The Leadership Team shall be in charge of the Council and make sure the Council decisions are executed. The Leadership Team shall have those powers and responsibilities listed in these Bylaws. Unless otherwise specified, all Leadership Team decisions shall be made by consensus.</p></li>
+<li><p>The Leadership Team shall have the power to create committees of the Council and have oversight of these Committees, shared among the members of Leadership. The structure of this oversight will be determined each year by the Leadership team following review of the annual Committee Project Plans (<a href="#article-ii-legislative-branch">Article II, Section 5</a>).</p></li>
+<li><p>The Leadership Team has the discretionary power to handle incoming requests from SURPAS members or outsiders. They shall inform the Council of such decisions, or approach the Council when uncertain how to handle them.</p></li>
+<li><p>The Leadership Team shall ensure that the following information is available to all members of SURPAS: the Reimbursement procedures, these Bylaws, the approved minutes of Council meetings, the names and titles of all elected and appointed Council members. Any proprietary business information or employee information related to Stanford Student Enterprises shall not be made available to anyone other than the <strong>Co-Chairs</strong> or members of the Council without the consent of the Office of Postdoctoral Affairs or its designee.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-2-responsibilities-co-chairs" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-responsibilities-co-chairs">Section 2: Responsibilities: Co-Chairs</h4>
+<ol type="A">
+<li><p>Oversee the operations of the Council and SURPAS Committees. This includes coordinating with the <strong>Treasurer/Financial Officer</strong> and <strong>Operations Manager</strong> to produce the Association Annual Report, the financial statement and budget proposal (Article III Section 5B) and to schedule, set the agenda (<a href="#article-iii-executive-branch">Article III Section 6B</a>), and facilitate Council and Leadership meetings.</p></li>
+<li><p>Serve as the primary contact for Stanford Administration. One of the <strong>Co-Chairs</strong> shall be listed as President and the other as Co-President on OrgSync, which does not recognize the term Co-Chair. The <strong>Co-Chairs</strong> serve as the liaisons to postdoctoral Associations at other Universities, especially at the annual meeting of the National Postdoctoral Association in March. They represent SURPAS at the quarterly Postdoctoral Scholar orientation sessions hosted by the Office of Postdoctoral Affairs (OPA), and represent SURPAS as ex officio members of the Provost Advisory Committee on Postdoctoral Affairs (PACPA) and the Faculty Senate of the School of Medicine (<a href="#article-ii-legislative-branch">Article II Section 7B</a>).</p></li>
+<li><p>Oversee the timely appointment and/or election of new members and notification of vacancies on the Council to the community at large.</p></li>
+<li><p>Conduct and report an annual or biannual survey on the state of postdoctoral life with the Office of Postdoctoral Affairs.</p></li>
+<li><p>Outline the current status of SURPAS and summarize its goals for the upcoming year in an address to the Council, to be given between August and September.</p></li>
+<li><p>The <strong>Co-Chairs</strong> may delegate any of these duties to other members of the Leadership, the Council or SURPAS.</p></li>
+<li><p><strong>Co-Chairs</strong> should schedule quarterly meetings with OPA and Affinity group co-chairs</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-3-responsibilities-events-coordinator" class="level4">
+<h4 class="anchored" data-anchor-id="section-3-responsibilities-events-coordinator">Section 3: Responsibilities: Events Coordinator</h4>
+<ol type="A">
+<li><p>Work closely with SURPAS committees and committee chairs to establish a workflow for organizing events.</p></li>
+<li><p>Keep an updated list of volunteers (from the Council and outside members) and work to recruit more volunteers; ensure participation of SURPAS Council in the quarterly Postdoctoral Scholar orientation sessions hosted by OPA.</p></li>
+<li><p>Make and maintain contact with other postdoc associations at Stanford to organize events during National Postdoc Appreciation Week (NPAW) or at any other time during the year.</p></li>
+<li><p>Schedule or coordinate events on a monthly basis, checking for any coinciding event with OPA or other postdoc associations at Stanford.</p></li>
+<li><p>Work with the Co-chairs to plan events, the Communications Manager and Social Media and Web Manager for advertising, and the <strong>Treasurer/Financial Officer</strong> to determine allocated budget for each event.</p></li>
+<li><p>Outline and maintain a tentative yearly calendar of SURPAS events, including annual events(Wellness Fair, NPAW, Symposium) and monthly events (Happy Hours, Coffee Chats) for the Council’s reference.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-4-responsibilities-advocacy-coordinator" class="level4">
+<h4 class="anchored" data-anchor-id="section-4-responsibilities-advocacy-coordinator">Section 4: Responsibilities: Advocacy Coordinator</h4>
+<ol type="A">
+<li><p>Work closely to gather data to facilitate identification of the postdoc problems informally(anecdotal) or formally (survey).</p></li>
+<li><p>Work with data from survey on postdoc value from the OPA (<a href="#article-iii-executive-branch">Article III Section 2D</a>).</p></li>
+<li><p>Keep an updated list of Special Advisors to the council (<a href="#article-ii-legislative-branch">Article II Section 8</a>) and identify allies in the faculty/administration (in addition to the Advisory Board - <a href="#article-vii-review-and-conflict-resolution">Article VII Section 2</a>).</p></li>
+<li><p>Be informed about all the administrative committees and faculty senate committees and advise <strong>Co-Chairs</strong> concerning proposals to the PACPA and faculty senates.</p></li>
+<li><p>Coordinate efforts to gain more visibility for postdoc work/value across campus (i.e., features on Stanford Daily newspaper, etc.).</p></li>
+<li><p>Coordinate outreach and advocacy efforts with other communities on campus (i.e., graduate and undergraduate students, other postdoc groups at Stanford).</p></li>
+<li><p>Create and maintain a general workflow for directing advocacy efforts, updated at least annually by each outgoing Advocacy Coordinator.</p></li>
+<li><p>Work jointly with the <strong>Operations Manager</strong> to hold a short orientation for newly elected members of the Council at least quarterly.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-5-responsibilities-treasurerfinancial-officer" class="level4">
+<h4 class="anchored" data-anchor-id="section-5-responsibilities-treasurerfinancial-officer">Section 5: Responsibilities: Treasurer/Financial Officer</h4>
+<ol type="A">
+<li><p>Manage the SURPAS budget and act as a liaison with the Office of Postdoctoral Affairs (OPA) for financial matters. The <strong>Treasurer/Financial Officer</strong> is responsible for financial oversight, compliance and disbursement, in accordance with the approved budget allocation limits and University policy. The <strong>Treasurer/Financial Officer</strong> must complete the ASSU Banking training session, before receiving authority to manage the ASSU account, and ensure that at least one Co-Chair has also completed the training to act as co-signer in cases when the <strong>Treasurer/Financial Officer</strong> must be reimbursed.</p></li>
+<li><p>Draft, negotiate (with the <strong>Co-Chairs</strong>), and present (with the <strong>Co-Chairs</strong>) an annual budget proposal to the Associate Dean for Postdoctoral Affairs, due March 1st. The <strong>Treasurer/Financial Officer</strong> will report the approved budget to the Council at the next Council meeting.</p></li>
+<li><p>Present annually to the Council the financial statement of the previous year and the budget proposal annually prior to evaluation by leadership and submission to the OPA (<a href="#article-iii-executive-branch">Article III Section 5B</a>). The Council shall approve these documents by majority vote.</p></li>
+<li><p>Prepare a quarterly financial report of revenues and expenses of the account to the Council, which the <strong>Co-Chairs</strong> can present to the Associate Dean for Postdoctoral Affairs upon request.</p></li>
+<li><p>All monthly financial transactions shall be completed within SURPAS for each month prior to the 1st of the next month.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-6-responsibilities-operations-manager" class="level4">
+<h4 class="anchored" data-anchor-id="section-6-responsibilities-operations-manager">Section 6: Responsibilities: Operations Manager</h4>
+<ol type="A">
+<li><p>Record minutes at each Council and Leadership Team meeting. Distribute minutes to Leadership Team and Council members prior to the next council meeting. Obtain approval of the Council meeting minutes from the Leadership Team, prior to distributing them to the Council as draft minutes. Ensure that approved minutes become generally accessible.</p></li>
+<li><p>Create the Council meeting agenda document for dissemination to Council members during the Leadership meeting with input and assistance from the <strong>Co-Chairs</strong> and Leadership Team.</p></li>
+<li><p>Organize, handle and coordinate SURPAS documents, including a record of Council meeting attendance. Refer to the Bylaws at elections. Schedule rooms and/or zoom meetings for Leadership Team and Council meetings. Handle letters of appointment and welcome packet for new members of the Council and Leadership Team. These letters shall be signed by <strong>Operations Manager</strong> and <strong>Co-Chairs</strong> and can be sent electronically.</p></li>
+<li><p>Ensure that voting is accessible to all council members (ie. all members have access to a phone or a computer if voting electronically or ballots, and writing utensils if voting by paper</p></li>
+<li><p>Tabulate votes and report voting totals to the <strong>Co-Chairs</strong> and ensure that the <strong>Co-Chairs</strong> report voting results during the meeting in which voting took place.</p></li>
+<li><p>Work jointly with the <strong>Advocacy Coordinator</strong> to lead short orientations for new council members at least quarterly. This includes providing new members with the welcome packet and providing new members with avenues to volunteer their time as Council members.</p></li>
+<li><p>Ensure that information from Council meetings is communicated to all Postdoctoral Scholars. This includes, but is not limited to providing the Social Media and Web Manager with documents to post on the website and sending approved minutes by email to the listserv.</p></li>
+<li><p>Review and update Bylaws in consultation with the Leadership Team annually in December or January (<a href="#article-vii-review-and-conflict-resolution">Article VII Section 4A</a>).</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-7-responsibilities-social-media-and-web-manager" class="level4">
+<h4 class="anchored" data-anchor-id="section-7-responsibilities-social-media-and-web-manager">Section 7: Responsibilities: Social Media and Web Manager</h4>
+<ol type="A">
+<li><p>Manage outgoing communications from the Leadership Team, specifically through the SURPAS social media accounts and website.</p></li>
+<li><p>Communicate information, events, and news related to the activities of the Council and SURPAS, in concordance with the <strong>Communications Manager</strong>. (See <a href="#article-viii-external-communications">Article VIII, Section 4</a> for additional details)</p></li>
+<li><p>Maintain the SURPAS website. To this end, the Social Media and Web Manager will update the Leadership Team and Council members’ contact information and member profiles, maintain an agenda of activities, post important documents and photographs of events and keep the website up-to-date by adding new information and removing dated information.</p></li>
+<li><p>The Social Media and Web Manager will also pay the website renewal fee and request reimbursement from the <strong>Treasurer/Financial Officer</strong>.</p></li>
+<li><p>Update and maintain the SURPAS website and social media accounts (including Facebook, Twitter, Instagram, etc.).</p></li>
+<li><p>Coordinate event listings and advertising with the <strong>Events Coordinator</strong> and <strong>Communications Manager</strong>.</p></li>
+<li><p>It is the responsibility of the <strong>Social Media and Web Manager</strong>, <strong>Communications Manager</strong>, and the <strong>Co-Chairs</strong> to ensure that all Stanford postdocs are informed of any important current affairs relevant to postdoctoral scholars at Stanford.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-8-responsibilities-communications-manager" class="level4">
+<h4 class="anchored" data-anchor-id="section-8-responsibilities-communications-manager">Section 8: Responsibilities: Communications Manager</h4>
+<ol type="A">
+<li><p>Manage the outgoing communications of the Leadership Team, specifically through email. The Leadership Team will communicate to the postdoctoral community from a centralized mailing account (surpas-announcements@lists.stanford.edu). All active leadership team members will receive access to this account. Outgoing mail will be signed on behalf of the leadership team as “SURPAS”.</p></li>
+<li><p>Communicate to the public, in concordance with the <strong>Social Media and Web Manager</strong>, information, events, and news related to the activities of the Council and SURPAS. (See <a href="#article-viii-external-communications">Article VIII, Section 4</a> for additional details)</p></li>
+<li><p>Coordinate event listings and advertising (including printing and posting banners, flyers, etc. and electronic communications) with the <strong>Events Coordinator</strong> and <strong>Social Media and Web Manager</strong>.</p></li>
+<li><p>Oversee all official outgoing email communications of the Leadership Team and the Council by managing the common email account and the email lists of SURPAS. Management entails ensuring timely and accurate replies to incoming emails by notifying responsible officers or via a meeting agenda item. The Communications Officer may reply in order to acknowledge the incoming email was received.</p></li>
+<li><p>It is the responsibility of the Communications Manager, Social Media and Web Manager, and the <strong>Co-Chairs</strong> to ensure that all Stanford postdocs are up to date with any important current affairs relevant to postdoctoral scholars at Stanford.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-9-community-engagement-liaison" class="level4">
+<h4 class="anchored" data-anchor-id="section-9-community-engagement-liaison">Section 9: Community Engagement Liaison</h4>
+<p>Note: This position is being created on a temporary basis and will be evaluated at 6 months and following the first 1 year appointment to determine whether it should be renewed going forward. (created 2019 session)</p>
+<ol type="A">
+<li><p>Postdocs interested in obtaining SURPAS sponsorship for an event will work with the <strong>Community Engagement Liaison</strong> to help them meet all applicable rules and regulations.</p></li>
+<li><p>Be informed regarding SURPAS and Stanford policies regarding on campus events and update Council of any relevant changes or new policies.</p></li>
+<li><p>Coordinate the development of yearly SURPAS policies regarding Committee oversight and oversee an annual meeting of Committee representatives to discuss these and Stanford policies.</p></li>
+<li><p>Serve as the official representative of SURPAS to other postdoc groups as well as postdocs at large regarding SURPAS policies.</p></li>
+<li><p>Serve as the official SURPAS representative to the OSE and ASSU.</p></li>
+<li><p>Work with the <strong>Events Coordinator</strong> to optimize logistics for SURPAS sponsored events.</p></li>
+<li><p>Coordinate information exchange between Postdoc Representative Seats, the Leadership Team, and Council.</p></li>
+<li><p>Work with the Leadership team and Council to develop policies for postdoc community outreach.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-10-term-expiration" class="level4">
+<h4 class="anchored" data-anchor-id="section-10-term-expiration">Section 10: Term Expiration</h4>
+<ol type="A">
+<li><p>Appointments to the Leadership Team are for one year, confirmed by a letter of appointment.</p></li>
+<li><p>A position in the Executive Branch of SURPAS shall become vacant upon resignation or disqualification. A member of the Executive Branch can resign by submission to the Council of a written statement of resignation. Any member of the Council may call for a vote of disqualification from the Council or Leadership Team and this must be seconded by a member of Leadership. The individual will be notified of the call for disqualification and the vote will occur at the next earliest Council meeting. Disqualification would occur with a two-thirds vote by Council.</p></li>
+<li><p>No Council member can hold more than one Leadership position simultaneously; officers who are nominated and run for a second position on the Leadership team must resign from their previous position immediately upon election.</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="article-iv-guidelines-for-committee-meetings" class="level3">
+<h3 class="anchored" data-anchor-id="article-iv-guidelines-for-committee-meetings">Article IV: Guidelines for Committee Meetings</h3>
+<section id="section-1-general" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-general">Section 1: General</h4>
+<p>For the purpose of this section, Committee refers to Committees as well as the Leadership Team. Committees shall assign a chair or co-chairs and an <strong>Operations Manager</strong> (as needed) from among their members.</p>
+<ol type="A">
+<li><p>Committee members may meet in Committee meetings whenever needed.</p>
+<ol type="1">
+<li><p>Committee meetings are led by the designated chair(s) who determine(s) the agenda upon gathering input from all members. The agenda with accompanying documentation shall be distributed prior to the meeting.</p></li>
+<li><p>The co-chairs or operations manager shall take notes during the meeting, and distribute the draft minutes within seven days after the meeting among the members. All members shall provide their feedback, and the final version shall be voted during the next meeting.</p></li>
+<li><p>Meetings can take place in person or via web-based communication platforms (Eg: Skype/zoom) and can be rescheduled when multiple Committee members indicate in advance that they cannot attend. It is recommended that Committees meet in preparation of Council meetings.</p></li>
+</ol></li>
+<li><p>Decisions taken at Committee meetings are based on consensus and must be supported by all active members present.</p>
+<ol type="1">
+<li><p>If opposing views exist the Committee is advised to defer the decision and look for a solution backed by all.</p></li>
+<li><p>If no resolution can be reached among members, committees can appeal to SURPAS Council or Leadership for advice and resolution.</p></li>
+</ol></li>
+<li><p>Decisions are preferably taken during face-to-face meetings, either in person or via a web-based communication platform (Skype, Webex, Zoom, etc.).</p>
+<ol type="1">
+<li><p>If rapid action is required and a face-to-face meeting is not possible, the responsible member shall notify each member prior to action.</p></li>
+<li><p>Committee members may vote per email, with regards to Committee decisions.</p></li>
+<li><p>Committee members may vote per web tool, with regards to Committee decisions.</p></li>
+<li><p>All active Committee members have one vote each.</p></li>
+<li><p>Committee members cannot vote on behalf of absent members.</p></li>
+</ol></li>
+<li><p>Committees may defer the rules stated in <a href="#article-iv-guidelines-for-committee-meetings">Article IV Section 1B</a> and <a href="#article-iv-guidelines-for-committee-meetings">Article IV Section 1C</a> in extreme cases, such as prolonged leave of absence (<a href="#article-ii-legislative-branch">Article II, Section 9</a>). Should this occur, outward communication will state that the decision was not unanimous, the minutes will explain the extraordinary situation, and the reason shall be shared with all active Committee members. Moreover an active solution must be sought (<a href="#article-iv-guidelines-for-committee-meetings">Article IV Section 1B2</a>).</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="article-v-elections" class="level3">
+<h3 class="anchored" data-anchor-id="article-v-elections">Article V: Elections</h3>
+<section id="section-1-general-1" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-general-1">Section 1: General</h4>
+<ol type="A">
+<li><p>SURPAS holds Council and Officer elections.</p></li>
+<li><p>Council elections shall occur when there are vacant Council seats. Officer elections shall occur in January for one of the two <strong>Co-Chair</strong> positions and the <strong>Community Engagement Liaison</strong> and June/July for the other <strong>Co-Chair</strong> position and rest of the Leadership Team. The positions will be effective by February or August of the same year depending on when the election occurred. All elections shall be held during a regular Council meeting.</p></li>
+<li><p>In the case that an officer position becomes vacant mid-term, elections for that position shall be called within one month to create an interim officer.</p></li>
+<li><p>The positions shall be advertised to all SURPAS members and then selected by majority vote of the Council at an advertised Council meeting. All posts will be held for one year. Council members and officers may run for consecutive terms.</p></li>
+<li><p>The <strong>Co-Chairs</strong> shall present the election results to the Council, SURPAS, and Office of Postdoctoral Affairs.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-2-campaign-regulations" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-campaign-regulations">Section 2: Campaign Regulations</h4>
+<ol type="A">
+<li><p>Postdoctoral Scholars who are interested in running for a Council position shall notify the <strong>Co-Chairs</strong> or the <strong>Operations Manager</strong>.</p></li>
+<li><p>Eligible Postdoctoral Scholars shall have attended at least one prior Council meetings.</p></li>
+<li><p>Council members interested in running for an officer position shall notify the <strong>Co-Chairs</strong> or the <strong>Operations Manager</strong>.</p></li>
+<li><p>Candidates shall submit a written statement to the <strong>Co-Chairs</strong> so that it can be shared with the Council members and Leadership Team prior to voting.</p></li>
+<li><p>The <strong>Co-Chairs</strong> shall share the names of candidates with the Council prior to elections.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-3-voting" class="level4">
+<h4 class="anchored" data-anchor-id="section-3-voting">Section 3: Voting</h4>
+<ol type="A">
+<li><p>Voting shall occur only at Council meetings, where each Council member present shall carry one vote. Results depend on a majority and the rules of quorum.</p></li>
+<li><p>In the case of a tie, elections are adjourned and the Council shall call for runoff elections.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-4-invalidation-of-election-results" class="level4">
+<h4 class="anchored" data-anchor-id="section-4-invalidation-of-election-results">Section 4: Invalidation of Election Results</h4>
+<p>The Council shall have power to invalidate the results of an election if the election was not done in accordance with the Bylaws.</p>
+<hr>
+</section>
+</section>
+<section id="article-vi-finances" class="level3">
+<h3 class="anchored" data-anchor-id="article-vi-finances">Article VI: Finances</h3>
+<section id="section-1-general-2" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-general-2">Section 1: General</h4>
+<ol type="A">
+<li><p>The <strong>Treasurer/Financial Officer</strong> shall maintain all financial records and distribute the budget proposal and budget among the Leadership Team and the Council (<a href="#article-iii-executive-branch">Article III Section 6B</a>).</p></li>
+<li><p>Any Council member may request insight into financial documentation by approaching the <strong>Co-Chairs</strong> or <strong>Treasurer/Financial Officer</strong>.</p></li>
+<li><p>The fiscal year of SURPAS shall begin on July 1 and end on June 30.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-2-surpas-operating-budget" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-surpas-operating-budget">Section 2: SURPAS Operating Budget</h4>
+<ol type="A">
+<li><p>No funds shall be expended, encumbered, or otherwise disbursed by SURPAS other than in accordance with the procedures for the authorization of expenditures or investments contained in these Bylaws.</p></li>
+<li><p>All funds expended by SURPAS shall be used for the basic operating expenses of SURPAS, or for programs initiated by and under the control of SURPAS and its agencies (including SPIF and requests from the Office of Postdoctoral Affairs).</p></li>
+<li><p>No funds shall be expended as salaries or wages by any SURPAS member, department or agency.</p></li>
+<li><p>The allocated SURPAS budget may be deposited in an account with the Capitol Group banking services of the Stanford Student Enterprises (SSE), a division of the ASSU or with SURPAS’ PTA, under the authority of the Office of Postdoctoral Affairs.</p></li>
+<li><p>The Associate Dean for Postdoctoral Affairs will serve to oversee the accounts and holds authority to close them in case of financial malfeasance or non-compliance on the part of the Leadership Team or Council. The Associate Dean for Postdoctoral Affairs will facilitate any necessary mediation of disputes or problems regarding this account.</p></li>
+<li><p>Events and activities charged to the SURPAS accounts must comply with University Event Planning and Alcohol Policies as well as other applicable funding policies that pertain to student groups at Stanford, including those on sponsorships, unless a written authorization for a policy exception is received by the <strong>Treasurer/Financial Officer</strong> from the Associate Dean for Postdoctoral Affairs.</p></li>
+<li><p>At the end of the funding period (annually), unspent funds in the account may be carried forward to the next fiscal period upon discussion and approval of the following year’s budget proposal with the Associate Dean for Postdoctoral Affairs, with the exception of funds designated to sponsor major events, which must be returned to the sponsors if unspent.</p></li>
+<li><p>Any funds specifically deposited in one funding period (e.g., University fiscal year) for an event in a later funding period (e.g., the subsequent University fiscal year) may be automatically rolled-over. The <strong>Treasurer/Financial Officer</strong> will confirm the roll-over ahead of time.</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="article-vii-review-and-conflict-resolution" class="level3">
+<h3 class="anchored" data-anchor-id="article-vii-review-and-conflict-resolution">Article VII: Review and Conflict Resolution</h3>
+<section id="section-1-conflict-resolution" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-conflict-resolution">Section 1: Conflict Resolution</h4>
+<ol type="A">
+<li><p>It is the policy of SURPAS to provide Postdoctoral Scholars with an opportunity to resolve disputes in a fair and collegial manner. These guidelines establish a formal process for SURPAS members, including council members and officers, to request, review and redress certain disputes arising out of their relationships within SURPAS. This section does not deal with conflict between Postdoctoral Scholars and their PIs or colleagues.</p></li>
+<li><p>Conflicts that cannot be resolved at local level should be brought to the attention of the <strong>Co-Chairs</strong>. The <strong>Co-Chairs</strong> will listen to the complaints and hear everyone involved. They should attempt to achieve a satisfactory solution by referring to these Bylaws. The <strong>Co-Chairs</strong> may seek advice from the Associate Dean for Postdoctoral Affairs.</p></li>
+<li><p>For disagreements that remain unresolved after the <strong>Co-Chairs</strong> are consulted, a grievance process will be initiated when the SURPAS member files a written grievance with the <strong>Co-Chairs</strong>. The parties in the grievance process shall be the person(s) filing the grievance and the person(s) responsible for the act or omission that gave rise to the grievance.</p></li>
+<li><p>In response to the written grievance, the <strong>Co-Chairs</strong> will seek advice from the Advisory Board. Should the dispute involve the <strong>Co-Chairs</strong>, Council members may approach the Advisory Board directly.</p></li>
+<li><p>The advice from the Advisory Board will be communicated to the Council¸ which will formally decide how to implement the advice.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-2-advisory-board" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-advisory-board">Section 2: Advisory Board</h4>
+<ol type="A">
+<li><p>The purpose of the Advisory Board is to provide advice to the <strong>Co-Chairs</strong> and Council and thereby help them navigate through unforeseen situations which are not adequately covered by these Bylaws.</p></li>
+<li><p>Membership &amp; Member Qualifications:</p>
+<ol type="1">
+<li><p>The Advisory Board shall consist of three members, ideally:</p>
+<ol type="i">
+<li><p>The Associate Dean for Postdoctoral Affairs</p></li>
+<li><p>The Senior Associate Dean of Graduate Education and Postdoctoral Affairs (School of Medicine)</p></li>
+<li><p>The Vice Provost for Graduate Education.</p></li>
+</ol></li>
+<li><p>Membership shall be recruited from Stanford staff and faculty, who are impartial to Postdoctoral Scholars.</p></li>
+<li><p>The <strong>Co-Chairs</strong> of the Council organize the invitations to serve on the Advisory Board if they cannot be filled from the three positions listed above. Nominations will be discussed with and approved by the Council.</p></li>
+<li><p>Advisory Board members agree to serve for two years, open to renewal.</p></li>
+<li><p>Advisory Board membership is a volunteer role without compensation.</p></li>
+<li><p>Advisory board members shall notify the <strong>Co-Chairs</strong> when they are no longer able to execute their functions, whereupon the <strong>Co-Chairs</strong> shall seek replacements.</p></li>
+<li><p>Advisory Board members shall have experience with postdoctoral affairs, conflict resolution, or rules of conduct.</p></li>
+</ol></li>
+<li><p>Operation:</p>
+<ol type="1">
+<li><p>The <strong>Co-Chairs</strong> of the Council will approach the Advisory Board with a written statement of grievance filed by the complainant, as well as a written account of attempts at reconciliation. The Board shall review the conflict and issue advice on future actions. Review may include meeting with the Postdoctoral Scholars involved, or soliciting feedback. The advice shall be two-fold:</p>
+<ol type="i">
+<li><p>Advice aimed at helping the Council resolve the current conflict.</p></li>
+<li><p>Advice aimed at preventing similar grievance from occurring again.</p></li>
+</ol></li>
+<li><p>The Advisory Board is free to decide its mode of operation, but will communicate a timeline to the <strong>Co-Chairs</strong> upon receipt of the request.</p></li>
+<li><p>The <strong>Co-Chairs</strong> will provide an annual update of affairs to the Advisory Board. SURPAS Bylaws 16</p></li>
+</ol></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-3-the-untimely-removal-of-an-appointed-officer" class="level4">
+<h4 class="anchored" data-anchor-id="section-3-the-untimely-removal-of-an-appointed-officer">Section 3: The Untimely Removal of an Appointed Officer</h4>
+<ol type="A">
+<li><p>For the purpose of this guideline, an “appointed officer” shall be taken to mean any position whose occupant must be approved by the Council.</p></li>
+<li><p>Appointed Officers can be removed by the Council for failure to execute their responsibilities. Any individual or Committee subject to possible disciplinary action by the Council must be given written notice of the intended action at least 72 hours before the meeting at which the disciplinary action would be approved, so that they are allowed to speak in defense at the meeting. The council will vote by 2/3 majority.</p></li>
+</ol>
+<p>–</p>
+</section>
+<section id="section-4-review" class="level4">
+<h4 class="anchored" data-anchor-id="section-4-review">Section 4: Review</h4>
+<ol type="A">
+<li><p>The Council shall review these Bylaws annually in December and/or January (or as needed) under direction of the <strong>Operations Manager</strong> (<a href="#article-iii-executive-branch">Article III Section 6E</a>) and Leadership Team or as an ad hoc committee.</p></li>
+<li><p>The portion of the SURPAS policies that affect the Council may be adopted, amended, or repealed by a 2/3 vote of the Council. Association policies not affecting the Council may be adopted, amended, or repealed by a majority vote of the Council, provided that consultation with the governing body of the affected SURPAS entity has occurred.</p></li>
+<li><p>Proposed changes to these Bylaws can be made at any time following discussion at a regularly scheduled Council meeting, and should be submitted in writing to the <strong>Co-Chairs</strong> and presented for discussion at the next scheduled Council meeting.</p></li>
+<li><p>Proposed changes must be submitted to the Council at least two weeks in advance to the Council meeting at which the vote shall occur, to allow for ample time for review.</p></li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="article-viii-external-communications" class="level3">
+<h3 class="anchored" data-anchor-id="article-viii-external-communications">Article VIII: External Communications</h3>
+<section id="section-1-announcements-on-behalf-of-council" class="level4">
+<h4 class="anchored" data-anchor-id="section-1-announcements-on-behalf-of-council">Section 1: Announcements on behalf of Council</h4>
+<p>In the event that a council member(s) wishes to make a statement on behalf of the Council, the member(s) should present the written statement to the Leadership Team. If the Leadership Team reaches consensus that the statement reflects the spirit and/or goals of the Council, they will share the statement with the Council prior to the next meeting. Council will then vote to approve the release of the statement to the Postdoctoral community, passed by simple majority. If the statement requires expedience (cannot or should not wait until the next Council meeting), the Leadership may distribute the statement to the Council electronically with a deadline of at least 24 hours for approval. The statement may be released once a majority of Council members approve.</p>
+<p>–</p>
+</section>
+<section id="section-2-communication-with-the-media" class="level4">
+<h4 class="anchored" data-anchor-id="section-2-communication-with-the-media">Section 2: Communication with the Media</h4>
+<p>In the event that a Council member(s) are contacted by a member(s) of the media external to the University (journalists, bloggers, etc…) to solicit opinions, it is highly recommended that the member consult with the Office of Postdoctoral Affairs and/or the Office of the Vice Provost for Graduate Education about how to respond. Stanford does not set limitations for interactions with the media. However, Council members are advised to think carefully about the experiences they can speak to and to critically interrogate the motivations of those seeking comment. Any statement made must clearly be the opinion of the individual Council member(s) and not as Council or SURPAS or the Stanford postdoctoral community as a whole without prior approval and consent (as outlined in <a href="#article-viii-external-communications">Article VIII Section 1</a>).</p>
+<p>–</p>
+</section>
+<section id="section-3-interactions-with-other-postdoc-groups" class="level4">
+<h4 class="anchored" data-anchor-id="section-3-interactions-with-other-postdoc-groups">Section 3: Interactions with other Postdoc Groups</h4>
+<p>The Office of Student Engagement (OSE) at Stanford University recognizes SURPAS as the only official postdoctoral organization; however, SURPAS recognizes and works with any other group whose goal is to represent the diverse identities and interests of postdoctoral scholars at Stanford.</p>
+<p>–</p>
+</section>
+<section id="section-4-communications-during-the-fall-and-winter-holidays" class="level4">
+<h4 class="anchored" data-anchor-id="section-4-communications-during-the-fall-and-winter-holidays">Section 4: Communications during the Fall and Winter Holidays</h4>
+<p>Thanksgiving is a national holiday that is celebrated widely, most times without thought about the historical context. SURPAS, however, should be thoughtful about what Thanksgiving means both for Indigenous people and traditional family gatherings when messaging around this time. This could be an important opportunity for education about colonial violence and the centering of Indigenous heritage and sovereignty. Similarly, Winter brings a variety of holidays, each unique to their religion of origin and each celebrated by some and not others. Messaging around the Winter Holidays should be done with this in mind.</p>
+</section>
+</section>
+<section id="appendices" class="level3">
+<h3 class="anchored" data-anchor-id="appendices">Appendices</h3>
+<p><strong>Leadership Guide(s) Events Planning Guide</strong></p>
+<p><strong>Important University Contacts</strong></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./biblio.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Bibliography</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./appendixb.html" class="pagination-link">
+        <span class="nav-page-text">Appendix B</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+</body></html>

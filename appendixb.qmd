@@ -1,0 +1,151 @@
+---
+title: "Appendix B"
+---
+
+## How to Run a Long Range Planning Focus Group
+
+### Template Document for Focus Group Facilitation
+
+*Document filename: “FocusGroup_FACILITATION_template.doc”*
+
+*Document content:*
+
+**2021 “Vision 2030 for Postdocs”**
+**LRP Focus Group Facilitation Outline**
+
+Items in this document:
+
+A.  Focus Group Running Sheet
+
+B.  Post Focus Group Follow-up
+
+#### A. Focus Group Running Sheet:
+
+1.  Welcome participants
+    
+    a.  Facilitator & Note-taker introduce themselves (1 min)
+
+    b.  Read Acknowledgement Statement (1 min)
+
+> “I would like to begin by acknowledging that we meet today on the ancestral and unceded land of the Muwekma Ohlone Tribe. This land was and continues to be of great importance to the Ohlone people. As an uninvited guest on these lands, I am a beneficiary of the ongoing displacement of the Ohlone people. I pay my respects to the Native peoples, past and present. I would like to acknowledge the suffering and resilience of all people whose lives and livelihoods were stolen by those with power, including but not limited to the millions of enslaved African American people. The devastating effects of these injustices continue to be felt today. I would like to acknowledge everyone who has a lived experience of oppression, be it racism or sexism, classism or ableism, transphobia or homophobia, or any other form of oppression. To ignore oppression is to assent to oppression. I appreciate and respect the knowledge and personal experiences of everyone gathered here and I thank you for choosing to share your time and energy to be here today.”
+
+    c.  Run through mission of Long-Range Planning Committee (3 min)
+
+> SURPAS is engaging in a long range planning process to build a shared collective vision of the future of postdocs at Stanford. During this collaborative process, we are seeking participation and feedback from all interested postdocs as we formalize the expectations, hopes, and goals regarding life as a postdoc. This will be a community-oriented, bottom-up process to assess the broad vision and strategic goals of the postdoc community and provide clear communication of these to all postdocs now and into the future, as well as to other stakeholders. After synthesizing the feedback from our community, the Long Range Planning Committee will produce a publically accessible report detailing the positive aspects of being a postdoc at Stanford as well as where we would like to see change. This report will serve as a vehicle to coordinate advocacy for postdocs through time. Many issues brought before SURPAS require sustained advocacy for a number of years to bring about change. The long range planning process is a means of detailing what work postdocs believe need to be done, providing recommendations for how to achieve change, and setting mile markers that future postdocs can use in their advocacy efforts.
+
+    d.  Run through goals of consultation process (3 min)
+
+> We already have quite a lot of quantitative data from past surveys and past reports but what we are looking for through these consultations is:
+    * Getting qualitative feedback from current postdocs, including stories and personal experiences.
+    * Gain more detailed, descriptive background to the quantitative data.
+    * Crowdsourcing ideas for future efforts by SURPAS.
+
+    e.  Run through our Consultation Principles (3 min)
+> Consultation Principles (what we are aiming for in our consultations):
+    * Open and accessible to all postdocs
+    * Transparent process
+    * All ideas welcome and encouraged
+    * Respectful space
+    * Promote thinking in the longer-term (i.e. beyond one’s own time as postdoc)
+
+    f.   Ask for permission and start recording Zoom session (1 min)
+> Facilitator and Notetaker (both for redundancy) start recording Zoom session.
+
+2.  Warm-up
+
+    a.  Each participant introduces themselves & shares one way they like to de-stress (2 min each)
+
+3.  Allow opportunity for participants to contribute immediate ideas or thoughts that they might have at the outset of the session (10 min)
+
+    a.  Primary question: **What should the postdoc experience at Stanford look like in 2030?**
+
+4.  If necessary, follow up with more specific questions e.g. 
+
+    a.  What do you expect from your postdoc and how is that changing?
+
+    b.  What role does a postdoc fill in academia and where is that heading?
+
+    c.  What has been good about your postdoc?
+
+    d.  What would you change about your postdoc if you could?
+
+    e.  What opportunities do you wish you had?
+
+    f.  What challenges have you faced that you hope future postdocs will not have to face?
+
+5.  To get more ideas flowing, try using these brainstorming prompts:
+
+    a.  What would you change if you had $1B to spend on postdocs?
+
+    b.  What would you change if you had no money to spend?
+
+    c.  What is the worst idea in the world of how things should change?
+
+    d.  Now make that worst idea into a good idea.
+
+6.  If the conversation has gone negative, try to bring it back to some positivity before the end by inviting participants to reflect on what are aspects of the postdoc experience that they would not change
+
+    a.  Pathways to get to the future (focusing on empowerment)
+
+7.  Conclude by thanking everyone for their time and participation and inform the instruction to get drink reimbursement.
+    
+    a.  Copy-and-paste into chat: 
+        
+        i.  link to GrantEd system to get meal reimbursement (with receipt) for $15
+        
+        ii.  link to written survey
+
+--
+
+#### B. Post-Session follow-up:
+
+* *Write executive summary*
+    
+    Immediately following the session, both Facilitator and Notetaker please write 2-3 sentences at the top of the Notes document that provide an executive summary of the session, highlighting the major themes/discussion points from that session.
+
+* *Email the participants to thank them*
+
+    Facilitator to send follow-up email to all participants the day after session! This email should include: 
+        * thank you again, 
+        * GrantEd system details for reimbursement, 
+        * link to written survey for additional comments, and 
+        * request for them to forward the link to their lab mates.
+
+* *Put notes into shared folder*
+
+    Notetaker please deposit notes document and session recording into shared SURPAS folder: 
+
+    *SURPAS/Committee Docs/Long Range Planning/LRP_Consultations_NotesRecordings/*
+
+    * Create new folder using naming template: YYYYMMDD_Consultation_FacilitatorInitials
+    
+        E.g. 20210301_Consultation_EB
+
+---
+
+### Template Document for Focus Group Note Taking
+
+*Document filename: “YYYYMMDD_FocusGroup_NOTES_template.doc”*
+
+*Document content:*
+
+**SURPAS LRP - Focus Group**
+
+Date: 
+
+Time: 
+
+Facilitator: 
+
+Note-taker:
+
+Participants: 
+
+**EXECUTIVE SUMMARY** (Please fill out immediately after the session; 2-3 sentences summarizing the main themes discussed.)
+
+...
+
+**SESSION NOTES** (Please fill out as the session is proceeding.)
+
+...
+

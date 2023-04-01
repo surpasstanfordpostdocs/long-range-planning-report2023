@@ -1,0 +1,568 @@
+---
+title: "Ongoing Postdoc Advocacy"
+bibliography: 20230324_SURPAS_Long_Range_Planning_refs_edited.bib
+csl: nature.csl
+
+---
+
+# Ongoing Postdoc Advocacy at Stanford: Surveys and Letters 2021/2022
+
+## Matters Arising from Report Draft (2023)
+*The Long Range Planning Committee sought feedback on the Report as outlined in [Appendix C: Communication Strategy of Report](appendixc.qmd). Postdocs had opportunities to provide feedback through discussion at Council meetings, via asynchronous comments on the draft of the Report, and via personal meetings and emails with Committee members. This feedback was incorporated into the body of the Report at the appropriate locations.*
+
+*The Committee felt that several of these conversations were very important and warranted more extensive inclusion in the Report. Thus, major discussion topics and how the Committee engaged with the community’s feedback are briefly outlined in this section.*
+
+--
+
+### Meta-Analysis of Feedback on Report Draft
+During the feedback period (Feb 9 - Mar 10, 2023), the draft Report (a Google Doc) had 74 unique viewers, and received 173 new comments and 91 replies to comments.
+
+Given the length of the Report (100+ pages), the Committee suggested that any interested postdocs should focus their attention on the Executive Summary and the Recommendations sections. Accordingly, we received the most feedback on the Executive Summary and many comments on the Recommendations section. However, feedback was not limited to these sections; most of the other sections of the Report also received some feedback.
+
+### Postdocs are Valuable to the University & Research Enterprise
+Some commenters felt that the Report had not sufficiently emphasized the critical role that postdocs play within the University and the broader research ecosystem. Whilst the living and working conditions of postdocs as human beings should be treated with the utmost importance, the Committee fully understands that research institutions and organizations will judge the value of postdocs by their work output. Within this framing, it is still highly justifiable for postdocs to be treated with higher value than they currently are.
+
+Postdocs are an indispensable group of researchers who are important to the University and its research output. They play a crucial role in designing, executing, and performing research experiments while also assisting in writing grants, and supervising graduate and undergraduate students. Postdocs are generally the ones that drive research projects leading to high-impact publications and in some cases are also necessary for competing against other research institutions. Overall, without the contribution of postdocs as an essential backbone to academia, there would be serious repercussions to the University’s research output.
+
+### Where are the Numbers to Back This Up?
+A number of commenters requested that the Report should include more detail around particular comments or conclusions that are drawn within the text of the Report. Many of these requests were directed at the Executive Summary (“What are the numbers behind this statement?”) or, less frequently, at specific items in the Recommendations section. 
+
+The Committee took the view that the Executive Summary should be as concise as possible (two pages at maximum) and also cover as many of the findings from the rest of the Report as possible. For the sake of brevity, we have excluded most specific numbers from the Executive Summary. However, as trained academic researchers, we understand the need to back up our claims with solid evidence, be it with citations or the data themselves. In the body of the Report (and in particular the Competitive Landscape section), we strove to include as much detail as was necessary to fully back up any and all claims that we make elsewhere in the Report (including in the Executive Summary). **Wherever possible, we included in the body and appendices of the Report the exact numbers, calculations, raw data, and sources for these data.** The Committee is not faultless and we accept that despite our best efforts there may still be errors within the final version of the Report.
+
+The Committee also accepts that there are more data and sources out there that we did not include in this Report. We welcome the Report being built upon in future through more in-depth investigations into the situation of postdocs (perhaps conducted by non-volunteers). Nevertheless, given the substantial number of sources that we did consult through the Long Range Planning process, we feel confident in both our specific claims and in our general statements about the situation of postdocs, both in the US broadly and at Stanford.
+
+### What is the Specific Salary Ask of the Report?
+The question of “Specifically, what Postdoc Minimum Salary are you proposing? No, really, what is the exact number?” was brought to the Committee by multiple people at different times. The intense interest in postdoc salary is not surprising given the amount of financial stress that postdocs at Stanford live under. We believe that the pervasiveness of this concern has been reflected by the prominent inclusion of this issue in every section of this Report. Indeed, of the 17 different issues that we identified in the Recommendations section of the Report, six of these issues were explicitly about the financial cost of being a postdoc at Stanford. Clearly, this is a critical issue.
+
+However, in this Report, the Committee has refrained from holding up a single number as the overarching conclusion of our work. The reasoning for this decision is largely philosophical: the Long Range Planning Committee was tasked with crafting a vision for the future of postdocs towards the year 2030, not with generating specific salary recommendations for the current fiscal cycle (although such a “postdoc salary committee” could prove to be a valuable support to the efforts of the SURPAS Co-Chairs in advocating for heavily-evidenced and well-justified salary increases with the Provost). We are utterly convinced that postdocs at Stanford are underpaid and should be paid considerably more than they are at present. All of our analyses, both through hard numbers and through a multitude of personal narratives, points to this conclusion. However, any single number that we might advocate for in the present moment (March 2023) will quickly become outdated, and especially so given the recent high levels of inflation. Instead, in an effort to make this Report both more relevant and more useful throughout this next decade, we have sought to unearth useful data and provide new comparisons that could be utilized by current and future postdoc leaders at Stanford to advocate for specific Postdoc Minimum Salaries moving forward.
+
+We hope that the general principles we have outlined (e.g. postdocs should not be required to spend more than 30% of their income on housing) and the types of analyses that we have done in this Report (e.g. the Postdoc Minimum Salary versus the Area Median Income for the local area of the University) provide some guidance and a starting point for future advocacy efforts.
+
+### Should There be a Time Limit for the Postdoc Period?
+Currently, Stanford limits the time that an individual can be a postdoc to 5 years. The suggestion from the Committee in the draft Executive Summary that the postdoc period should not be limited to 5 years (i.e. that the postdoc period should be allowed to extend for longer than 5 years) attracted questioning and pushback from a number of commenters. Several noted that a postdoc is “meant to be” a transitional period within an academic career and it would be undesirable for this transition to extend longer than 5 years (which is already considered by some to be an excessively long period of time). Another commenter stated plainly: 
+
+> “I think if the postdoc period is not limited to 5 years they will be exploited even further.”
+
+The Committee appreciates this feedback and welcomes the pragmatism in these comments. However, we maintain that one aspiration for the future of postdocs should be to remove the 5-year limit, whilst also necessarily addressing the major causes of postdoc suffering.
+
+The Committee’s position rests on a number of understandings:
+
+1. Quality academic research does not often fit within prescribed timelines. A particular project may take longer to complete than 5 years; or, an individual postdoc may take longer than 5 years to collect the requirements for moving into a faculty position within a particular discipline. From the perspective of optimizing for research outcomes (i.e. academia being primarily about knowledge creation), it does not necessarily follow that research time should be artificially limited. From the perspective of optimizing for career satisfaction (given that many researchers find, or at least seek, deeper meaning in their work than just money), it does not necessarily follow that each individual should proceed in their career at the same or similar rates.
+
+2. In reality, many postdocs at Stanford already extend beyond 5 years. Although Stanford does not allow postdocs to extend beyond 5 years, at this point (after 5 years) many postdocs transition into a research staff position, in which they perform *exactly the same job duties* as they did as a postdoc. This begs the question: “How is a postdoc different from a research staff member?”. And “If it is no different, why do postdocs not receive the same salary and benefits as a research staff member?”. One common-sense response is: “Postdocs aim to become faculty, whereas research staff do not.” (Clearly not always true.) This leads to the conclusion that postdocs sacrifice salary and benefits for their *intention* to pursue a faculty position.
+
+3. The research enterprise positions a postdoc as a period of additional training prior to moving into a (tenure-track) faculty position. However, most academic postdocs do not move into faculty positions, so the premise (or promise) of an academic postdoc is false for most.
+
+4. The research enterprise positions a postdoc as a “transitional” period. Given the “transitional nature of a postdoc”, it is apparently acceptable to exploit individuals in this role because the institution does not need to be accountable to them in the longer term. In many careers outside of academia, individuals can stay in positions for far less than 5 years and they are not considered “transitional”. The narrative of “postdocs are transitional" is false and it is a detrimental one for postdocs themselves.
+
+5. The power imbalance between faculty and trainees (postdocs and also graduate students and undergraduates) further exacerbates this issue of exploitation, as does the lack of faculty training in management and mentorship.
+
+6. Undertaking a postdoc at Stanford currently involves significant sacrifice and suffering (in terms of salary, quality of life, mental health, etc.) for most individuals, and substantially more for those individuals from less privileged backgrounds (this is perhaps the greatest barrier to diversifying the postdoc population and thereby the professoriate). Nobody wants or aims to be a postdoc; the aim is to become a tenured professor. The sacrifice of a postdoc only makes sense in this context.
+
+7. In the minds of postdocs, the 5-year time limit is primarily a safeguard for limiting the suffering and sacrifice inherent to undertaking a postdoc.
+
+The key question regarding the postdoc time limit appears to be: **What strategy will lead to less exploitation of postdocs?**
+
+The Committee reasons that the 5-year limit (or any time limit) only makes sense in the context that being a postdoc is unsustainable for individuals in the longer term because of the conditions that we are required to accept. If the conditions of suffering are removed, then there is no good reason to enforce a time limit (which is often not abided by anyway).
+
+In seeking to frame a positive vision of the future of postdocs, we feel we cannot endorse the fundamentally damage-centered, harm-reductionist position of: “Let's accept that postdocs are exploited and just seek to limit the duration of it". Instead, we choose to endorse a positive, desire-centered vision for the future: "**Postdocs are full and valued members of the academic enterprise, and as such they are supported to do great research.**" The requirement that postdocs not be exploited comes as a natural extension of this vision. In this context, the primary justification for the 5-year time limit (at least from the postdoc perspective: as a safeguard against additional suffering) is no longer apparent.
+
+We understand that this position may lead to fewer postdoc positions being available (for instance, due to budgetary limitations: if postdocs are paid more, then fewer postdocs can be afforded by research groups). However, we believe that this will also lead to less suffering in general.
+
+### How to Best Define a Postdoc?
+The question of how to define a postdoc arose in multiple ways. Several commenters asked how universal or unique the definition of a postdoc at Stanford is in comparison with that of other institutions. The Committee addressed this question by including multiple definitions of postdocs from peer institutions as a point of comparison.
+
+Several academic researchers who self-identify as postdocs but are not classified as such by the University reached out to the Committee to describe how they were not included in the original draft of the Report, which used Stanford’s Research Policy Handbook for the definition of a postdoc. The description of visiting scholars and postdocs who transition to staff after the five year time limit was added to account for these researchers.
+
+By far the topic that received the most comments with regards to the definition of a postdoc was the question of whether postdocs should be classified as employees or trainees. One commenter explicitly said postdocs can have pretty substantial benefits by being able to access perks from both student and staff categories while recognizing it as “a double edged sword… leaving you at the mercy of your department and PI in a lot of ways.” Others worried that classification as staff rather than students or trainees would cause postdocs to lose access to training opportunities. One postdoc highlighted that classification as staff would require domestic postdocs to start paying back student loans, adding a major financial burden to postdocs.
+
+In the information gathering efforts of the Committee, we found that the uncertain classification of postdocs usually leads to missed connections in practice. Postdocs tend to be excluded from benefits for either students or staff, rather than being able to access both. As an example, on February 22, 2023 an email was sent to the Stanford community about the university undergoing the once-in-a-decade accreditation process. As part of the process, there was a meeting scheduled for students and postdocs to meet with the accreditation committee. However, postdocs received no communication until they pointed out that administrators had failed to include them in the initial email to the entire campus community. Postdocs are excluded from critical campus communications due to our uncertain status. The definition of Schrodinger’s postdoc - a superposition of student and employee until observation collapses the postdoc into whatever is convenient for the university - resonated with many postdocs.
+
+The Committee takes the position that the opposition between classification as a trainee or an employee is a false dichotomy. Classification of postdocs as employees should not remove access to training opportunities. It is common in many career pathways for workers to be able to take advantage of career development opportunities. Academia is not alone in having on-the-job training and entry level positions. In this Report, postdocs call for various forms of training, including university-wide anti-racist training and management and mentorship training for faculty members. It would be absurd for faculty to lose their status as employees simply for partaking in career development and training opportunities. Assistant Professors receive training on the job before being promoted to Associate Professors, and there is no question of whether they are employees. It is not mutually exclusive to be both a trainee and an employee.
+
+Postdocs lose out on concrete material benefits by not being classified as employees. Postdocs do not receive matched contributions to retirement accounts as is common for workers in many industries. A central principle of compound interest is that even a small principal can grow to large amounts by retirement age for workers by starting early. Postdocs miss out on the potential for matched contributions after already having forwent such plans as graduate students. The difficulty in building assets for the future raises the barrier for people to continue on an academic career track.
+
+Postdocs should not be classified as students. It is hard to reconcile the current classification of postdocs at Stanford as a type of student with our status as holders of terminal degrees. Achieving the vision for the future of postdocs laid out in this Report will necessarily relieve some of the financial pressures postdocs face, lowering the impact of the requirement for postdocs with student loan debt to begin repaying were this student classification to be removed. The Committee added a recommendation for State and National governments to pursue policies to forgive a certain dollar amount of student loan debt for postdocs for every year of work to reduce the impact of student loan debt on the postdoctoral workforce.
+
+A reasonable working definition of a postdoc would be a non-administrative, non-tenure track academic worker with a terminal degree. This definition would include postdocs who have transitioned to staff roles as well as academic workers in non-tenured teaching roles. This more inclusive definition of postdocs would enable easier tracking of statistics about the academic workforce, such as the proportion of work performed at universities by non-tenure track employees and how that compares to historical trends. This definition may also help to address the well-documented disparities in pay based on job title (noted in the Competitive Landscape section of this Report).
+
+### Existing Demographic Data are Inadequate
+Several commenters took issue with the data that we presented on postdoc demographics at Stanford. Specifically, the demographics data included a category for “Sex” (with binarized responses: “Male” or “Female” or “Unknown/Decline to State”) but no data on gender. Additionally, the “Race/Ethnicity Groups” data included an “International/Nonresident” category that the majority of postdocs fit into, with no additional breakdown. Notably, it appears that “International/Nonresident” is mutually exclusive to “Underrepresented Minority” and “Not Underrepresented Minority”.
+
+The Committee did not independently collect demographic data on the postdoc population at Stanford. We obtained these data directly from the Stanford IDEAL Dashboard website (<https://ideal.stanford.edu/data-reports/ideal-dashboards>). We appreciate that the IDEAL initiative has made these data publicly available and we also agree that the type of data collected could be substantially improved. For example, an additional option of “Intersex” could be added to the “Sex” question; an additional question for “Gender” could be added (with multiple inclusive response options); an additional question of “Country of Origin” or “Country of Citizenship” could be added; “Underrepresented Minority” could be clarified as “Underrepresented Minority Within the US”.
+
+### The Question of Postdoc Unionization
+One anonymous commenter expressed dissatisfaction and impatience with the efforts of both the Office of Postdoctoral Affairs and SURPAS in addressing the challenges that postdocs at Stanford face. They raised the idea of postdoc unionization as a more effective path forward.
+
+The SURPAS LRP Committee was not tasked with examining unionization of postdocs and we have not researched or investigated this potential path forward. However, we acknowledge that unionization is one way that postdocs could proceed with collective action in addressing some of the issues highlighted in this Report.
+
+### Covering Basic Needs
+For many postdocs who responded to the Report, the aspects about the difficulty postdocs face meeting basic needs resonated deeply. In written comments and private conversations, postdocs shared with the Committee that reading about the widespread financial difficulties within the postdoctoral population covered in the Report made them feel less alone. When the Committee began the work of the Long Range Planning Report, we expected to focus on topics such as identifying and spreading best practices of mentorship or building community within the postdoctoral population. While these themes are present in the Report, a surprisingly large amount of the data we collected and analyzed dealt with postdocs struggling to meet basic needs. The current status quo of postdoctoral training and career progression is untenable for those with families or who do not come from backgrounds of economic privilege. 
+
+---
+
+## SURPAS Leadership Position Paper on Support for the Underrepresented Postdoc Community (2022)
+
+*This letter was composed by several postdoc leaders. The letter was adopted by the full SURPAS Council at the November 2022 meeting and sent to Dr. Stacey Bent, the Vice Provost for Graduate Education and Postdoc Affairs and Dr. Sofie Kleppner, the Associate Vice Provost and Associate Dean for Postdoctoral Affairs on December 7, 2022.*
+
+--
+
+### Open Letter
+
+***Support for the under-represented minority and under-privileged postdoctoral community***
+
+**Introduction**
+
+**Postdoctoral scholars are central to Stanford’s preeminence, making significant contributions to Stanford’s innovative and creative reputation.** Postdocs fill integral roles in the teaching and research mission of the university. Postdocs work with faculty to formulate and conduct ground-breaking research, write grants, mentor students, publish papers, generate key data for NIH grants, and help lead research groups, as well as volunteer in programs to enrich the postdoc experience. Stanford aims to be an institution that supports postdocs, enabling them to realize their career ambitions and become leaders in the professions of their choosing. However, the reality is that the goals of most Stanford postdocs are often limited due to the challenges of trying to balance the pressures of research and the inability to afford basic human needs. Further, these challenges curtail the potential of some of the most skilled members of the postdoc community and inordinately affects those from traditionally underrepresented identities.
+
+Despite the irreplaceable work performed by postdocs, **they are often not accounted for within the university hierarchy or afforded access to the same resources and structures as students, faculty, and/or staff.** As a result, postdocs are excluded from programs aimed at helping these other groups; without formal cohorts or support networks, they are often isolated and deprived of  a sense of community and belonging. This lack of support disproportionately impacts underrepresented minorities (URM) and other underprivileged current and future postdocs, who are excluded from Stanford through structural biases or bear the burden of the “diversity tax” with few external sources of support.
+
+Below we outline key challenges faced by URM postdocs and potential solutions to ensure their successful training, enabling their transition into their desired career choice. These issues are in line with [Stanford’s long-range vision and commitment to diversity and inclusion](https://ideal.stanford.edu/about/diversity-statement). 
+
+--
+
+#### 1. Affordability
+
+The 2022-2023 minimum stipend for a Stanford postdoc is $68,238. While this is among the highest institution-wide minimums, due to the high local cost of living in the bay area, ~50% of postdocs live below the [Santa Clara County area median income](https://covid19.sccgov.org/sites/g/files/exjcpb766/files/Documents/santa-clara-county-2021-area-median-income-ami-chart.pdf) (published by the U.S Department of Housing and Urban Development as of April 1, 2021). As a result, ~36% of postdocs report experiencing food insecurity and ~10% have considered or will apply for government food stamps (based on [SURPAS-led survey in December 2021](https://docs.google.com/presentation/d/172ayloh8XBbIgW8vi50Iuj9s5wWi4qBVmCfcat5zvCY/edit#slide=id.p)).
+
+[Many graduate students are considering industry jobs](https://www.science.org/content/article/professors-struggle-recruit-postdocs-calls-structural-change-academia-intensify) and those who want to pursue academia would prefer to go to institutions where they can afford to dedicate most of their time to research and less on trying to sustain a living. 
+
+**Progress**
+
+Stanford has made significant efforts by giving postdocs priority at the Oak Creek Apartments.
+However with only 25% discount, these apartments still remain out of the reach of most postdocs.
+
+Stanford has also provided several grants to postdocs:
+
+1. Family Grant (up to $10,000)
+
+2. Childcare Grant (up to $5000)
+
+3. Backup childcare
+
+4. Emergency grant-in-aid (up to $5000)
+
+Stanford has also provided access to the GoPass for the Caltrain, making transportation easily accessible.
+
+**Recommended Action**
+
+**Housing:** Provide ***affordable*** ([30% of post-tax income](https://calhsng.org/resources/affordable-housing-101/what-is-affordable-housing/)) housing on or near campus for postdocs such as below market rates to postdocs who apply to the Stanford-owned housing.
+
+1. Oak Creek
+
+2. Stanford West
+
+3. Cardinals
+
+4. Colonnades
+
+**Moving costs:** Stanford should provide moving costs up to $5000 to incoming postdocs who have demonstrated financial need for moving costs.
+
+Eligibility criteria based on NIH standards:
+
+Individuals from disadvantaged backgrounds are defined as those who meet two or more of the following criteria:
+
+1. Were homeless, as defined by the [McKinney-Vento Definition of Homeless](https://nche.ed.gov/mckinney-vento-definition/) (this act can also be used as a guide for international postdocs).
+
+2. Were eligible for programs like the Federal Free and Reduced Lunch Program.
+
+3. Have no parents or legal guardians who completed a bachelor’s degree.
+
+4. Received support from programs such as the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) as a parent or child.
+
+5. Grew up in one of the following areas: a) a U.S. rural area, as designated by the Health Resources and Services Administration (HRSA), Rural Health Grants Eligibility Analyzer, or b) a Centers for Medicare and Medicaid Services-designated Low-Income and Health Professional Shortage Areas. *International areas that fall under these categories should be considered.*
+
+**Intended Outcome**
+
+Stanford’s research mission is to foster discovery, creativity and innovation and this requires diverse perspectives and experiences which can only be achieved by bringing the best minds together to become part of the Stanford community.
+
+Making Stanford more accessible will support recruitment and mitigate the upfront burden of moving costs, and help realize the promise of making Stanford truly inclusive and equitable.
+
+
+--
+
+#### 2. Diversity in the postdoc population
+
+**Progress** 
+
+Stanford has implemented the PRISM and PROPEL programs however, there is still a screening process by faculty which is subject to [bias](https://link.springer.com/article/10.1007/s11199-019-01052-w).
+
+**Recommended Action**
+
+Provide additional administrative support for the offices of Institutional Equity, Access & Community and for the School of Medicine office for Commission on Justice and Equity.
+
+Develop 1:1 faculty (at all levels) mentoring and coaching programs ([Duke University](https://facultyadvancement.duke.edu/resources/mentoring) has implemented these programs) and implement best practices for hiring developed by the Committee on Diversity, Equity, Inclusion, and Belonging in the [Stanford Department of Biology](https://docs.google.com/document/d/1VV_OTXIgUdxoHqxxaKquLyZ3h1TQLy_A-VTeMlEyy5o/edit) as part of the 1:1 training.
+
+Provide financial incentives for faculty to complete the annual individual development plan (IDP) with their postdocs. 
+
+Collect data to quantify whether URMs and under-privileged postdocs are:
+
+1. not applying for postdocs at Stanford, 
+
+2. not getting interviews, 
+
+3. not getting offers, or 
+
+4. getting offers and choosing not to come
+
+5. leaving Stanford early. 
+
+Have faculty submit open positions to the Office of Postdoctoral Affairs (OPA).
+
+OPA should advertise positions more widely and in HBCUs by establishing a diversity recruitment committee, similar to the [Graduate Medical Education diversity recruitment program](https://med.stanford.edu/odme/residents-and-fellows/recruitment.html).
+
+Encourage faculty to work with the new Director of HBCU Partnerships and Engagement, [Dr. Judith Ned](https://profiles.stanford.edu/judith-ned).
+
+**Intended Outcome**
+
+These efforts will increase diversity and achieve the goal of equity and inclusion at Stanford.
+
+The 1:1 mentoring and coaching programs and financial incentives will also allow faculty to glimpse the backgrounds of their postdocs, inspire understanding and be more invested in the success of their postdocs.
+
+The data collected on URM and under-privileged postdocs will inform on how best to increase diversity at Stanford.
+
+
+--
+
+#### 3. Sense of community and belonging
+
+URM postdocs do much of the work advancing diversity and inclusion and are expected to be as scientifically productive as their colleagues without DEI concerns/efforts and deserve compensation for this work as well.
+
+**Recommended Action**
+
+Hire dedicated staff to help with the programs implemented for creating community and sense of belonging for URM postdocs to alleviate the diversity tax burden on URM postdocs. 
+Examples of current programs include:
+
+1. Someone Like Me (postdoc and graduate student mentoring)
+
+2. Someone Like Me (faculty and postdoc mentoring)
+
+3. Better Ally
+
+4. Just Like You 
+
+5. Pro
+
+Ensure that postdocs who serve on DEI committees are compensated. One possibility is to have a University-wide DEI fund that departments (or even the committees directly) can apply for to compensate for service.
+
+**Intended Outcome**
+
+These efforts will reduce the burden of the “[diversity tax](https://www.nature.com/articles/s41559-019-0911-5)” on URM postdocs.
+
+Dedicated staff will help create a mechanism for postdoc groups to work with existing department administrators and would expand the reach and impact of URM groups.
+
+The financial compensation goes a long way to recognize the hard work being done by those engaged in DEI and will provide encouragement to continue to engage in these activities.
+
+
+--
+
+#### 4. Formal structure to address bias, discrimination, and/or microaggressions
+
+The issues that postdocs face, such as the pressures of their research and being productive, evidenced by publications and obtaining grants, the uncertainty of being able to attain their preferred career trajectory, are compounded by financial stress, lack of feeling included and equal to their non-URM colleagues at Stanford, and bias and discriminatory experiences, creates a significant amount of mental stress. This is compounded by the lack of diverse therapists and mental health workers at Stanford. 
+
+**Progress**
+
+Stanford has taken measures to institute [Meru](https://postdocbenefits.stanford.edu/home/my-benefits/medical-coverage/mental-health-resources/meru-health), a free mental health program for postdocs.
+
+**Recommended Action**
+
+Establish a resource (see [UCSF program](https://restorativejustice.ucsf.edu)) to mediate relationships between mentor and mentee - formally requesting a meeting between the faculty member, postdoc and an objective mediator to facilitate a positive resolution. This provision should be made available for all postdocs.
+
+Actively provide support for postdocs who have reported bias, discrimination and/or microaggressions such as follow-up meetings with the postdoc and faculty mentor to ensure that a successful resolution has been achieved.
+
+Provide diverse and accessible mental health and wellness therapists. Meru does not include face-to-face interactions with the therapist and the program does not guarantee requests for a therapist with a specific background or identity which is important for mental health.
+
+**Intended Outcome**
+This will instill confidence that the University cares about these issues and provide a sense of belonging to the postdoc while at the same time educating the faculty member who may or may not realize the implications of their actions and will have the opportunity to listen and learn from the perspectives of their postdoc.
+
+Helping the minority populations by providing mental health resources will help the larger Stanford population.
+
+--
+
+### Conclusion
+
+Stanford postdocs are represented by people from diverse backgrounds. The achievement of this diverse community, however, comes at a great cost, especially to those that do not come from privileged financial backgrounds. Addressing these issues, which are key to the success of postdocs, is a great opportunity for Stanford to demonstrate its commitment to equity, inclusivity, and diversity. 
+
+Sincerely,
+
+Stanford University Postdoctoral Association (SURPAS)
+
+Chinyere Iweka and Julia Abitbol (SURPAS Co-Chairs)
+
+Seungsoo Kim and Michael Lawson (SURPAS JEDI committee co-chairs)
+
+Aravind Natarajan (Postdoc representative to the Stanford SOM DEI Cabinet) 
+
+Azeezat Azeez (former SBPA co-chair)
+
+**Signed by the following groups in solidarity:**
+
+Stanford Latinx Postdoctoral Association (SLPA)
+
+Stanford LGBTQ+ Postdoctoral Association
+
+Stanford Black Postdoctoral Association (SBPA) 
+
+Stanford Chinese Postdoctoral Association (SCPA)
+
+--
+
+### Background information
+
+#### High cost of living combined with low income
+
+Housing is the main component of cost of living: ~47% of postdocs spend >$2000/month on housing. Furthermore, 25.3% of postdocs share housing with roommates, however, this is not an option for all postdocs (e.g. those with families). Many Stanford postdocs cannot afford to live near campus due to high rents and childcare costs, and some live as far as San Jose, Santa Cruz and the East Bay. Cost is a major factor for many top URM candidates who decide to pursue their training elsewhere (based on discussions with candidates from the PRISM program; no data on declined postdoc offers exist). The high cost of rent, plus moving costs and security deposit, is particularly burdensome in the first weeks of a postdoc position, before the first stipend payment. Indeed, a recent survey administered by the Stanford Latinx Postdoc Association (SLPA) showed that [~66% of incoming Latinx postdocs spend >$3000 on moving costs alone](https://slpa.github.io/survey2022/index.html#Q6_Q7).
+
+Stanford has taken steps to mitigate housing issues for postdocs, including temporarily opening graduate housing to postdocs by lottery during the COVID-19 pandemic, a pilot program to offer transitional housing for incoming postdocs, and the first priority now being given to postdocs at the newly acquired Oak Creek Apartments (but at 25% discounted rate, housing will still be a challenge for low-income background postdocs). However, due to the high enrollment of undergraduate students for the 2022/23 academic year, the lottery system is no longer available to postdocs - they were asked to vacate all student housing by August 14th, 2022, less than a month’s notice of the lottery being discontinued. Even while open, graduate housing was competitive as postdocs were last priority, and even those who did obtain housing faced the uncertainty of having to move or losing it each year if they were not selected in the annual lottery. This instability was particularly challenging for postdocs with disabilities and with children. In this manner, Stanford perpetuates systemic inequity and continues to remain  an exclusive institution for the privileged.
+
+#### Lack of diversity in postdoc population
+
+URM postdocs make up only 6% of the Stanford postdoc population–in contrast to over 30% of Stanford undergraduates and 15% of Stanford graduate students (~27% graduate students in basic sciences; [IDEAL 2021-22](https://ideal.stanford.edu/resources/ideal-dashboards)). One particular limitation to increasing diversity among postdocs is the **decentralized nature of postdoc hiring**. The first step of postdoc hiring is typically an unsolicited email to a faculty member, at least in biomedical sciences. Usually, this is the most selective and potentially biased part of the process, as many faculty cannot carefully consider all emails and instead screen for factors such as PhD training in well-known institutions or labs (where URMs are often especially underrepresented). Furthermore, the lack of data on postdoc hiring makes it impossible to determine the extent of bias in this and other stages of postdoc hiring.
+
+The University has taken important steps to increase diversity within the postdoc community, namely the PRISM-Baker program. This program aims to support URM postdoc candidates, from funding the travel costs of interviewing, through one or more years of postdoc funding and community-building. However, candidates are prescreened by faculty and the aforementioned biases limit the pool of URM postdoc candidates.
+
+Many URM considering a postdoc at Stanford are faced with added financial burdens and thus may often choose not to pursue a postdoc at all. While Stanford does offer support to those in financial need (through [emergency grants](https://postdocs.stanford.edu/emergency-grant-aid) and has recently expanded support for those with children by raising the maximum [family grant](https://postdocs.stanford.edu/2022-2023-family-grant-program) to $10,000/year, as well as the childcare grant), this funding may not be known to potential candidates and applying also comes with the burden and stigma of applying and justifying need. Moreover, funding does not support those with obligations to support parents or other relatives who are not legally dependents.
+
+#### Lack of community and belonging
+
+Postdocs lack formal cohorts and other structures provided by PhD programs, and many are the only or one of few postdocs in their lab. SURPAS, postdoc affinity groups, and other cross-disciplinary postdoc communities aim to address this need. However, these groups face challenges reaching the often isolated postdocs whose only initial and regular contacts are with their advisor and department administrators. While Stanford (Office of Postdoctoral Affairs (OPA) and Vice Provost of Graduate Education and Postdoctoral Affairs (VPGEPA)) support these groups financially, administrative support is minimal. Thus, the time-intensive burden of organizing and running these groups falls on postdocs, particularly URMs, who “feel a professional and personal burden of having to do diversity and inclusion work without recognition or reward, something they refer to as the ‘diversity tax.’” 
+
+URM postdocs that work to provide a community are already overwhelmed with their research responsibilities, professional development training on top of the effort to fit in. This community-building work is usually uncompensated and also contributes to the perception that community-building work is a distraction from their training and research. The OPA recently instituted an annual JEDI recognition award during the National Postdoctoral JEDI awards, and while this is a step in the right direction, it does not protect time  spent by URM postdocs doing JEDI work.
+
+#### No formal structure to address bias, discrimination, and/or microaggressions
+
+Many URM postdocs report experiencing acts of bias or discrimination ([IDEAL survey](https://idealdeisurvey.stanford.edu/explore-results/narrative-summary/postdocs)), often perpetrated by faculty members, including their own advisor. The unique power of advisors over their postdocs makes the threat of retaliation overwhelming. Currently, postdocs can seek anonymous counseling via the Ombuds offices and take formal action via the Office of Postdoctoral Affairs. Yet, a clear reporting structure does not exist and postdocs lack knowledge about their resources. Moreover, there are rarely repercussions against the perpetrator, increasing the fear of retaliation and disempowering postdocs. Providing a safe environment for URM postdocs–including international postdocs who refrain from reporting due to visa concerns–should be a priority for the University. Clear protocols for bias and discrimination reporting, including mediation efforts and updates on repercussions between affected parties should be developed.
+
+#### Lack of diversity in faculty population
+
+Increased URM faculty presence instills confidence in URM postdocs and potential formal or informal mentors. While the number of female faculty at Stanford rose from  22% to 32% and Asian faculty increased from 10% to 19%, the number of URM faculty members has remained fairly stagnant, increasing from 6% to 7.2% in 20 years. Between 2016 and 2020, URM faculty in the School of Medicine has increased only by 0.8%, exhibiting a Compound Annual Growth Rate (CAGR) of only 0.1% while total faculty CAGR is 6.8%. Stanford recently hired a very small number of URM faculty, however, this was loosely based on their research of the URM faculty to include or relate to diversity topics. Hence there still remains little increase in URM faculty whose research is based on clinical or basic science.
+
+---
+
+## Stanford Latinx Postdoc Association Survey (Fall 2022)
+
+*In 2022, the Stanford Latinx Postdoc Association conducted a survey of postdocs on moving & living expenses. The data and analysis were made publicly available at the following website: <https://slpa.github.io/survey2022/>. The survey was completed by 212 anonymous postdocs, of which 55 identified as Latinx. The survey questionnaire was designed by Julieta Álvarez Manjarrez with input from the SLPA board members Clare Abreu, Sur Herrera Paredes, Renato S. Navarro, Fátima Pardo Ávila, Maria-Belen Perez-Ramirez, and Vanessa Sanchez with report and analysis prepared by Clare Abreu, Sur Herrera Paredes, and Fátima Pardo Ávila with input from Stepfanie Aguillon and Julieta Álvarez Manharrez. SURPAS leadership and Communications Director Geetha Saarunya Clarke helped disseminate the survey. We highly encourage interested readers to peruse the data and analysis at the link above. The summary of major findings from the report and a copy of the open letter with more than 150 signatories are included below. **The major ask from SLPA was for the creation of a need-based $5,000 relocation grant for all incoming postdocs**.*
+
+--
+
+### Summary of Major Findings
+
+* We present the results from the largest ever survey of the Stanford Latinx postdocs, sampling more than 40% of the whole Latinx postdoc community.
+
+* The median postdoc had a monthly salary of $1,701-$2,500 prior to Stanford, and they spent a median of $3,000-$4,000 in their first month for housing and around $2,000 in moving costs other than housing when moving to Stanford.
+
+* Latinx postdocs are a diverse population. When compared with non-Latinx postdocs, we see that Latinx postdocs move to Stanford from a greater number of distinct regions, and had more variable salaries prior to Stanford.
+
+* When compared with the most recent SURPAS benefits survey (conducted in December 2021 - January 2022), we detected increases in expenses related to housing, car transportation, and food. These increases track with known global, national, and regional trends and are likely driven by inflation, and have outpaced minimum salary increases. 
+
+* Latinx postdocs are disproportionately affected in housing costs, living distance to campus, car transportation costs, financial concerns, and retirement savings. In aggregate, these differences point to a troubling trend.
+
+* Overall, postdocs are dissatisfied with their financial situation, with majorities indicating that their salary doesn’t cover their living expenses, and that this has negative impacts in multiple aspects of their lives. We found other factors to have much weaker, if any effects.
+
+* In their responses to an open ended question, postdoc comments indicated overwhelming frustration and negative emotions. Many postdocs highlighted financial struggles, and the negative consequences on their mental and physical health.
+
+
+### Open Letter
+
+To the Stanford community:
+
+“Increasing the diversity of the faculty, especially faculty from underrepresented backgrounds including racial and ethnic minorities and women in STEM” was the top challenge identified by the [2021 Provost’s Statement on Diversity and Inclusion](https://ideal.stanford.edu/about-ideal/diversity-statement). Postdoctoral scholars represent the crucial link between Stanford’s highly diverse student body and its less diverse faculty. As the Stanford Latinx Postdoc Association (SLPA), we are committed to help Stanford rise to this challenge and to identify the barriers faced by our community to advancing their academic careers. Our newly released postdoc [moving and living expenses survey](https://slpa.github.io/survey2022/) reveals **a disturbing picture of Stanford postdocs struggling to cover basic expenses, with Latinx postdocs disproportionately affected by monthly costs, living distance to campus, and financial stress**. In particular, the cost of moving to the Bay Area is the first barrier that potential postdocs face when considering Stanford. Here, **the signatories propose the creation of a need-based relocation grant open to all incoming postdocs**.
+
+The struggle to afford basic expenses is taking a toll on postdocs’ mental and physical health, inhibiting academic progress and causing some to leave academia. **A majority of postdocs report that their salary does not cover their living expenses**, and for many, completing a postdoc at Stanford is feasible only with a partner’s salary and/or without having children. SLPA fully supports the efforts of our colleagues across the many active postdoc organizations at Stanford (SURPAS and its committees, the Stanford Black Postdoc Association, the Stanford LGBTQ+ Postdocs, and the Stanford Chinese Postdoc Association) to improve affordability and overall well-being for Stanford postdocs.
+
+Importantly, **the sheer difficulty of arriving at Stanford means that our community is the product of survivor bias: how many talented scientists couldn’t afford to come to Stanford?** The challenges for incoming postdocs begin before reaching Stanford; the costs of relocating cause postdocs to deplete savings and incur debt. These burdens can last long after beginning a postdoc appointment. Our survey shows that Latinx postdocs, in particular those moving from Latin America, spend less in their first month at Stanford, while at the same time they are more likely to ask for a loan to relocate. This means that they are stretching their financial possibilities to the limit, which comes at the expense of living farther away or in precarious conditions. It is important to point out that moving from Latin America is an easy proxy for prior low income, but other historically marginalized groups, such as Black, Native American or first generation college graduates, are likely to face similar or even greater burdens.
+
+**In order to fulfill Stanford’s commitment to diversifying academia, it is imperative to address the high barrier to entry for Latinx and other historically marginalized scientists.** As a first step, SLPA and the signatories propose **the creation of a need-based $5,000 USD relocation grant open to all incoming postdocs**. This grant would cover moving expenses, and the first month of housing, transportation, childcare and miscellaneous expenses. All incoming postdocs would be eligible, and priority should be given to those moving from low and middle income countries, postdocs with dependents, and postdocs from historically marginalized backgrounds.
+
+We are convinced that in order to diversify academia we must tear down the unjust barriers that limit the potential of countless postdocs. **We ask that postdocs are no longer required to sacrifice their well-being in order to be able to be part of the Stanford community.** Our university has the material and human resources necessary to create an inclusive and equitable environment, where opportunities and success are determined only by the dreams of each person, and not by their historical realities. [We are hopeful that the administration, faculty, student body and the Stanford community at large are committed to overthrowing these barriers.](https://docs.google.com/forms/d/e/1FAIpQLSf7W2cP6_FowvP48C9YNzG4DCciJKLg2S0zYCP31SvDHcCT3w/viewform?usp=sf_link) We are certain that together we will make Stanford the model of a just, equitable, diverse and inclusive community.
+
+In solidarity,
+
+Stanford Latinx Postdoc Association
+
+**Signed by the following groups:**
+
+Stanford Chinese Postdoctoral Association (SCPA)
+
+Stanford LGBTQ+ Postdocs 
+
+Stanford Black Postdoc Association (SBPA)
+
+Stanford University Postdoctoral Association (SURPAS)
+
+---
+
+## Stanford Chinese Postdoc Association Housing Costs Letter (2022)
+
+*This letter was written and circulated by the Stanford Chinese Postdoc Association in response to the [University’s acquisition](https://stanforddaily.com/2022/09/27/stanford-acquires-759-unit-apartment-building-in-drive-to-expand-postdoc-housing/)[@daily.2022-2] of Oak Creek Apartments for postdocs, with more than 150 postdocs signing in a period lasting fewer than two weeks. When the housing became available, postdocs would have only 24 hours to respond when they were taken off the waiting list. At the SURPAS Council meeting on February 22, 2023, a Council member shared a story from a postdoc who was taken off the waiting list but was told they did not qualify for housing because their income (the university minimum) was below the minimum threshold for affordability.*
+
+--
+
+To whom it may concern,
+ 
+We are postdocs from diverse departments at Stanford. We are writing this letter to express our deep concerns about postdocs’ housing situations.
+ 
+In September, we were very excited and grateful that the university has acquired hundreds of units in Oak Creek, which is expected to alleviate the rising housing cost for postdocs. However, the rental rates are **$2,345~$3,356 for 1B and $3,016~$4,003 for 2B, excluding costs for sewage, water, electricity, and internet**.
+ 
+These are unreasonable and unaffordable rental rates for us postdocs. First of all, the price does not conform with the early claim that “Rental rates for eligible Stanford-affiliated tenants at Oak Creek will be less than the market rate”. **They are only negligibly lower than the market rate in Palo Alto** (which is no longer true, if taking into consideration that sewage and water are included in the rental fees for many apartments on the market, as well as Stanford housing); **however, still 40%-50% higher than Stanford Housing**. Second, according to the U.S. Department of Housing and Urban Development (HUD), people who spend more than 30% of their income on housing are defined as housing-cost burdened. **Our monthly income excluding tax ranges between $4200-$5000** (most of us are at the lower end). Hence, **this rental-to-income ratio is astonishingly 60%-80% for most Stanford postdocs**. Even worse, for many of us, our stipend/salary is the only source of income for our family, and as we are international students, the gap is even larger. Not to mention that a large number of postdocs have one or more than one kid, which has long put their family in budget deficits (we appreciate the university’s great support of Family/Child Grant Funding, but it is still a drop in the bucket). It is impossible for us to afford this high rental fee while maintaining the normal run of a family. As a whole, these high rental rates are devastating to us.
+ 
+**Consequently, although we now seem to have more on-campus housing options, we cannot afford them at all. This will in no way help resolve our enormous difficulty in housing, which we believe goes against the goodwill of Stanford’s action to acquire this property.**
+ 
+We also would like to express our serious concerns that the rising living cost has threatened our work efficiency and willingness to stay in academia. Worries about finding an affordable living place have put our family and us in great anxiety. Many of us are being or have already been forced to decide to leave and join the industry because our limited salary combined with the high rental fee has threatened our basic living.
+ 
+We appreciate your attention to this urgent matter and kindly ask for your help.
+
+---
+
+## SURPAS Benefits and Affordability Survey (Winter 2021/22)
+
+*This survey effort was spearheaded by the SURPAS Leadership Team, including Co-Chairs Chinyere Iweka and Chuchu Wang.* 
+
+*The Benefits and Affordability Survey was designed and administered by SURPAS in response to testimonials from postdocs regarding continued affordability struggles, especially after increases to health care costs were implemented. The survey ran for 1 month (December 2021). We received 316 responses, which is a 13% response rate based on the total population of postdocs at Stanford.*
+
+--
+
+### Demographics
+
+Demographic information indicates that the sample is representative of the current postdoc population at Stanford:
+
+* Most postdocs are in their early 30s.
+
+* Most survey respondents are in the first 3 years of their postdoc.
+
+* Respondent school distribution is similar to postdoc population (majority SOM).
+
+* Respondent citizenship status is similar to postdoc population (majority is international).
+
+* Other demographic considerations:
+4.7% of responders identified as disabled or having a disability
+20% of responders identified as having low socioeconomic status
+31% of responders identified as First Gen college students
+
+### Summary of Results
+
+* Postdoc salaries are low.
+    + 83% of postdocs earn less than $72k/year.
+    + When total household income is taken into account, 50% of postdocs live below the SCC poverty line ($82,450).
+
+* Housing affordability is a major issue facing postdocs and impacts decisions of where to live and how far.
+    + 88% of postdocs list cost and proximity to campus as major reason for wanting on-campus housing.
+    + ~47% of postdocs live >5 miles from campus and spend >30 minutes/day on their commute.
+
+* Low salaries and high housing costs make food and health care costs a big burden, specifically for postdocs with families.
+    + 36% of postdocs suffer from food insecurity.
+    + 27% of postdocs on the SHCA plan report being significantly impacted financially by recent increase in healthcare premiums.
+
+Financial Aid grants are awarded to 90% of applicants. However, only ~50% of postdocs are aware that they exist and only ~25% have ever applied for them. Of the 25% that apply, 35% applied for multiple grants, suggesting that an individual grant is insufficient (or was, before the increase in amount).
+
+Overall these results suggest that the postdoc salary (after taxes) is incompatible with the Bay Area living costs. The strain to cover all costs is high, especially for postdocs with families. The financial aid grants that have been awarded are a great place to start to address this issue. However, they only meet the needs of those that apply and are awarded them. Below are some
+recommendations that might benefit postdocs more broadly.
+
+### Recommendations
+
+1. Salary increase to $85,000 (slightly above $82,450 SCC poverty line and will make a difference).
+    a. We are aware that this may be a burden on the Faculty. The reality is that it is difficult to survive with our current salary. We wonder if there is a way to find a middle ground? Such as provide more benefits and cut the costs for postdocs.
+
+2. Allocating some housing units in Escondido Village for postdocs.
+
+3. Use graduate student housing units that become available once graduate students move to Escondido Village as subsidized housing for postdocs.
+
+4. Make Stanford-owned housing available at Below Market Rate for postdocs.
+
+
+
+---
+
+## SURPAS Family Committee Letter (2020/21)
+
+*This letter was written by the SURPAS Family Committee in response to the increase in health insurance premiums for postdocs with dependents in 2021. Over 300 community members, including postdocs, graduate students, faculty, and staff, signed the letter. It is addressed to Dr. Stacey Bent, the Vice Provost for Graduate Education and Postdoc Affairs, and Dr. Sofie Kleppner, the Associate Vice Provost and Associate Dean for Postdoctoral Affairs. As a result of postdocs objecting to the sudden increases in rates and beginning to draft this letter, the planned insurance increases were phased in via four installments over the course of the year rather than in a single increase, with costs covered by subsidies. After postdocs sent this letter, the university created a Family Grant of up to $5,000 for postdocs (now up to $10,000).*
+
+--
+
+### Letter
+
+November 5, 2020
+
+Dear Dr. Stacey Bent & Dr. Sofie Kleppner,
+
+As representatives of Stanford Postdocs, we are writing this letter in regard to the recent changes to the healthcare coverage for Stanford Postdocs, particularly for Postdocs with dependents. According to the recently released 2021 Health Plan premium rates, the monthly cost for a Postdoc to cover their children or their entire family through SHCA will increase by 61%, while the cost to cover a partner will increase by 28%. While we certainly appreciate the subsidies that are being offered to help alleviate some of the initial burden, these subsidies only provide temporary relief and are not long-term solutions. We understand that the cost of these benefit packages fluctuates over time, however, we believe that the most recent changes and their associated costs place an unfair burden on Postdocs with dependents. Our concerns are as follows:
+
+* Postdocs with dependents represent an economically disadvantaged population on campus. This recent increase will cause a further reduction to their already limited funds, with up to 10% of their take-home income dedicated to health care coverage, and this is before any additional co-pays and other costs are included.
+
+* This burden is disproportionately places on Postdocs with dependents, especially international Postdocs who have visa limitations for spouse/partner contributions, single income families in which the partner/spouse provides childcare, and families without access to generational wealth to offset the cost of living.
+
+* Postdocs now only have a single option for benefits while Faculty and Staff have multiple options, most of which are cheaper than SHCA.
+
+* To our knowledge, these negotiations took place months ago without request for feedback or input from the individuals that were being most affected by these changes. 
+
+* Postdocs have no security going forward regarding how much of their limited income is dedicated to healthcare costs.
+
+Given the issue at hand and having full confidence that your offices care deeply about the well-being of Postdocs, we would like to propose that you help us achieve the following:
+
+1. That the institutional subsidies be maintained to cover the same fraction of total health plan cost as in 2020. For example, under the 2020 contribution rates, Stanford paid approximately 90% of the total SHCA cost for postdocs with covered families, whereas under the 2021 rates, Stanford’s contribution will drop to 85% of the total cost.
+
+2. That Postdocs, especially those with dependents, as well as Graduate students, who have also experienced equity issues surrounding their health care costs, be represented in negotiations and informed of potential changes to their healthcare packages before Stanford approval for such changes.
+
+3. That equity working groups ensure that undue financial burdens are not disproportionately placed on Postdocs and Graduate Students in the future, especially those from disadvantaged backgrounds and with dependents.
+
+Failure to act on this will impose the great financial burden on Postdocs with dependents that has been mentioned above, will go against Stanford’s Diversity, Equity, and Inclusion efforts, and will reinforce the statement that Postdocs cannot afford to have children during this stage of their life.
+
+We look forward to hearing from you and to working with you on this.
+
+Sincerely,
+
+John Hegarty, Max Turner, and Arianna Celis on behalf of
+
+The Stanford University Postdoctoral Association (SURPAS) Family Committee
+
+--
+
+### Testimonials
+
+*Some signers provided comments, a selection of which (edited for anonymity) are included below:*
+
+> As if we do not have enough financial struggle in our lives and as if everyone is not unusually stressed due to the pandemic, now we need to pay more for healthcare. These days, we hear these a lot: "be gentle to yourself", "take good care of yourself", "support each other". Then, some people are trying to charge us more for something which has never been this vital. This is an exploitation of the pandemic.
+
+> Cost of living is already high and I think it is important to take into account the burden this increase will have on families even if the increase is delayed. For me personally with 3 children to support by myself, an increase of as little as $20 a month is a significant burden.
+
+> Dental and vision are not included for dependents and need to pay high cost for these treatments for dependents.
+
+> Graduate students would be excited to unite on this issue. Health care a month for dependents is outrageous for us too.
+
+> How could dependent parents be included in postdoc healthcare plans? At about the same rates as spouses? As postdocs, we often have aged parents who need care and financially depend on us for healthcare.
+
+> I am actively considering leaving a promising academic track career because I cannot figure out how to afford kids on a postdoc salary in the Bay Area. We cannot hope to support diversity and inclusion at Stanford while simultaneously making it harder for those with families to afford being here.
+
+> I am getting married soon, and this puts additional financial burden on me.
+
+> I am thinking of changing my insurance provider since not only is it very expensive, but it also does not cover the needs that my family has, like orthodontics for my children. One of them needs them because of functional, not aesthetic, purposes. It is a shame that with all the uncertainties and stresses that postdoctoral life has, we also need to be losing our sleep about health care insurance cost and coverage.
+
+> I am very unhappy that these material changes are made with no discussion with the faculty and the postdocs themselves. This is not a way to treat our Stanford community.
+
+> I currently live out of the service area to be included in Stanford Alliance coverage so I also have the added cost of Aetna Choice for my dependents and I.
+
+> Imagine how much a postdoc would be paying for housing and health benefits if he is a father of a baby and a husband of a housewife. Stanford should treat their postdoc either as students or employees. Currently, postdocs seem to be categorized as whichever comes with less benefit on a case by case basis (retirement, housing, transportation, you name it), which has been extremely frustrating... Stanford should state this fact very clearly on their benefit page before people decide to join the Stanford family such that they are aware of how much Stanford are valuing their postdocs and how much the living cost is in the bay area.
+
+> It is deeply ironic and very sad to see Stanford putting effort into “wellness” and simultaneously increasing healthcare premiums for postdocs, particularly those with families, many of whom are living month to month on their extremely low salary for the area cost of living. It is time for Stanford University, and the office of postdoctoral affairs, to put its money where its mouth is. No amount of “wellness” initiatives can ameliorate the extreme financial stress of the postdoc salary, and no amount of diversity and inclusivity initiatives can ameliorate the unequal burden that increased premiums place on postdocs with families who have taken non-traditional career paths due to their background. Postdoctoral salaries here are already despicable and make it very difficult to recruit talent; this is a step very much in the wrong direction. We will not tolerate this treatment silently.
+
+> It is unconscionable that Stanford is pushing increased costs due to the pandemic on some of the most economically vulnerable members of our community.
+
+> It is very difficult for me to even be able to afford insurance for my significant other, who has supported my career, on my current salary. It is actually close to impossible to afford housing and also medical insurance for the both of us.
+
+> Please reconsider the huge increase of insurance premium. Stanford is already known for being a place hard to live in because of the most expensive living cost in the US for postdocs with dependents. On top of that, the 61% increase would overwhelm most of a postdoc's life in Stanford. Eventually, this situation potentially makes Stanford be not a charming place to live for prospective researchers.
+
+> Please reduce the financial burden on our Postdocs with families. It's huge money to be paid along with rental charges and supporting family expenses.
+
+> Postdocs are already financially strained to their limits, in particular those with family. Any further burden is unacceptable.
+
+> Postdocs are the foundation of academic research and we deserve to be paid fair compensation and benefits.
+
+> Postdocs did not have financial means to support a family in the bay area. You are increasing the premiums of a very valnourable [sic] group of people who conduct the most important purpose of the institute; research. Besides unilaterally putting an addition financial burden on only postdoc with families is a clear discrimination postdoc with families.
+
+> Science at Stanford is eroding because we cannot get the best people to come because they cannot afford to live here. Stanford has done far less to address this issue compared to several comparable institutions.
+
+> Stanford must do a better job supporting its postdocs, and affordable health care in the middle of a pandemic should be number 1 priority.
+
+> This is outrageous. Stanford claims it's an equal-opportunity employer. By making it completely unaffordable for employees with family to keep health insurance, you are directly discriminating against workers who are not single or already face higher health care costs. So much for equal opportunity.
+
+> Transparency is key. When major changes happen with anything, those affected should be notified. This is important so that their voices can be heard and contingency plans can be made.

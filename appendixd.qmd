@@ -1,0 +1,424 @@
+---
+title: "Appendix D"
+format:
+  html:
+    code-fold: true
+jupyter:
+  kernelspec:
+    name: "quarto"
+    language: "python"
+    display_name: "Python (quarto)"
+
+---
+
+## Data Tables
+
+### Table 1: Science, Engineering & Health researcher numbers in US, over time
+
+
+```{python}
+#| label: tbl-res_numbers
+#| tbl-cap: "Science, Engineering & Health researcher numbers in US, over time" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_resnums = pd.read_csv("./data/Researcher_numbers_over_time.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_resnums, 
+  headers=[ "Year", "Graduate Student",	"Postdoc",	"Non-Faculty Researcher",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Science, Engineering & Health researcher numbers in US, over time](competitivelandscape.qmd#fig-researchernumbers)
+
+Source: 
+
+* Table 1-1, Graduate students, postdoctoral appointees, and doctorate-holding nonfaculty researchers in science, engineering, and health: 1975–2020. From the NSF, “Survey of Graduate Students and Postdoctorates in Science and Engineering: Fall 2020”. <https://ncses.nsf.gov/pubs/nsf22319>
+
+
+### Table 2: Percentage of Science, Engineering & Health researchers in US who are on temporary visas, over time
+
+```{python}
+#| label: tbl-visa_numbers
+#| tbl-cap: "Percentage of Science, Engineering & Health researchers in US who are on temporary visas, over time" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_visanums = pd.read_csv("./data/Researcher_temporary-visa-holder_percentage_over_time.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_visanums, 
+  headers=[ "Year", "Graduate Student",	"Postdoc",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Percentage of Science, Engineering & Health researchers in US who are on temporary visas, over time](competitivelandscape.qmd#fig-tempvisa)
+
+Source: 
+
+* Table 1-3a, Citizenship of graduate students and postdoctoral appointees in science, engineering, and health: 1980–2020. From the NSF, “Survey of Graduate Students and Postdoctorates in Science and Engineering: Fall 2020”. <https://ncses.nsf.gov/pubs/nsf22319>
+
+### Table 3: Annual mean wages for professional scientists in academic & non-academic roles in May 2021 (US$)
+
+
+```{python}
+#| label: tbl-acadNonacad_salaries
+#| tbl-cap: "Annual mean wages for professional scientists in academic & non-academic roles in May 2021 (US$)" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_visanums = pd.read_csv("./data/salaries_acadVSnonacad2021.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_visanums, 
+  headers=[ "Discipline", "Academic (US$)",	"Non-Academic (US$)",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of salaries for research scientist roles inside versus outside academia.](competitivelandscape.qmd#fig-disciplinesalaries)
+
+Sources: 
+
+* U.S. Bureau of Labor Statistics, “Occupational Employment and Wages, May 2021: 19-1021 Biochemists and Biophysicists” Accessed Dec 9, 2022 at <https://www.bls.gov/oes/current/oes191021.htm>
+
+* U.S. Bureau of Labor Statistics, “Occupational Employment and Wages, May 2021: 19-2099 Physical Scientists, All Other” Accessed Dec 9, 2022 at <https://www.bls.gov/oes/current/oes192099.htm>
+
+* U.S. Bureau of Labor Statistics, “Occupational Employment and Wages, May 2021: 19-1099 Life Scientists, All Other” Accessed Dec 9, 2022 at <https://www.bls.gov/oes/current/oes191099.htm>
+
+* U.S. Bureau of Labor Statistics, “Occupational Employment and Wages, May 2021: 19-2012 Physicists” Accessed Dec 9, 2022 at <https://www.bls.gov/oes/current/oes192012.htm>
+
+
+### Table 4: NIH Postdoc Salaries
+
+```{python}
+#| label: tbl-nih_salaries
+#| tbl-cap: "NIH Postdoc Salaries" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_nihsals = pd.read_csv("./data/NIH_Postdoc_Salaries.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_nihsals, 
+  headers=[ "2001 NIH Goal (US$)", "2001 NIH Goal, inflation-adjusted for 2022 (US$)",	"NIH Actual Minimum in 2022 (US$)",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [NIH Postdoc Salaries.](competitivelandscape.qmd#fig-nihpostdocsalaries)
+
+Sources: 
+
+* For 2001 NIH Goal: National Institutes of Health, (Mar 22, 2001) “NIH Statement in Response to the NAS Report: Addressing the Nation’s Changing Needs for Biomedical and Behavioral Scientists”. <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-01-027.html>
+
+* Inflation adjustment performed using the US Bureau of Labor Statistics Inflation Calculator. Accessed Jan 22, 2023 at <https://www.bls.gov/data/inflation_calculator.htm>
+
+* For NIH Minimum Salary for fiscal year 2022: “Correction to Stipend Levels for Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2022” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-132.html>
+
+### Table 5: Minimum Postdoc Salary Over Time
+
+```{python}
+#| label: tbl-min_postdoc_salaries
+#| tbl-cap: "Minimum Postdoc Salary Over Time" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_nihsals = pd.read_csv("./data/min_postdoc_salary_overtime.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_nihsals, 
+  headers=["Year",	"Date",	"Stanford (US$)",	"NIH (US$)",	"Difference (US$)",	"Stanford min as Percentage of NIH min (%)",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of Stanford Postdoc Salary and National Institutes of Health (NIH) Postdoc Salary since 2012. Minimum Postdoc Salaries from Stanford and the NIH.](competitivelandscape.qmd#fig-nihstanfordminsalaries)
+
+Source for Stanford Minimum Salaries: 
+
+* OPA website (<https://postdocs.stanford.edu/funding-rates-and-guidelines>) and email correspondence.
+
+Sources for NIH Salaries: 
+
+* For fiscal year 2022: “Correction to Stipend Levels for Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2022” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-132.html>
+
+* For fiscal year 2021: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2021” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-049.html> 
+
+* For fiscal year 2020: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2020” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-070.html> 
+
+* For fiscal year 2019: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2019” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-19-036.html> 
+
+* For fiscal year 2018: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2018” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-175.html> 
+
+* For fiscal year 2017: “Ruth L. Kirschstein National Research Service Awards (NRSA) Postdoctoral Stipends, Training Related Expenses, Institutional Allowance, and Tuition/Fees Effective for Fiscal Year 2017” <https://grants.nih.gov/grants/guide/notice-files/not-od-17-003.html>
+
+* For fiscal year 2016: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2016” <https://grants.nih.gov/grants/guide/notice-files/not-od-16-047.html> 
+
+* For fiscal year 2015: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2015” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-15-048.html> 
+
+* For fiscal year 2014: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2014” <https://grants.nih.gov/grants/guide/notice-files/not-od-14-046.html> 
+
+* For fiscal year 2013: “NIH Fiscal Policy for Grant Awards – FY 2013” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-13-064.html> 
+
+* For fiscal year 2012: “Ruth L. Kirschstein National Research Service Award (NRSA) Stipends, Tuition/Fees and Other Budgetary Levels Effective for Fiscal Year 2012” <https://grants.nih.gov/grants/guide/notice-files/NOT-OD-12-033.html>
+
+### Table 6a: Average postdoc incomes by location, absolute & adjusted for local cost of living, 2016, all US states
+
+
+```{python}
+#| label: tbl-salaries_bylocation_USstates
+#| tbl-cap: "Average postdoc incomes by location, absolute & adjusted for local cost of living, 2016, all US states" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_nihsals = pd.read_csv("./data/Salaries_byLocation_USstates.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_nihsals, 
+  headers=[ "State", "Absolute Income ($)",	"Income Adjusted for Local Cost of Living ($)",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of 2016 postdoc salaries in absolute dollars and normalized to cost of living, ordered from lowest to highest based on adjusted salary.](competitivelandscape.qmd#fig-salariesbylocation)
+
+Source: 
+
+* Table S6 in McConnell, Westerman, Pierre, Heckler, Schwartz, (Dec 18, 2018) “Research: United States National Postdoc Survey results and the interaction of gender, career choice and mentor impact” eLife. <https://doi.org/10.7554/eLife.40189>
+
+### Table 6b: Average postdoc incomes by location, absolute & adjusted for local cost of living, 2016, US counties with more than 50 respondents
+
+
+```{python}
+#| label: tbl-salaries_bylocation_counties
+#| tbl-cap: "Average postdoc incomes by location, absolute & adjusted for local cost of living, 2016, US counties with more than 50 respondents" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_nihsals = pd.read_csv("./data/Salaries_byLocation_Counties.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_nihsals, 
+  headers=[ "County", "Absolute Income ($)",	"Income Adjusted for Local Cost of Living ($)",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of 2016 postdoc salaries in absolute dollars and normalized to cost of living, ordered from lowest to highest based on adjusted salary.](competitivelandscape.qmd#fig-salariesbylocation)
+
+Source: 
+
+* Table S6 in McConnell, Westerman, Pierre, Heckler, Schwartz, (Dec 18, 2018) “Research: United States National Postdoc Survey results and the interaction of gender, career choice and mentor impact” eLife. <https://doi.org/10.7554/eLife.40189>
+
+### Table 7: Postdoc Salary by Years Experience, Over Time
+
+
+```{python}
+#| label: tbl-salaries_min_byYrsExperience
+#| tbl-cap: "Postdoc Salary by Years Experience, Over Time" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_nihsals = pd.read_csv("./data/Salaries_Min_byYrsExperience.csv")
+
+# Create the table.
+Markdown(tabulate(
+  df_nihsals, 
+  headers=[ "Date",	"Stanford (PhD + 0-5 yrs)",	"Stanford (PhD + 6+ yrs)",	"NIH (PhD + 0 yrs)",	"NIH (PhD + 1 yr)",	"NIH (PhD + 2 yrs)",	"NIH (PhD + 3 yrs)",	"NIH (PhD + 4 yrs)",	"NIH (PhD + 5 yrs)",	"NIH (PhD + 6 yrs)",	"NIH (PhD + 7 yrs)",],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of Stanford Postdoc Salary and National Institutes of Health (NIH) Postdoc Salary since 2012. Postdoc Salaries by Number of Years Experience post-PhD.](competitivelandscape.qmd#fig-nihstanfordminsalaries)
+
+Source for Stanford Minimum Salaries: 
+
+* OPA website (<https://postdocs.stanford.edu/funding-rates-and-guidelines>) and email correspondence.
+
+Sources for NIH Salaries: 
+
+* As for Table 5.
+
+### Table 8a: Area Median Income (AMI) Levels for Santa Clara County over time, 1-person household (US$)
+
+```{python}
+#| label: tbl-AMI_HH1
+#| tbl-cap: "Area Median Income (AMI) Levels for Santa Clara County over time, 1-person household (US$)" 
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_AMI_HH1 = pd.read_csv("./data/AMI_over_time,_Santa_Clara,_HH1.csv")
+
+# Remove years before 2012 (they are empty).
+df_AMI_HH1_after2012 = df_AMI_HH1[df_AMI_HH1['Year'] >= 2012]
+
+# Create the table.
+Markdown(tabulate(
+  df_AMI_HH1_after2012, 
+  headers=[ "Year", "Moderate Income (120% AMI)",	"Median Income (AMI)",	"Low Income (80% AMI)",	"Very Low Income (50% AMI)",	"Extremely Low Income (30% AMI)",	"Acutely Low Income (15% AMI)"],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of Stanford Minimum Postdoc Salary with Area Median Income (AMI) levels for Santa Clara County (the county in which Stanford is located).](competitivelandscape.qmd#fig-ami)
+
+Source: 
+
+* California Department of Housing and Community Development “State and Federal Income, Rent, and Loan/Value Limits.” Accessed Feb 10, 2023 at <https://www.hcd.ca.gov/grants-and-funding/income-limits/state-and-federal-income-rent-and-loan-value-limits> 
+
+
+### Table 8b: Area Median Income (AMI) Levels for Santa Clara County over time, 2-person household (US$)
+
+```{python}
+#| label: tbl-AMI_HH2
+#| tbl-cap: "Area Median Income (AMI) Levels for Santa Clara County over time, 2-person household (US$)"  
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_AMI_HH2 = pd.read_csv("./data/AMI_over_time,_Santa_Clara,_HH2.csv")
+
+# Remove years before 2012 (they are empty).
+df_AMI_HH2_after2012 = df_AMI_HH2[df_AMI_HH2['Year'] >= 2012]
+
+# Create the table.
+Markdown(tabulate(
+  df_AMI_HH2_after2012, 
+  headers=[ "Year", "Moderate Income (120% AMI)",	"Median Income (AMI)",	"Low Income (80% AMI)",	"Very Low Income (50% AMI)",	"Extremely Low Income (30% AMI)",	"Acutely Low Income (15% AMI)"],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of Stanford Minimum Postdoc Salary with Area Median Income (AMI) levels for Santa Clara County (the county in which Stanford is located).](competitivelandscape.qmd#fig-ami)
+
+
+Source: 
+
+* California Department of Housing and Community Development “State and Federal Income, Rent, and Loan/Value Limits.” Accessed Feb 10, 2023 at <https://www.hcd.ca.gov/grants-and-funding/income-limits/state-and-federal-income-rent-and-loan-value-limits> 
+
+
+### Table 8c: Area Median Income (AMI) Levels for Santa Clara County over time, 3-person household (US$)
+
+```{python}
+#| label: tbl-AMI_HH3
+#| tbl-cap: "Area Median Income (AMI) Levels for Santa Clara County over time, 3-person household (US$)"  
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_AMI_HH3 = pd.read_csv("./data/AMI_over_time,_Santa_Clara,_HH3.csv")
+
+# Remove years before 2012 (they are empty).
+df_AMI_HH3_after2012 = df_AMI_HH3[df_AMI_HH3['Year'] >= 2012]
+
+# Create the table.
+Markdown(tabulate(
+  df_AMI_HH3_after2012, 
+  headers=[ "Year", "Moderate Income (120% AMI)",	"Median Income (AMI)",	"Low Income (80% AMI)",	"Very Low Income (50% AMI)",	"Extremely Low Income (30% AMI)",	"Acutely Low Income (15% AMI)"],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of Stanford Minimum Postdoc Salary with Area Median Income (AMI) levels for Santa Clara County (the county in which Stanford is located).](competitivelandscape.qmd#fig-ami)
+
+
+Source: 
+
+* California Department of Housing and Community Development “State and Federal Income, Rent, and Loan/Value Limits.” Accessed Feb 10, 2023 at <https://www.hcd.ca.gov/grants-and-funding/income-limits/state-and-federal-income-rent-and-loan-value-limits> 
+
+
+### Table 8d: Area Median Income (AMI) Levels for Santa Clara County over time, 4-person household (US$)
+
+```{python}
+#| label: tbl-AMI_HH4
+#| tbl-cap: "Area Median Income (AMI) Levels for Santa Clara County over time, 4-person household (US$)"  
+
+# Import modules.
+from IPython.display import Markdown
+from tabulate import tabulate
+import numpy as np
+import pandas as pd
+
+# Load datatable from csv file.
+df_AMI_HH4 = pd.read_csv("./data/AMI_over_time,_Santa_Clara,_HH4.csv")
+
+# Remove years before 2012 (they are empty).
+df_AMI_HH4_after2012 = df_AMI_HH4[df_AMI_HH4['Year'] >= 2012]
+
+# Create the table.
+Markdown(tabulate(
+  df_AMI_HH4_after2012, 
+  headers=[ "Year", "Moderate Income (120% AMI)",	"Median Income (AMI)",	"Low Income (80% AMI)",	"Very Low Income (50% AMI)",	"Extremely Low Income (30% AMI)",	"Acutely Low Income (15% AMI)"],
+  showindex=False,
+))
+```
+
+Corresponding graph: [Comparison of Stanford Minimum Postdoc Salary with Area Median Income (AMI) levels for Santa Clara County (the county in which Stanford is located).](competitivelandscape.qmd#fig-ami)
+
+Source: 
+
+* California Department of Housing and Community Development “State and Federal Income, Rent, and Loan/Value Limits.” Accessed Feb 10, 2023 at <https://www.hcd.ca.gov/grants-and-funding/income-limits/state-and-federal-income-rent-and-loan-value-limits> 

@@ -1,0 +1,260 @@
+---
+title: "Previous SURPAS Advocacy"
+bibliography: 20230324_SURPAS_Long_Range_Planning_refs_edited.bib
+csl: nature.csl
+---
+
+# A Quarter Century of Postdoc Advocacy at Stanford: Review of Previous Work 
+
+## Overview
+Postdocs at Stanford have been advocating for improved conditions for themselves since at least 1998 when the Stanford postdoctoral association, SURPAS, was founded (see [Appendix A: SURPAS (Stanford Postdoc Association) Bylaws](appendixa.qmd)). The Committee engaged with past advocacy efforts of postdocs at Stanford by reviewing and synthesizing information from SURPAS’ records, as detailed in this section of the Report. 
+
+Our community represents one unique stakeholder group within the University that shares common issues with many other stakeholder groups. While this Long Range Planning process is focused on the postdoc perspective, we also recognize the need for solidarity and support with other University communities, such as graduate students, medical residents, custodial staff, and kitchen workers. As an example of common issues between stakeholders, postdocs at Stanford faced increases in costs for dependent health insurance at the same time as service workers on campus (see [SURPAS Family Committee Letter (2020/21)](ongoingadvocacy.qmd#surpas-family-committee-letter-(202021))).[@sfd.2020-1]
+
+### Document Review Process
+
+The Committee assessed previous work performed by postdoc organizers. We accessed documents on major advocacy efforts throughout the years that had been collected and stored by SURPAS Leadership. Each of these individual resources was read and analyzed by two Committee members to ensure a diversity of viewpoints. Committee members wrote a three-sentence summary of the “acute needs” of postdocs that they identified within the resource and a separate three-sentence summary of any “long-term ideas” identified. Collective analysis of these resources by the Committee led to the themes and ideas presented in this section of the Report. Most resources addressed multiple themes.
+
+The five core themes that emerged through our review of past work were:
+
+1. [Mentoring](#theme-1-mentoring)
+
+2. [Affordability](#theme-2-affordability)
+
+3. [Status](#theme-3-status)
+
+4. [Justice, Diversity, Equity, Inclusion, Belonging](#theme-4-justice-diversity-equity-inclusion-belonging)
+
+5. [Implementation & Outreach](#theme-5-implementation--outreach)
+
+Each theme is expanded upon in the headings below. All include “Key points to consider” and “Areas for action”.
+
+### Resources Surveyed
+
+(Listed in reverse chronological order.)
+
+1. “Opinion: Letter to the President and Provost: Action Items for Achieving Racial Equity”, (Jun 19, 2020). The Stanford Daily, Opinions. https://stanforddaily.com/2020/06/19/letter-to-the-president-provost-of-stanford-university-concerning-a-george-floyd-action-plan/ 
+
+2. “School of Medicine Faculty Senate Presentation on Postdocs”, (Nov 19, 2019).
+
+3. “A Primer on the Stanford Budget”, (Oct 1, 2019). Later published: MacKenzie (Apr 13, 2022) “From the community | A primer on the Stanford budget or: how I learned to stop worrying and love the endowment” The Stanford Daily. https://stanforddaily.com/2022/04/13/from-the-community-a-primer-on-the-stanford-budget/ 
+
+4. “SURPAS Comments on Stanford’s General Use Permit (GUP) application to Santa Clara County Board of Supervisors”, (Oct 2019).
+
+5. “Brainstorming Advocacy for Postdoc Benefits”, (Sep 30, 2019).
+
+6. “Engaging Bioscience Researchers Taskforce (School of Medicine)”, (Jul 2019).
+
+7. “SURPAS Diversity Strategy”, (created Aug 8, 2017; last updated Mar 16, 2019).
+
+8. “CONF Postdoc Affordability Taskforce Recommendations”, (Apr 8, 2019). 
+
+9. “IDEAL Postdocs: Report on Two Brainstorming Sessions”, (2018-2019). Where “IDEAL” is Stanford’s diversity initiative and an acronym for “Inclusion, Diversity, Equity, and Access in a Learning Environment”.
+
+10. “SURPAS Family Committee Survey”, (2018-2019). 
+
+11. “Postdoc Priority Needs”, (Aug 12, 2018).
+
+12. “PACPA Meeting”, (Mar 28, 2018).
+
+13. “SURPAS LRP White Paper Response Letter for VPGE, PACPA, OPA”, (Mar 17, 2018).
+
+14. “Brainstorming on Postdoc Leadership/Service Awards”, (Feb 12, 2018).
+
+15. “SURPAS review of LRP white papers (response to University Long Range Planning initiative)”, (Feb 2018).
+
+16. “SURPAS Letter for Provost's Advisory Committee on Postdoctoral Affairs (PACPA); Mission/Representation”, (2018).
+
+17. “Meeting of SURPAS Leadership with the Vice Provost for Graduate Education (VPGE)”, (Oct 4, 2017).
+
+18. “Thoughts on “Postdoc Identity” Issue”, (May 24, 2017).
+
+19. “Presentation by SURPAS Leadership for Provost Persis Drell”, (May 3, 2017).
+
+20. “Transportation Survey”, (2017).
+
+21. “Postdoc Housing and Transportation Committee Survey”, (2017).
+
+22. “SURPAS Leadership Presentation on Postdocs to the Stanford Faculty Senate”, (2017).
+
+23. “White Paper: Tips on How to Run a Postdoctoral Association”, (2015).
+
+24. “OPA:Postdoc Survey 2012”, (Fall 2012).
+
+
+## Theme 1: Mentoring
+A defining characteristic of the postdoctoral position is the advanced training with a faculty advisor who serves as a primary mentor for an early-career researcher. During the postdoctoral training period, a researcher can develop new technical skills, learn about problems in new fields, and seek out career development opportunities. On the other hand, postdocs fulfill an important role in providing mentorship, often serving as a first point of contact and important player in the education of graduate students. Though these mentorship experiences are important for postdocs to develop mentorship capabilities, they are rarely formally recognized. Furthermore, there do not exist professional training or certification processes by which postdocs can seek mentorship training as a career development option. The lack of mentorship training programs for postdocs creates a pool of faculty candidates who have not had formalized mentorship training, perpetuating the issue.
+
+### Key points to consider:
+
+* Awareness of the importance of mentoring should be increased both for the professor and also among postdocs. Mentorship training for both postdocs and principal investigators is generally non-existent or poorly adopted. 
+
+* Many postdocs are very grateful for scientific environment at Stanford but feel a lack of support in other areas: insufficient career development options, lack of encouragement for pursuit of non-laboratory opportunities (e.g. career development or teaching), difficulty interacting with faculty members outside of primary research advisor, and most especially monetary compensation. Many people plan on leaving academia because they do not have financial support, with some going into debt to work as a postdoc with the high cost of living.
+
+* Active participation by postdocs in laboratory discussion is an important part of the mentorship and education PhD students receive during graduate school. Postdocs provide hands-on instruction in the laboratory, give professional and academic feedback, model how an academic career may look for the graduate student, and provide personal/emotional support.
+
+* Postdocs led the creation of the “Someone Like Me” Mentoring program to provide support for trainees with marginalized backgrounds.[@surpas-slm.2023] 
+
+* Postdocs are required to schedule an Individual Development Plan (IDP) meeting at least yearly with their advisor to discuss career progression. In many cases these meetings rarely occur or are poorly implemented. The onus for scheduling and reporting the meeting is placed on postdocs with no incentive or consequence for PIs engaging with the meeting.
+
+### Areas for action:
+
+* A solid mentorship program for postdocs should be developed. Such a program would need to emphasize the need for the postdoc to receive mentorship and also to practice mentoring younger scientists. A two-day Mentoring in Research workshop,[@opa.ment] which used to be run quarterly, has not been offered since early 2020. Reimplementation of this mentorship workshop is a first step.
+
+* Searching for successful mentoring examples and identifying best practices would be a great benchmark to build the curriculum for these mentoring courses.
+
+* The Postdoc Teaching Certificate is offered as a professional certification for postdocs preparing to be a lecturer/tenure-track faculty member.[@opa.teach] Creation of an analogous certificate for mentoring would be important to provide postdocs hands-on skill in mentoring younger scientists. Mentorship training would be of value for postdocs hoping to become a principal investigator in their own academic lab and for postdocs transitioning to industry.
+
+* Postdocs should have the opportunity to receive mentorship from multiple professors beyond their primary faculty advisor, either through formal or informal mentorship structures. Incentives that compensate faculty for their time would be required to get buy-in from the mentors. Current incentive structures do not reward faculty for mentorship.[@scicar.2020]
+
+
+
+## Theme 2: Affordability
+Stanford is one of the wealthiest institutions in the world and is located in the heart of Silicon Valley, where cost of living far outstrips the modest salary postdocs receive. As a result, postdocs at Stanford suffer from food insecurity and rely on the pop-up food pantry run by Second Harvest Food Bank and initially organized by the Stanford Solidarity Network.[@rde.1] With waitlists for childcare opportunities on campus often lasting longer than some postdoc’s appointments, many postdoctoral scholars with families do not bother applying and are forced to shoulder the costs themselves. The February 2021 announcement of a $5,000 family grant (now up to $10,000) is much appreciated but does not sufficiently cover the costs of childcare.[@sfr.2021] These affordability issues raise the barrier to an academic career for those with families and people from disadvantaged economic backgrounds. 
+
+### Key points to consider:
+
+* With a minimum salary of $68,238 as of September 1, 2022,[@pof] postdocs make far lower than the median income in Santa Clara County ($117,900 for a single person household). A single postdoc is classified as “Low Income”; a two-person household relying solely on a postdoc salary (as is the case for international postdocs with a spouse who is not allowed to work in the US) hovers barely above the “Very Low Income” category; while a three-person household is thousands of dollars short of the line separating “Low Income” from “Very Low Income” (as defined by the CA Department of Housing and Urban Development).[@jlf]
+
+* In 2020-2021, a sudden change in the postdoc health insurance plan caused a spike in premium costs of over 60% for postdocs with dependents. Meanwhile, postdocs with no dependents saw no change in insurance costs.
+
+* Paid parental leave policies vary from department to department (or even from Principal Investigator to Principal Investigator). While some departments at Stanford and many prestigious postdoctoral fellowships offer paid leave for 12 weeks, this policy is patchwork across the university.
+
+* For retirement savings, postdocs (who are being paid a salary through Stanford, but not necessarily those on fellowship funding) have access to a Tax-Deferred Account and a Roth 403(b) Account. However, there is zero matched contribution from Stanford towards any postdoc retirement savings. By contrast, as of November 2022, Stanford “benefits-eligible employees” (not postdocs) begin to receive matched contributions after one year of service which increases thereafter. (see also next section, “[3. Status](#theme-3-status)”)
+
+### Areas for action:
+
+* Eliminate food insecurity among Stanford’s research population by increasing postdoc salaries. Postdocs should also be able to access affordable housing (defined as paying no more than one-third of take-home income on rent). Salaries must take into account the cost of living and the housing market in the local area.
+
+* Ensure equity in fee changes such that postdocs who are already economically vulnerable do not disproportionately bear the burden (e.g. postdoc parents with healthcare costs).
+
+* Institute a standardized 12-week minimum paid leave for all postdoc parents.
+
+* Offer affordable childcare to postdocs with dependents.
+
+* Matched contributions for postdoc retirement accounts.
+
+* Target fundraising and allocate money from the Stanford Endowment Income Funds Pool (“EIFP”) and the Expendable Funds Pool (“EFP”) to assist in the creation of an endowed fund specifically for postdocs to provide funding for initiatives like matched retirement contributions, increased salaries, and defraying the cost of childcare.
+
+
+## Theme 3: Status
+Postdoc status impacts both how Postdocs are perceived by themselves and others in the Stanford community, as well as more concrete issues such as access to resources and benefits. Postdocs are currently defined as ‘non-matriculated, non-degree seeking students’. However, because many Postdocs also receive W2 forms and do not pay student fees, the financial systems at Stanford (e.g. payroll, ASSU) view Postdocs as closer to employees. Though there are multiple organized postdoc groups beyond SURPAS, none are officially recognized by the university; the non-matriculated status of postdocs prevents us from accessing many benefits available to students.
+
+### Key points to consider:
+
+* School of Medicine and several other departments now recognise Postdocs as alumni with access to alumni networks. However, the Stanford Alumni Association only allows postdocs to have an Affiliate Membership which has reduced benefits compared to full membership.
+
+* As of 2022 Postdocs have priority access to housing near campus. However, units are limited in number and costs make postdocs severely rent burdened (see [Stanford Chinese Postdoc Association Housing Costs Letter](ongoingadvocacy.qmd#stanford-chinese-postdoc-association-housing-costs-letter-(2022)) in Ongoing Stanford Postdoc Advocacy section of the Report).
+
+* Some postdocs have student loan debt and the classification as ‘non-matriculated students’ allows postdocs to defer payments during their training period. Many postdocs feel that after receiving a terminal degree they should be able to afford student loan payments without worry or need to defer, something that is unattainable on a current postdoc salary.
+
+* The term student does not recognise that Postdocs have already completed several years of training and hold terminal degrees in their fields. Postdocs additionally contribute to mentoring, teaching, research, and maintenance within their lab spaces. 
+
+* There is a lack of clarity over employee rights/benefits that Postdocs are entitled to, e.g. matched retirement contributions, workers compensation rights.
+
+* Many postdocs transition to senior scientist or instructor roles after timing out of their postdoctoral position. In these situations, job duties remain largely unchanged while the postdoc becomes officially classified as an employee.
+
+* The lack of clarity with regards to postdoc status leads to postdocs being left out of university initiatives. In 2021, the Community Board on Public Safety sought input from Stanford community members in a pair of meetings. A meeting for faculty, postdoctoral scholars, and staff was held March 26. A meeting for students was held on April 12. There were no attempts by University administration to inform postdocs of the existence of these meetings (e.g. through presentation at a SURPAS Council meeting or emailing the postdoc listserv). Postdocs only learned of the call for input after the March 26 meeting had already passed. 
+
+### Areas for action:
+
+* Regardless of classification as students or employees, postdocs should be paid salaries commensurate with our status as holders of terminal degrees. Compensation should be high enough that postdocs can afford life expenses such as student loan payments, saving for retirement, or childcare expenses.
+
+* Postdocs should receive matched contributions to retirement accounts comparable with staff compensation. In the interim while such a program is rolled out, all postdocs who have transitioned to staff roles (e.g. senior scientist, instructor) should have time spent as a postdoc count towards years of employment for matched contributions. Data on the number of postdocs making the transition to staff roles each year should be made accessible.
+
+* SURPAS should reach out to the Santa Clara County Office of Labor Standards Enforcement to receive a Know Your Rights Training to better understand employee rights we possess.
+
+* Ensuring that Postdocs have a ‘seat at the table’ on all groups and committees making decisions which affect them. This representation must be in the form of voting seats - the ability to discuss but not directly participate in decision making is infantilizing. Any community feedback events and townhalls must include proactive outreach to postdocs.
+
+
+
+## Theme 4: Justice, Diversity, Equity, Inclusion, Belonging
+There is general recognition that the Stanford postdoc community is not representative of the diversity of the population (either of Stanford undergraduate diversity or the US national diversity) and efforts should be made to rectify this. In general, postdocs from minoritized backgrounds do not feel supported by Stanford and often feel isolated or lacking in community. There is recognition that the diversity of the postdoc pool is the diversity of the future faculty pool. There have been lots of conversations and many ideas over the past decade or so, but relatively little action or progress has been made.
+
+### Key points to consider:
+
+* There is some progress that is worth celebrating: 
+
+    + The Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM) program and its expansion, run by the Office for Postdoctoral Affairs.[@opa-prism] This program assists postdoctoral candidates from underrepresented backgrounds to visit Stanford’s campus, meet current postdocs and interview with faculty, covering the costs of travel, accommodation and food for the visit.
+
+    + The provision of the Diversity Center of Representation and Empowerment (D-CORE) space, a permanent physical space, within the School of Medicine.[@dcore] This space is open for diversity and inclusion focused events and meetings, and includes a Racial Justice Library.
+
+    + The creation of the Certificate in Critical Consciousness and Anti-Oppressive Praxis (CCC&AOP) Program, initially (2019/20) operating within the School of Medicine and now (2022/23) within the Office of Inclusion, Community and Integrative Learning (ICIL).[@cccaop] This program, grounded in critical theory and Black Feminism, seeks to provide training for graduate students and postdocs towards critical understandings of identity and positionality, the ability to identify present and historical oppressive structures, and a developed awareness of inclusive practices for transformative change.
+
+    + A new program within the School of Medicine for “diversity postdoc fellowships”. This program was launched in 2021 as the Propel Postdoctoral Scholars Program.[@propel] It provides a fellowship of $10,000 on top of the base postdoc salary to 10 postdocs per year as well as professional development and networking opportunities.
+
+* Decentralization of Stanford is a serious and ongoing issue. Funding/budgets and policy (e.g. training) are arranged separately by School or Department and hiring/recruitment of postdocs is done by individual PIs. In some ways this is a positive - for example, certain schools and departments have started their own fellowship programs or recruitment/inclusivity initiatives without having to get approval across the university. However, this requires more work from postdocs themselves to lobby their own individual programs for support, rather than a combined effort across Stanford.
+
+* What does the postdoc community look like? More than 60% of postdocs are “international” but there is no further breakdown of “international” by country or race or ethnicity, and international does not mean underrepresented. However, representation for racial groups within the United States have not been conflated with this “international” categorization in the IDEAL dashboard. Although goals for increasing DEI within the postdoc population can be supported by both of these categories, specific efforts toward improving the underrepresented populations (African American, Native American, etc.) have not yet improved representation at Stanford (it remains at 5%). 
+
+* Many of these and other postdoc-related issues rely on faculty engagement; however, Stanford prioritizes the autonomy of its faculty within its decentralized structure, making faculty buy-in a barrier to progress.
+
+### Areas for action:
+
+* Improve conductance of DEI conversations, for instance by increasing representation of URM individuals on committees and improving awareness/training of those on committees, particularly for non-URM individuals. The University needs to hire more URM individuals to have a larger pool from which to select for committee service to prevent the creation of a ‘minority tax’ on specific individuals.
+
+* Increase DEI awareness and training for everyone, ideally universal training required on an annual basis (e.g., anti-racist training).
+
+* Transparency on progress-to-date for DEI initiatives (e.g., IDEAL, surveys, etc.)
+
+* Remuneration for individuals conducting DEI training or participating in DEI work, particularly those from URM backgrounds, including by consideration of DEI efforts and university service in hiring and tenure decisions.
+
+* Increase hiring/recruitment and retention of people from URM backgrounds, particularly African American people. Specific funding provided for these positions.
+
+* Developing institutional relationships with Historically Black Colleges and Universities and Hispanic Serving Institutions.
+
+* Continued improvement of the postdoc community for underrepresented scholars, as retention is a key factor preventing growth of URM populations at Stanford. Feelings of isolation or exclusion are common; further improvements could involve the construction of a Postdoc Community Center or better integration with existing campus community centers, specific budget items for this sort of work, or dedicated administrators or offices instead of reliance on trainees to push forward initiatives.
+
+
+## Theme 5: Implementation & Outreach
+“Implementation” here refers to the practicalities of operating postdoc community and advocacy organizations. “Outreach” here refers to relationships external to Stanford for passing on knowledge of these implementation practices in order for it to be applied at other institutions.
+
+Stanford has a large postdoc community with more than 2400 postdocs across campus. Stanford’s postdoc organizations have been operating for many years and have substantial buy-in from the University administration and from postdocs themselves. However, postdocs remain a largely invisible or under-acknowledged community within the University and within academia at large. Stanford’s postdoc community and community organizations are more robust than those at many other research institutions.
+
+Postdocs face unique challenges given the heterogeneity of our community. Since each Postdoc is hired individually, there is no ‘cohort’ analogous to the situation for graduate students. With the University’s decentralization, the integration of any postdoc into department communities is contingent upon the local conditions in that specific department. Identifying the needs of a community and engaging in advocacy first requires the existence of that community. Postdocs have implemented community and advocacy in a variety of ways, providing a strong foundation upon which to build. At the same time, the strategies and tactics of other groups within and beyond the University community can serve as inspiration for future developments. The uncertain status of postdocs within the University often contributes to missed connections and poor implementation of University-wide policies with regards to the postdoctoral community - actors beyond the postdoctoral community hold responsibility for actively working to ensure our inclusion in University-wide initiatives.
+
+### Key points to consider:
+
+* SURPAS organizational structures are well-established, with multiple bodies (Council, Leadership, and Committees) that have been operating for many years and have undergone internal review at several points. 
+    + These structures have experienced significant challenges in the wake of the COVID-19 pandemic, including fewer postdocs putting themselves forward to volunteer for SURPAS Leadership roles. Anecdotally, a small number of postdocs have low confidence that SURPAS is able to effect meaningful change for postdocs’ benefit and view SURPAS as being an administrative extension of the Office for Postdoctoral Affairs, rather than an independent representative body.
+
+* Stanford’s postdoc affinity groups (Stanford Black Postdoc Association, Stanford Latinx Postdoc Association, LGBTQIA+ Postdocs, Stanford Chinese Postdoc Association) are similarly well-established within the Stanford community.
+
+* Many other research institutions lack strong community and advocacy organizations for their postdocs.
+
+* Monthly SURPAS Council meetings provide a forum for postdocs to learn about ongoing initiatives and how to get involved. Happy hours provide a venue for postdocs to destress and network to build community.
+
+* Postdocs can and do take positions on specific issues by passing resolutions as Council.[@sfd.43] Individual postdocs can introduce a resolution at a Council meeting for voting for adoption by the Postdoc community at Stanford. 
+
+* In other situations, open letters from committees or individuals with wide signature gathering from within the postdoc and university community has been an effective strategy to implement advocacy. (See [Ongoing Stanford Postdoc Advocacy](ongoingadvocacy.qmd) section).
+
+* Postdocs have proactively done outreach and asserted their place as important stakeholders in the local community by advocating directly to Santa Clara County.[@ue2]
+
+* SURPAS has helped build community within the postdoctoral community by helping organize and participate in the Bay Area Postdoctoral Association and its Symposium.[@bapa.2023]
+
+* Postdocs led the creation of the “Be a Better Ally” series as a growth from the Someone Like Me mentoring program. Postdocs take leadership roles in creating programs that can be adopted and supported with university resources.
+
+* There is poor implementation for postdocs within the university bureaucracy. The university states the Individual Development Plan (IDP) is an important required mentorship meeting between postdocs and their advisors, but the website for reporting the IDP was down for over a year.[@opa-5] Failure to update basic infrastructure indicates postdocs are not a priority for distribution of university resources.
+
+### Areas for action:
+
+* Develop stronger connections with other university groups (e.g. GSC and Undergraduate Senate - pass joint resolution by all three bodies to enable SURPAS to have a mechanism for bringing topics to faculty senate agenda).
+
+* Develop connection with medical residents since they are at a similar career stage in medical training.
+
+* Develop deeper connections with other postdoc associations in the area (e.g. UCSF, UC Berkeley).
+
+* Get a reporter from Stanford Daily to attend monthly council meetings (there is someone on the grad student beat who covers weekly GSC meetings).
+
+* More focus from administrators on including postdocs - there should be a postdoc in the room for most conversations (e.g. university search committees). Active outreach to our community is necessary.
+
+* Keep an eye for Stanford re-applying for General Use Permit from the county so postdocs can attend meetings and advocate directly to the County Board of Supervisors for our needs. There is potential for solidarity with graduate students as was done in the past.
+
+* Orientation is overwhelming and needs to be revamped or have follow up after a bit of time. New postdocs are inundated with information that is too much to absorb all at once and much gets lost; then there is no follow-up.
+
+* Stanford’s postdoc organizations have an opportunity to provide more guidance and resources to postdocs at other institutions, either to promote the creation of new postdoc associations or to share ideas for better events or programs.
+
+## References
+
+::: {#refs}
+:::

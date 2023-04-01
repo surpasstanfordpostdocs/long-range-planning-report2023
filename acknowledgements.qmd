@@ -1,0 +1,57 @@
+---
+title: "Acknowledgements"
+#order: 3
+---
+
+## SURPAS Long Range Planning Committee Members (2020-23)
+This Report was prepared by the Long Range Planning Committee over the course of several years. The following individuals were members of the Committee during that time:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Eamon F.X. Byrne, DPhil. (Co-Chair)
+
+Tim M.G. MacKenzie, PhD. (Co-Chair)
+
+Samyuktha Suresh, PhD.
+
+M. Usman Ahmad, MD
+
+Aranyak Goswami, PhD.
+
+Vivekanandan Ramalingam, PhD.
+
+Kai Trepte, PhD.
+
+Bradley Tolar, PhD.
+
+Gina Bouchard, PhD.
+:::
+
+::: {.column width="50%"}
+Ioana Marin, PhD.
+
+Katherine Walwyn-Brown, PhD.
+
+Elaina Jones, PhD.
+
+Vimala Bharadwaj, PhD.
+
+Nathan Richey, PhD.
+
+Sumin Lee, PhD.
+
+Roberta Sala, PhD.
+
+John Hegarty, PhD.
+:::
+
+::::
+
+## Contributors
+We would like to acknowledge and thank all of the postdocs who joined us for our Focus Groups, generously giving their time and sharing their thoughts with us.
+
+We would like to thank the leadership of various postdoc affinity groups on campus for their support of our efforts, and in particular Sur Herrera Paredes, PhD., and Fátima Pardo Ávila, PhD. (Stanford Latinx Postdoc Association), Azeezat Azeez, PhD., and Barbara Rangel da Silva, PhD. (Stanford Black Postdocs Association), and Bradley Tolar, PhD. (LGBTQIA+ Postdocs). We would also like to thank the SURPAS Leadership Co-Chairs for their involvement in and support of these efforts: Chinyere Agbaegbu Iweka, PhD., Chuchu Wang, PhD., and Julia Abitbol, PhD. We would like to thank past SURPAS Leadership Teams and various SURPAS Committees for the amazing work that they have done throughout their time at Stanford. We have drawn substantially from the outcomes of their efforts.
+
+## Land Acknowledgement
+We acknowledge that the land on which we live and work in and around Stanford University is the ancestral and unceded land of the Muwekma Ohlone Tribe. As uninvited guests on these lands, we are beneficiaries of the ongoing displacement of the Ohlone people. We pay our respects to the Native peoples, past and present. The Muwekma Ohlone Tribe is seeking to restore federal recognition of their sovereignty. Learn more at <http://muwekma.org>.

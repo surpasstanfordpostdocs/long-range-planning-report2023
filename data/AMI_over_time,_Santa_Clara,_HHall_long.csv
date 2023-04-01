@@ -1,0 +1,252 @@
+Year,Household size,Level,Income ($)
+2012,1,Moderate Income (120% AMI),88200
+2014,1,Moderate Income (120% AMI),88600
+2016,1,Moderate Income (120% AMI),89950
+2017,1,Moderate Income (120% AMI),95150
+2018,1,Moderate Income (120% AMI),105200
+2019,1,Moderate Income (120% AMI),110400
+2020,1,Moderate Income (120% AMI),118950
+2021,1,Moderate Income (120% AMI),127100
+2022,1,Moderate Income (120% AMI),141550
+2012,1,Median Income (AMI),73500
+2014,1,Median Income (AMI),73850
+2016,1,Median Income (AMI),74950
+2017,1,Median Income (AMI),79300
+2018,1,Median Income (AMI),87650
+2019,1,Median Income (AMI),92000
+2020,1,Median Income (AMI),99100
+2021,1,Median Income (AMI),105900
+2022,1,Median Income (AMI),117950
+2012,1,Low Income (80% AMI),53000
+2014,1,Low Income (80% AMI),59400
+2016,1,Low Income (80% AMI),59400
+2017,1,Low Income (80% AMI),59400
+2018,1,Low Income (80% AMI),66150
+2019,1,Low Income (80% AMI),72750
+2020,1,Low Income (80% AMI),78550
+2021,1,Low Income (80% AMI),82450
+2022,1,Low Income (80% AMI),92250
+2012,1,Very Low Income (50% AMI),36750
+2014,1,Very Low Income (50% AMI),37150
+2016,1,Very Low Income (50% AMI),39100
+2017,1,Very Low Income (50% AMI),41800
+2018,1,Very Low Income (50% AMI),46550
+2019,1,Very Low Income (50% AMI),51250
+2020,1,Very Low Income (50% AMI),55300
+2021,1,Very Low Income (50% AMI),58000
+2022,1,Very Low Income (50% AMI),59000
+2012,1,Extremely Low Income (30% AMI),22050
+2014,1,Extremely Low Income (30% AMI),22300
+2016,1,Extremely Low Income (30% AMI),23450
+2017,1,Extremely Low Income (30% AMI),25100
+2018,1,Extremely Low Income (30% AMI),27950
+2019,1,Extremely Low Income (30% AMI),30750
+2020,1,Extremely Low Income (30% AMI),33150
+2021,1,Extremely Low Income (30% AMI),34800
+2022,1,Extremely Low Income (30% AMI),35400
+2021,1,Acutely Low Income (15% AMI),15900
+2022,1,Acutely Low Income (15% AMI),17700
+2014,1,Stanford Minimum Postdoc Salary,44310
+2015,1,Stanford Minimum Postdoc Salary,50000
+2016,1,Stanford Minimum Postdoc Salary,53406
+2017,1,Stanford Minimum Postdoc Salary,53406
+2018,1,Stanford Minimum Postdoc Salary,60000
+2019,1,Stanford Minimum Postdoc Salary,63618
+2020,1,Stanford Minimum Postdoc Salary,64268
+2021,1,Stanford Minimum Postdoc Salary,65568
+2022,1,Stanford Minimum Postdoc Salary,68238
+2012,2,Moderate Income (120% AMI),100800
+2014,2,Moderate Income (120% AMI),101300
+2016,2,Moderate Income (120% AMI),102800
+2017,2,Moderate Income (120% AMI),108750
+2018,2,Moderate Income (120% AMI),120200
+2019,2,Moderate Income (120% AMI),126150
+2020,2,Moderate Income (120% AMI),135900
+2021,2,Moderate Income (120% AMI),145250
+2022,2,Moderate Income (120% AMI),161750
+2012,2,Median Income (AMI),84000
+2014,2,Median Income (AMI),84400
+2016,2,Median Income (AMI),85700
+2017,2,Median Income (AMI),90650
+2018,2,Median Income (AMI),100150
+2019,2,Median Income (AMI),105100
+2020,2,Median Income (AMI),113300
+2021,2,Median Income (AMI),121050
+2022,2,Median Income (AMI),134800
+2012,2,Low Income (80% AMI),60600
+2014,2,Low Income (80% AMI),67900
+2016,2,Low Income (80% AMI),67900
+2017,2,Low Income (80% AMI),67900
+2018,2,Low Income (80% AMI),75600
+2019,2,Low Income (80% AMI),83150
+2020,2,Low Income (80% AMI),89750
+2021,2,Low Income (80% AMI),94200
+2022,2,Low Income (80% AMI),105400
+2012,2,Very Low Income (50% AMI),42000
+2014,2,Very Low Income (50% AMI),42450
+2016,2,Very Low Income (50% AMI),44650
+2017,2,Very Low Income (50% AMI),47800
+2018,2,Very Low Income (50% AMI),53200
+2019,2,Very Low Income (50% AMI),58550
+2020,2,Very Low Income (50% AMI),63200
+2021,2,Very Low Income (50% AMI),66300
+2022,2,Very Low Income (50% AMI),67400
+2012,2,Extremely Low Income (30% AMI),25200
+2014,2,Extremely Low Income (30% AMI),25500
+2016,2,Extremely Low Income (30% AMI),26800
+2017,2,Extremely Low Income (30% AMI),28650
+2018,2,Extremely Low Income (30% AMI),31950
+2019,2,Extremely Low Income (30% AMI),35150
+2020,2,Extremely Low Income (30% AMI),37900
+2021,2,Extremely Low Income (30% AMI),39800
+2022,2,Extremely Low Income (30% AMI),40450
+2021,2,Acutely Low Income (15% AMI),18150
+2022,2,Acutely Low Income (15% AMI),20250
+2014,2,Stanford Minimum Postdoc Salary,44310
+2015,2,Stanford Minimum Postdoc Salary,50000
+2016,2,Stanford Minimum Postdoc Salary,53406
+2017,2,Stanford Minimum Postdoc Salary,53406
+2018,2,Stanford Minimum Postdoc Salary,60000
+2019,2,Stanford Minimum Postdoc Salary,63618
+2020,2,Stanford Minimum Postdoc Salary,64268
+2021,2,Stanford Minimum Postdoc Salary,65568
+2022,2,Stanford Minimum Postdoc Salary,68238
+2014,2,Stanford Minimum Postdoc Salary x2,88620
+2015,2,Stanford Minimum Postdoc Salary x2,100000
+2016,2,Stanford Minimum Postdoc Salary x2,106812
+2017,2,Stanford Minimum Postdoc Salary x2,106812
+2018,2,Stanford Minimum Postdoc Salary x2,120000
+2019,2,Stanford Minimum Postdoc Salary x2,127236
+2020,2,Stanford Minimum Postdoc Salary x2,128536
+2021,2,Stanford Minimum Postdoc Salary x2,131136
+2022,2,Stanford Minimum Postdoc Salary x2,136476
+2012,3,Moderate Income (120% AMI),113400
+2014,3,Moderate Income (120% AMI),113950
+2016,3,Moderate Income (120% AMI),115650
+2017,3,Moderate Income (120% AMI),122350
+2018,3,Moderate Income (120% AMI),135250
+2019,3,Moderate Income (120% AMI),141950
+2020,3,Moderate Income (120% AMI),152900
+2021,3,Moderate Income (120% AMI),163400
+2022,3,Moderate Income (120% AMI),182000
+2012,3,Median Income (AMI),94500
+2014,3,Median Income (AMI),94950
+2016,3,Median Income (AMI),96400
+2017,3,Median Income (AMI),101950
+2018,3,Median Income (AMI),112700
+2019,3,Median Income (AMI),118250
+2020,3,Median Income (AMI),127450
+2021,3,Median Income (AMI),136150
+2022,3,Median Income (AMI),151650
+2012,3,Low Income (80% AMI),68150
+2014,3,Low Income (80% AMI),76400
+2016,3,Low Income (80% AMI),76400
+2017,3,Low Income (80% AMI),76400
+2018,3,Low Income (80% AMI),85050
+2019,3,Low Income (80% AMI),93550
+2020,3,Low Income (80% AMI),100950
+2021,3,Low Income (80% AMI),106000
+2022,3,Low Income (80% AMI),118600
+2012,3,Very Low Income (50% AMI),47250
+2014,3,Very Low Income (50% AMI),47750
+2016,3,Very Low Income (50% AMI),50250
+2017,3,Very Low Income (50% AMI),53750
+2018,3,Very Low Income (50% AMI),59850
+2019,3,Very Low Income (50% AMI),65850
+2020,3,Very Low Income (50% AMI),71100
+2021,3,Very Low Income (50% AMI),74600
+2022,3,Very Low Income (50% AMI),75850
+2012,3,Extremely Low Income (30% AMI),28350
+2014,3,Extremely Low Income (30% AMI),28650
+2016,3,Extremely Low Income (30% AMI),30150
+2017,3,Extremely Low Income (30% AMI),32250
+2018,3,Extremely Low Income (30% AMI),35950
+2019,3,Extremely Low Income (30% AMI),39550
+2020,3,Extremely Low Income (30% AMI),42650
+2021,3,Extremely Low Income (30% AMI),44750
+2022,3,Extremely Low Income (30% AMI),45500
+2021,3,Acutely Low Income (15% AMI),20450
+2022,3,Acutely Low Income (15% AMI),22750
+2014,3,Stanford Minimum Postdoc Salary,44310
+2015,3,Stanford Minimum Postdoc Salary,50000
+2016,3,Stanford Minimum Postdoc Salary,53406
+2017,3,Stanford Minimum Postdoc Salary,53406
+2018,3,Stanford Minimum Postdoc Salary,60000
+2019,3,Stanford Minimum Postdoc Salary,63618
+2020,3,Stanford Minimum Postdoc Salary,64268
+2021,3,Stanford Minimum Postdoc Salary,65568
+2022,3,Stanford Minimum Postdoc Salary,68238
+2014,3,Stanford Minimum Postdoc Salary x2,88620
+2015,3,Stanford Minimum Postdoc Salary x2,100000
+2016,3,Stanford Minimum Postdoc Salary x2,106812
+2017,3,Stanford Minimum Postdoc Salary x2,106812
+2018,3,Stanford Minimum Postdoc Salary x2,120000
+2019,3,Stanford Minimum Postdoc Salary x2,127236
+2020,3,Stanford Minimum Postdoc Salary x2,128536
+2021,3,Stanford Minimum Postdoc Salary x2,131136
+2022,3,Stanford Minimum Postdoc Salary x2,136476
+2012,4,Moderate Income (120% AMI),126000
+2014,4,Moderate Income (120% AMI),126600
+2016,4,Moderate Income (120% AMI),128500
+2017,4,Moderate Income (120% AMI),135950
+2018,4,Moderate Income (120% AMI),150250
+2019,4,Moderate Income (120% AMI),157770
+2020,4,Moderate Income (120% AMI),169900
+2021,4,Moderate Income (120% AMI),181550
+2022,4,Moderate Income (120% AMI),202200
+2012,4,Median Income (AMI),105000
+2014,4,Median Income (AMI),105500
+2016,4,Median Income (AMI),107100
+2017,4,Median Income (AMI),113300
+2018,4,Median Income (AMI),125200
+2019,4,Median Income (AMI),131400
+2020,4,Median Income (AMI),141600
+2021,4,Median Income (AMI),151300
+2022,4,Median Income (AMI),168500
+2012,4,Low Income (80% AMI),75700
+2014,4,Low Income (80% AMI),84900
+2016,4,Low Income (80% AMI),84900
+2017,4,Low Income (80% AMI),84900
+2018,4,Low Income (80% AMI),94450
+2019,4,Low Income (80% AMI),103900
+2020,4,Low Income (80% AMI),112150
+2021,4,Low Income (80% AMI),117750
+2022,4,Low Income (80% AMI),131750
+2012,4,Very Low Income (50% AMI),52500
+2014,4,Very Low Income (50% AMI),53050
+2016,4,Very Low Income (50% AMI),55800
+2017,4,Very Low Income (50% AMI),59700
+2018,4,Very Low Income (50% AMI),66500
+2019,4,Very Low Income (50% AMI),73150
+2020,4,Very Low Income (50% AMI),78950
+2021,4,Very Low Income (50% AMI),82850
+2022,4,Very Low Income (50% AMI),84250
+2012,4,Extremely Low Income (30% AMI),31500
+2014,4,Extremely Low Income (30% AMI),31850
+2016,4,Extremely Low Income (30% AMI),33500
+2017,4,Extremely Low Income (30% AMI),35800
+2018,4,Extremely Low Income (30% AMI),39900
+2019,4,Extremely Low Income (30% AMI),43900
+2020,4,Extremely Low Income (30% AMI),47350
+2021,4,Extremely Low Income (30% AMI),49700
+2022,4,Extremely Low Income (30% AMI),50550
+2021,4,Acutely Low Income (15% AMI),22700
+2022,4,Acutely Low Income (15% AMI),25300
+2014,4,Stanford Minimum Postdoc Salary,44310
+2015,4,Stanford Minimum Postdoc Salary,50000
+2016,4,Stanford Minimum Postdoc Salary,53406
+2017,4,Stanford Minimum Postdoc Salary,53406
+2018,4,Stanford Minimum Postdoc Salary,60000
+2019,4,Stanford Minimum Postdoc Salary,63618
+2020,4,Stanford Minimum Postdoc Salary,64268
+2021,4,Stanford Minimum Postdoc Salary,65568
+2022,4,Stanford Minimum Postdoc Salary,68238
+2014,4,Stanford Minimum Postdoc Salary x2,88620
+2015,4,Stanford Minimum Postdoc Salary x2,100000
+2016,4,Stanford Minimum Postdoc Salary x2,106812
+2017,4,Stanford Minimum Postdoc Salary x2,106812
+2018,4,Stanford Minimum Postdoc Salary x2,120000
+2019,4,Stanford Minimum Postdoc Salary x2,127236
+2020,4,Stanford Minimum Postdoc Salary x2,128536
+2021,4,Stanford Minimum Postdoc Salary x2,131136
+2022,4,Stanford Minimum Postdoc Salary x2,136476

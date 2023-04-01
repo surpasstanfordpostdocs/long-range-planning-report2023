@@ -1,0 +1,878 @@
+---
+title: "RECOMMENDATIONS"
+bibliography: 20230324_SURPAS_Long_Range_Planning_refs_edited.bib
+csl: nature.csl
+---
+
+## Overview
+
+This section of the Report contains recommendations to address the issues identified throughout the previous sections. For each identified issue, specific recommendations are provided for various stakeholder groups. These recommendations call on the stakeholder groups to continue, to change, or to begin a course of action. These recommendations aim to suggest specific policies and actions that comport with the general principles outlined in the Executive Summary. Even as specific policies are implemented, these principles can continue to guide advocacy for postdocs looking to be recognized as full and valued members of the academic research enterprise. These principles include:
+
+* Postdocs should be appreciated and not exploited.
+
+* Postdocs’ basic needs should be met.
+
+* Postdocs should have job security.
+
+* Postdocs should receive job structure and career support outside of their immediate research groups.
+
+* Postdocs should be actively included in University business.
+
+The first stakeholder group for each issue is postdocs themselves as individuals. Recommendations are informed by the lived experience of Committee members and the general postdoctoral population in recognition of the agency postdocs possess in taking direct action to improve their material conditions. The next recommendations are directed at SURPAS (i.e. postdocs working together collectively) and are a crystallization of institutional knowledge from long-serving postdoc organizers. Though most recommendations for postdocs collectively are targeted towards SURPAS specifically, postdocs can and do organize collectively in other ways (e.g. affinity groups); these organized postdocs can take advantage of these recommendations as well. 
+
+The next stakeholder group is Stanford Faculty, highlighting expectations postdocs have of their senior colleagues. The next stakeholder is the Stanford Administration, indicating what is expected of those with decision making power within the university structure. Stanford Administration exists at multiple different levels, ranging from university-wide (Provost level) to local (Department level) and in between (School level) and can have overlap with faculty who fill some administrative positions. We have suggested recommendations directed towards Stanford Admin in general but these may be best implemented at differing levels within that stakeholder group; the Committee leaves specifics of implementation to those who will perform that work. 
+
+Funding bodies (e.g. NIH, NSF, private funders) are included as the next stakeholder group to indicate postdoc perspectives on incentive structures within academic research. Publishing and professional organizations (e.g. journals, preprint servers, professional societies [e.g. National Postdoc Association, Biophysical Society]) are included as the next stakeholder group. Local community members, such as Stanford undergraduates, graduate students, or other non-postdoc groups in Stanford and the Bay Area, are included as the next stakeholder group to provide seeds for future collaboration. Local government is included as the next stakeholder, generally represented by the Board of Supervisors for Santa Clara County since Stanford sits on unincorporated county land. State and national governments represent the final stakeholder.
+
+---
+
+## Costs: Overall
+
+**Identified Issue:** 
+
+Many postdocs at Stanford struggle with covering basic needs for themselves and their families. While Stanford pays more than the NIH’s national minimum salary, the cost of living around Stanford is incredibly high and postdocs continue to struggle to meet necessary costs. Effectively addressing this critical issue would relieve postdocs of the enormous mental toll of financial precarity and allow them to focus on doing their best work.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + apply for supplemental grants provided by Stanford that can help cover some living expenses (e.g. the Family Grant, Childcare Grant, Backup childcare, and Emergency grant-in-aid).
+    + continue to advocate for themselves to their faculty advisors, their department, and school for increases in salary.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advocate for increases to the Postdoc Minimum Salary. 
+    + reach out to and build solidarity with other academic postdocs in the Bay Area. (Postdocs at the University of California went on strike with their union at the end of 2022. SURPAS should invite the UC Postdoc Union to present at a SURPAS Council meeting.)
+    + create a Postdoc Salary Committee to uncover data on local cost of living, postdoc salaries at peer institutions, and investigate other useful comparisons to generate well-justified and heavily evidence-based proposals for Stanford Postdoc Salaries, in support of the advocacy efforts of the SURPAS Co-Chairs.
+    + continue to request aggregated salary data for the postdoc population from the Office for Postdoctoral Affairs.
+    + continue regularly surveying postdocs in order to collect information about their salary level and cost of living pressures.
+    + maintain a historical record of the Stanford Minimum Postdoc Salary (and related details) and the Area Median Income for Santa Clara County, to be used in future salary negotiations. (Refer to Data Tables in [Appendix D](appendixd.qmd).)
+
+* *Stanford Faculty* should:
+    + pay their own postdocs more.
+    + advocate for postdoc salary increases within their own department and school and across the University at large.
+    + include budget requests for postdoc salaries that reflect the cost of living in the Bay Area in grant applications.
+
+* *Stanford Admin* should: 
+    + raise the Postdoc Minimum Salary to restore local area purchasing power for postdocs to pre-2019 levels. For the 2022-23 academic year, this would be $82,000.
+    + raise the postdoc salary to at least the Low Income level (Low Income is defined by the federal government's Department of Housing and Urban Development as 80% of Area Median Income, which for Santa Clara County in 2022 was $92,250) in Santa Clara County for a one-person household so a single postdoc supporting themselves is not required to live in poverty.
+    + increase postdoc salary for each additional year of experience (for instance, by +3.5% per year), as is done by the NIH (i.e. have a graded salary scale for postdocs).
+    + make aggregated postdoc salary data available and transparent on a yearly basis, so that all postdocs at Stanford have a clear understanding of where their own salary fits within the distribution of postdoc salaries at Stanford.
+    + leverage Stanford’s Buffer funds in order to help cover Minimum Postdoc Salaries, for example to offset shortfalls in faculty-obtained grants from funding agencies.
+    + undertake targeted fundraising and create an endowed fund that covers the gap between NIH Minimum Salary and the Low Income level in Santa Clara County ($92,250 in 2022) for postdoc salaries so that faculty can afford to hire postdocs.
+
+* *Funding Bodies* should: 
+    + increase their mandated Minimum Postdoc Salary to account for the existing advanced training and expected research contributions of postdocs.
+    + normalize their minimum funding levels to account for the cost of living where postdocs work.
+    + provide increased funds for senior postdoctoral fellows and research scientists.
+
+* *Publishing and Professional Organizations* should:
+    + highlight the lived reality of material conditions for postdocs and advocate for increased salaries.
+
+* *Local Community* should:
+    + (Bay Area postdoc associations) collaborate with postdocs at Stanford to advocate collectively for better compensation and conditions for all postdocs, particularly given the high cost of living in the Bay Area.
+
+* *Santa Clara County Board of Supervisors* should:
+    + ensure postdocs are included in any studies about workers at Stanford as a specific stakeholder group.
+
+* *State and National Governments* should:
+    + allocate funds to support increased salaries for researchers.
+    + create policies to forgive student loans up to a certain dollar amount for every year of work as a postdoc for all postdocs.
+
+
+---
+
+## Costs: Food Insecurity
+
+**Identified Issue:** 
+
+Postdocs at Stanford suffer from food insecurity and the number has been rising in recent years. In Fall 2019, nearly 10% of postdocs suffered from food insecurity. During the COVID-19 pandemic and before the historic inflation of 2022, that number increased to 36% of postdocs suffering from food insecurity. At the January 2023 SURPAS Council meeting, postdocs were informed they were no longer eligible to utilize the pop-up food pantry created in 2020 (though the service would not turn anyone away).
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + continue to avail themselves of the monthly pop-up food pantry as needed to combat food insecurity.
+    + support each other, for instance through mutual aid efforts.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advertise and send information about the monthly pop-up food pantry to the postdoc population.
+    + continue to advocate for the Postdoc Minimum Salary to be increased.
+    + continue to ask postdocs in regular surveys about their experience of food insecurity.
+    + continue to provide food at all SURPAS-hosted events at no cost to attendees.
+    + form coalitions with other organized groups on campus (undergraduates, graduates, workers) to collectively address this issue.
+
+* *Stanford Faculty* should:
+    + pay their postdocs more.
+    + suggest and promote opportunities for providing postdocs with meals, for instance in one-on-one meetings or lab meetings.  
+    + seek departmental and/or school financial support in order to take your postdoc/s to lunch (as has been done during National Postdoc Appreciation Week in the past).
+    + advertise the existence of the pop-up food pantry to incoming postdocs when they are hired to help new postdocs meet their basic needs.
+    + proactively ask their employees about whether they are able to cover their own basic needs and those of their family on their current salary, and increase their salary accordingly.
+
+* *Stanford Admin* should:
+    + increase the Postdoc Minimum Salary so that in the future no postdocs and their families suffer from food insecurity. Ensure basic needs can be met for postdocs with their salaries in the high cost of living Bay Area.
+    + offer subsidized meal plan services for postdocs on campus.
+    + at the departmental and school level, provide financial support for faculty to provide food for postdocs, for instance in one-on-one meetings or lab meetings.
+    + at the departmental and school level, provide financial support for faculty to take their postdoc/s to lunch (as has been done during National Postdoc Appreciation Week in the past).
+    + publish data on monthly utilization of the pop-up food pantry.
+    + ask about food insecurity on University-wide surveys, and make the data and results from these surveys publicly available.
+
+* *Funding Bodies* should: 
+    + increase mandated minimum postdoc salaries and normalize these to the cost of living in the location of the institution.
+    + penalize institutions that allow postdocs and other trainees to suffer from food insecurity (e.g. by lowering the Facilities and Administrative rate for delinquent universities).
+    + provide funding for researchers to study food insecurity within the academic workforce.
+
+* *Publishing and Professional Organizations* should:
+    + continue to highlight the difficulties faced by postdocs, including meeting their basic needs, in publications.
+    + continue to provide subsidized membership and registration fees to postdocs.
+
+* *Local Community* should:
+    + (Second Harvest Food Bank) evaluate their income limits for access to food banks in light of the historic inflation that occurred in 2022.
+    + (Organized groups on campus) form coalitions with postdoc groups to collectively address this issue.
+
+* *Santa Clara County Board of Supervisors* should:
+    + fund a study to determine the degree of food insecurity for postdocs and all other workers employed by Stanford to determine the drain on county resources due to low compensation for Stanford workers.
+
+* *State and National Governments* should:
+    + increase funding for academic research.
+    + enact policies to eliminate food insecurity and ensure basic needs are met for all residents.
+
+---
+
+## Costs: Housing
+
+**Identified Issue:** 
+
+Very high housing costs in the areas around Stanford and the Bay Area in general mean that postdocs on the Stanford Minimum Salary are highly likely to need to live with one or more other wage-earning adults (e.g. partners, roommates, property owners) or else be Severely Rent Burdened. This issue also includes the related topic of transportation as it is fundamentally linked to housing.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + share information about good housing situations to new and current postdocs, for instance when they leave their roles and move away from Stanford.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advocate for increased salaries for postdocs.
+    + continue to advocate for housing access and housing subsidies.
+    + continue to advocate for subsidizing the Transitional Housing Program for incoming postdocs.
+    + continue to advocate for the Caltrain GoPass program for postdocs (i.e. a CalTrain pass provided to postdocs at no cost to them, which improves affordability by allowing postdocs to live farther away from the University without them having to pay substantially more in transportation costs).
+    + advocate directly to the County Board of Supervisors whenever Stanford reapplies for a new General Use Permit to govern expansion of University facilities.
+    + organize/mediate the sharing of information about good housing situations to new and current postdocs (perhaps through the SURPAS Housing & Transportation Committee).
+
+* *Stanford Faculty* should:
+    + advocate for postdoc affordable housing at the University level.
+    + ask for increased salaries for postdocs on grant applications to account for local housing costs.
+    + increase postdoc salaries beyond the University Postdoc Minimum Salary.
+
+* *Stanford Admin* should:
+    + make Oak Creek postdoc housing rates affordable for postdocs on the Postdoc Minimum Salary (i.e. no more than 30% of the Postdoc Minimum Salary in order to prevent them from being Rent Burdened). See [Stanford Chinese Postdoc Association Housing Costs Letter (2022)](ongoingadvocacy.qmd#stanford-chinese-postdoc-association-housing-costs-letter-(2022)).
+    + provide subsidized housing for postdocs similar to the program for medical residents and research fellows at the Icahn School of Medicine at Mount Sinai.
+    + publicly disclose data on wait list size and actual monthly costs for postdoc housing options provided by the university.
+    + provide expanded transit benefits to reduce costs for postdocs who live far from the University, including VTA passes for people in the South Bay and Muni and BART discounts for people in San Francisco and the East Bay.
+    + convert the Caltrain GoPass program for postdocs from a pilot to a permanent benefit.
+    + subsidize the cost of the Pilot Transitional Housing program for incoming postdocs while limiting the duration of stay to a maximum of four months.
+
+* *Funding Bodies* should: 
+    + increase mandated Minimum Postdoc Salaries and normalize them against the cost of living for the location where postdocs work.
+
+* *Publishing and Professional Organizations* should:
+    + continue to publish stories of how postdocs manage to make ends meet in the face of high housing costs (e.g. by working for their landlord as a handyman like one former postdoc at Stanford).[@scicar.2018-k]
+
+* *Local Community* should:
+    + (Bay Area residents) advocate for building more housing in the region, especially at the affordable end of the spectrum.
+
+* *Santa Clara County Board of Supervisors* should:
+    + require Stanford to build housing for all workers that will be brought to the campus as a condition of approval for any new General Use Permit governing University expansion.
+
+* *State and National Governments* should:
+    + create policies to provide affordable housing for all residents.
+
+---
+
+## Costs: Transition to Postdoc
+
+**Identified Issue:** 
+
+Postdocs moving to Stanford face very high immediate expenses, usually after moving from low-paying positions (e.g. graduate student). Local housing options often require an in-person visit before offering a lease, making transition to new housing difficult.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + provide mutual aid by offering to view apartments for incoming postdocs in their lab, department, or across the University.
+
+* *SURPAS (postdocs collectively)* should: 
+    + facilitate connections for incoming postdocs to help view potential apartments before they arrive at Stanford.
+
+* *Stanford Faculty* should:
+    + provide funds to newly hired postdocs for assistance with moving to Stanford.
+    + submit grant proposals with budget requests to support moving expenses for postdocs.
+    + advocate for moving expenses to be supported at the department, school, or university level.
+
+* *Stanford Admin* should:
+    + create a fund to provide $5,000, need-based relocation assistance for postdocs as requested by SLPA (see [Stanford Latinx Postdoc Association Survey (Fall 2022)](ongoingadvocacy.qmd#stanford-latinx-postdoc-association-survey-(fall-2022)).
+    + continue allowing postdocs access to transitional housing on or near campus through the Transitional Housing program.[@opa.1]
+    + convert the Transitional Housing program from a pilot to a permanent program.
+    + increase the subsidy on housing provided through the Transitional Housing program to lower costs for new postdocs and prevent them from being immediately Rent Burdened upon arrival at Stanford.
+    + publicly disclose data on utilization of transitional housing program, including percentage of entering postdocs who apply, percentage who are accepted, and average duration of stay.
+    + through the Research Management Group (and Research Process Managers, RPMs) provide template budgets for PIs’ grant applications that includes a specific line item to assist with the cost of the postdoc transition to Stanford.
+
+* *Funding Bodies* should: 
+    + provide a moving stipend in grants for when postdocs are hired.
+
+* *Publishing and Professional Organizations* should:
+    + publish stories highlighting postdocs transitioning from previous employment to their postdoctoral role to bring attention to the associated difficulties.
+
+* *Local Community* should:
+    + (current graduate students) help new postdocs joining their lab by helping view apartments for them before they move to the area.
+
+* *Santa Clara County Board of Supervisors* should:
+    + pursue policies to enable construction of more housing, particularly at the affordable end of the spectrum.
+
+* *State and National Governments* should:
+    + develop policies that provide protection and benefits to tenants.
+
+---
+
+## Costs: Childcare
+
+**Identified Issue:** 
+
+Childcare costs are very high in the vicinity of Stanford, and this is after the challenge of finding any available spot in local childcare programs, which often require children to be put on the waiting list before they are even born. The cost of childcare stretches family budgets to the absolute limit.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + apply for all targeted grants and funding provided by Stanford (e.g. the Family Grant, Childcare Grant, Backup childcare, and Emergency grant-in-aid).
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to collect and share information on childcare resources, physician recommendations, and local activities for families via the SURPAS Family Committee.
+    + continue to build community amongst postdocs with dependents.
+
+* *Stanford Faculty* should:
+    + provide higher salaries for postdocs with dependents to enable them to meet basic needs of themselves and their dependents.
+    + advocate at the University level for creation of childcare facilities that are affordable and accessible to postdocs.
+
+* *Stanford Admin* should:
+    + provide on-campus childcare that is affordable and accessible to postdocs. (Wait-lists for current offered service cannot be used as the sole means of determining demand. Waiting times can be longer than some postdoc’s appointments so they do not even bother applying.)
+    + provide standardized 12-weeks of parental leave for all postdocs.
+    + provide funding for childcare at conferences to enable postdocs with dependents to attend conferences with or without their dependents.
+    + publicly disclose data on childcare grants for postdocs, including number of postdocs applying each year, percentage who receive funding, and total amount of money distributed.
+
+* *Funding Bodies* should: 
+    + support childcare costs for postdocs with dependents, both on individual postdoctoral fellowships and on faculty grants.
+    + support parental leave for postdocs within fellowship and grant funding.
+
+* *Publishing and Professional Organizations* should:
+    + offer childcare at conferences included with registration costs, ideally subsidized.
+
+* *Local Community* should:
+    + (graduate student parents) work together in solidarity with the SURPAS Family Committee to compile and share resources for academic workers with families.
+
+* *Santa Clara County Board of Supervisors* should:
+    + include a mandate for building accessible, affordable childcare centers as a condition of approval for any future expansion plans by Stanford under a new General Use Permit.
+    + proactively reach out to postdocs as a critical stakeholder in any Stanford-community related topics that arise on their agenda.
+
+* *State and National Governments* should:
+    + pursue policies to provide universal childcare for all ages before enrollment in local schools.
+    + pursue policies to provide parental leave to all new parents in line with benefits offered in other countries.
+
+---
+
+## Costs: Healthcare for Dependents
+
+**Identified Issue:** 
+
+While the health insurance costs for postdocs who do not have dependents are low, the costs of healthcare for postdocs with dependents represent a very high proportion of their take-home income. Healthcare plans for postdocs consist of a single option and this option is geographically limited. As a result, postdocs who live and work at Stanford-affiliated locations outside the core counties serviced by the health plan (e.g. Hopkins Marine Station in Monterey County) face additional costs and complications.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + if possible, rely on health insurance plans from partners outside academia until such time as cost for benefits are in line with salaries for postdocs (this is an imperfect solution and will not be an option for all postdocs with dependents).
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to provide support and organize resources for postdocs with dependents through the SURPAS Family Committee.
+    + advocate for postdoc dependent insurance plans to be able to cover aged parents of postdocs.
+    + advocate for expansion of plans available to postdocs and their families.
+
+* *Stanford Faculty* should:
+    + cover dependent healthcare costs for postdocs and other academic workers.
+    + advocate for increased plan options and improved affordability for postdoc dependent health insurance.
+
+* *Stanford Admin* should:
+    + return to covering 90% of costs for postdoc dependent health insurance plans (see [SURPAS Family Committee Letter (2020/21)](ongoingadvocacy.qmd#surpas-family-committee-letter-(202021))).
+    + increase plan options available to postdocs, including ability to cover aged parents of postdocs.
+    + increase geographic distribution of plan coverage areas.
+    + increase postdoc salaries so postdocs can afford to have a family.
+    + ensure that health insurance for postdocs with dependents is affordable given the prevailing Stanford Postdoc Minimum Salary.
+    + match benefits to the costs that they are supposed to cover (e.g. the Family Grant covers just a small fraction of the cost of childcare for the funding period).
+    + publicly disclose data on family grant information, including number of postdocs applying, percentage receiving funding, and total amount of money disbursed.
+
+* *Funding Bodies* should: 
+    + provide extra funding for postdocs and trainees who have or gain dependents during their careers.
+
+* *Publishing and Professional Organizations* should:
+    + ensure to provide childcare at conferences that they organize.
+
+* *Local Community* should:
+    + (graduate students, staff) continue to work together with SURPAS Family Committee to advocate for academic workers with families.
+
+* *Santa Clara County Board of Supervisors* should:
+    + send information to postdocs about financial assistance for healthcare they may qualify for through county programs on a regular basis (e.g. quarterly) via coordination with the SURPAS Community Engagement Liaison.
+
+* *State and National Governments* should:
+    + pursue policies to ensure health care is available at no out-of-pocket costs at the point of service for all residents in their borders.
+
+---
+
+## Justice, Diversity, Equity, Inclusion, and Belonging
+
+**Identified Issue:** 
+
+The diversity of the postdoctoral population and the academic workforce at large does not match national or global demographics. Further, while there are some pockets of improvement, the culture and community at Stanford are not yet truly inclusive or equitable. Addressing the critical issue of basic needs (as outlined in the Costs sections above) would be a very good start in also addressing diversity, but more needs to be done in addition to fulfilling basic human needs.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + join and support postdoc affinity groups. A supportive community for all is key to retention of researchers.
+    + support efforts to build community amongst diverse postdocs.
+    + invite colleagues from diverse backgrounds within their personal and professional networks to give research talks at Stanford.
+    + support recruitment efforts that bring more diverse postdocs to Stanford, for instance through the Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM) program, run by the Office for Postdoctoral Affairs (OPA).[@opa-prism]
+    + seek out and complete anti-oppression training, for instance through the Certificate in Critical Consciousness & Anti-Oppressive Praxis (CCC&AOP) program run through the Stanford Office of Inclusion, Community & Integrative Learning (ICIL).[@cccaop]
+    + seek out and complete inclusive mentorship training.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to develop and run DEI efforts such as “Someone Like Me” and “Be a Better Ally” Series (for example by the SURPAS JEDI Committee).
+    + continue to work in collaboration with and provide support to postdoc affinity groups (Stanford Black Postdoc Association [SBPA], Stanford Latinx Postdoc Association [SLPA], Stanford LGBTQIA+ Postdocs, Stanford Chinese Postdocs).
+
+* *Stanford Faculty* should:
+    + seek out and complete anti-oppression training, for instance through a program that could be similar to the CCC&AOP program (currently available to graduate students and postdocs) or the Transforming Self and Systems through Praxis Program (currently available to staff).
+    + seek out and complete inclusive mentorship training.
+    + support and encourage postdocs to participate in DEI efforts and be understanding about the time such efforts require.
+    + proactively recruit postdocs from minoritized backgrounds, for instance by developing relationships with and giving talks at Historically Black Colleges and Universities (HBCUs) and Hispanic Serving Institutions (HSIs).
+    + actively advocate for instituting anti-racist policies in the university setting.
+
+* *Stanford Admin* should:
+    + (for the Office for Postdoctoral Affairs, OPA) continue to run the Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM) program,[@opa-prism] supporting diverse postdoc candidates to visit Stanford’s campus and interview with Stanford faculty.
+    + generate and require anti-racist training, especially for people in positions of power (e.g. faculty). For instance, the Transforming Self and Systems through Praxis Program currently available to staff.[@somhrg.2023]
+    + create funded speaker series to invite current and potential postdocs from diverse backgrounds to give talks at Stanford (e.g. BELONG Neuroscience Seminar Series).[@belongwu.2023]
+    + disambiguate ‘International’ by nation of origin on the IDEAL Dashboard.
+    + develop relationships with Historically Black Colleges and Universities (HBCUs) and Hispanic Serving Institutions (HSIs).
+    + develop strategies to support researchers from diverse backgrounds at Stanford when they arrive. Recruitment without retention efforts is doomed to failure.
+
+* *Funding Bodies* should: 
+    + explicitly include and value DEI work conducted by postdocs at a comparable level to research achievements when making funding decisions.
+
+* *Publishing and Professional Organizations* should:
+    + highlight DEI efforts to help push for widespread adoption of best practices within the academic research community.
+
+* *Local Community* should:
+    + (existing Stanford community centers) proactively reach out to postdocs for inclusion in events and programming, for instance by explicitly welcoming postdocs to join events and by including postdocs on mailing lists.
+
+* *Santa Clara County Board of Supervisors* should:
+    + coordinate with the SURPAS Community Engagement Liaison to invite postdocs to community events.
+
+* *State and National Governments* should:
+    + allocate more funds for researcher salaries to allow people with a wider variety of backgrounds to pursue an academic career.
+
+
+---
+
+## Mentorship & Formal Structure
+
+**Identified Issue:** 
+
+Mentorship experiences for postdocs are highly variable at both the national and local level. Many postdocs feel that they do not receive adequate mentorship within their postdoctoral research group and desire more formal structured training.
+
+**Recommendations:**
+
+
+* *Postdocs themselves (as individuals)* should:
+    + seek opportunities to mentor young scientists earlier in their careers such as through the ChEM-H/IMA Postbac Fellowship in Target Discovery.[@chemh.2023] The impact these experiences have on mentorship philosophy can be recorded in Teaching Statements when applying for jobs on the faculty market.
+    + actively seek out mentors beyond their principal advisor to develop a personalized mentorship team.
+    + proactively schedule Individual Development Plan (IDP) meetings with faculty advisors and thoughtfully prepare for the meeting in advance. Make clear the IDP meeting is scheduled as a discussion of career progression and not a research update.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to design new mentorship programs (e.g. Someone Like Me).
+    + advocate for creation of a mentorship training program for professional development.
+
+* *Stanford Faculty* should:
+    + ensure at least yearly IDP meetings with postdocs that focus on mentorship and career progression beyond standard research update meetings.
+    + seek out and complete management and mentorship training on a regular basis.
+    + offer personalized mentorship to postdocs and advanced academic researchers based on their personal backgrounds and future career plans.
+    + offer opportunities for postdocs to serve as mentors to younger scientists like early stage graduate students and research technicians.
+    + provide funding for postdocs to travel to conferences at least once a year.
+
+* *Stanford Admin* should:
+    + (continue to) create incentive structures that reward and recognize mentorship work performed by both postdocs and faculty.
+    develop mentorship and management training programs for PIs.
+    + develop a mentorship training program for postdocs similar to the Postdoc Teaching Certificate. This would be a structured program for mentorship training that has specific, well-defined criteria for completion that results in a professional certification that could be included on a CV/biosketch.
+    + develop a reporting system for IDP meetings for PIs to fill out in addition to the postdoc reporting form. Create structures and policies that incentivize PIs to report on the meetings and give a consequence for failure to do so.
+    + support mentorship programs designed by early career researchers (e.g. Someone Like Me).
+    + create funds for postdocs to be able to travel to conferences at least once a year.
+
+* *Funding Bodies* should: 
+    + require mentorship training for postdocs and PIs as part of funding awards.
+    + seek regular feedback (e.g. yearly) from trainees in the lab of funded PIs about mentorship received and include that information in renewal decisions.
+    + recognize mentorship postdocs perform.
+
+* *Publishing and Professional Organizations* should:
+    + highlight best practices and examples of successful mentorship training programs for adoption by the broader academic community.
+
+* *Local Community* should:
+    + (Bay Area employers) set up networking events for postdocs (and graduate students) to meet and develop relationships with workers employed outside the academic sector.
+
+---
+
+## Building Community
+
+**Identified Issue:** 
+
+Building community within the postdoc population and within other local (and non-local) communities is essential for making friends, improving mental health, developing innovative collaborations and work satisfaction. Unfortunately, postdocs face more challenges to building community than other groups on campus as a result of working (often) solely within independent research groups that may or may not have any other postdocs in them, not being a part of any timed-entry cohort group (as graduate are, for instance), and have a great deal of pressure (internal or external) on them to work hard and perform at their best. These factors mean that structures to promote the building of community are even more important for postdocs.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + proactively participate in events within their lab, department, school, and across the University, especially postdoc organized events. In addition to forming community with postdocs, these other venues give postdocs the opportunity to integrate more effectively into the university-wide community.
+    + continue to form community groups based on mutual interests. Contemporary examples include WhatsApp groups for hiking, cultural events, cycling, etc. organized on an ad hoc basis.
+    + include advanced researchers and instructors who have transitioned from postdoc to staff roles and postdocs classified as visiting scholars as part of the postdoc community.
+    + apply for funds from the Stanford Postdoctoral Initiative Fund (SPIF) for community-building events. Initial pilots for the Postdoc Wine Appreciation Club and Postdoc Reading Open Social Event (PROSE) Book Club were supported by SPIF.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to hold social events to build community. These types of events include happy hours run by the full Council and activities planned by various SURPAS committees such as the Family Committee Fall Festival or different organized activities coordinated by the Sports Committee.
+    + continue to support the work of the postdoc affinity groups (Stanford Black Postdoc Association [SBPA], Stanford Latinx Postdoc Association [SLPA], Stanford LGBTQIA+ Postdocs, Stanford Chinese Postdocs) in building community. 
+    + continue to offer small grants to postdocs for building community and enriching the postdoc experience via the Stanford Postdoctoral Initiative Fund (SPIF) program.[@spif.2023] This is required by [Article II, Section 6](appendixa.qmd#article-ii-legislative-branch) of the SURPAS By-Laws.
+    + set up a ‘buddy system’ pairing newly arriving postdocs together in small groups to create a postdoc cohort. These groups can and should include some older postdoc volunteers who can help share knowledge and resources to the new cohorts.
+    + actively invite postdocs who have transitioned into staff roles to join postdoc community events.
+    + actively invite postdocs who are officially classified as Visiting Scholars to join postdoc community events.
+    + advocate for the creation of an endowed fund to cover the yearly SURPAS operating budget.
+    + explore strategies to develop an independent funding source, potentially following models from ASSU, which has been financially independent from the University since 1995,[@sse.2023] or The Stanford Daily, which has been independent of the University since 1973.[@daily.2023-3]
+
+* *Stanford Faculty* should:
+    + proactively make sure postdocs are included in community building events at the lab, department, school, and university levels.
+    + ensure postdocs have a place to celebrate the American holiday Thanksgiving, for instance by inviting lab members to their home.
+
+* *Stanford Admin* should:
+    + designate a community space for postdocs.
+    + empower postdocs to more easily book rooms on campus.
+    + formally recognize postdoc affinity groups.
+    + perform targeted fundraising to create an endowed fund to provide the SURPAS operating budget. Funding for SURPAS is contingent upon distribution from OPA and VPGEPA, and has not had increases that meet inflation. Occasionally, administrators threaten SURPAS with removal of funding if the organization pursues certain avenues of advocacy. An endowed fund would provide long-term stability and independence to SURPAS.
+
+* *Funding Bodies* should: 
+    + create grants that postdocs and other trainees can apply for to receive funding to build community, especially for marginalized groups underrepresented in academia.
+
+* *Publishing and Professional Organizations* should:
+    + highlight stories of successful examples of community building by postdocs and other trainees to showcase models that can be adapted to other institutions.
+
+* *Local Community* should:
+    + (existing community centers on campus) include postdocs in outreach for community building and cultural events.
+
+* *Santa Clara County Board of Supervisors* should:
+    + coordinate with the SURPAS Community Engagement Liaison to invite postdocs to community events.
+
+* *State and National Governments* should:
+    + track and disclose on a publicly accessible dashboard statistics about postdocs (e.g. number, compensation, place of employment) working within their borders.
+
+---
+
+## Postdoc Visibility
+
+**Identified Issue:** 
+
+Postdocs are a largely invisible population on and off campus. Postdocs are rarely acknowledged as an important stakeholder at the University and are often not included in conversations that are relevant to them. This lack of visibility leads to postdocs being excluded from much of campus life and not supported in the ways that they should be.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + actively participate in Stanford town halls and organized events that take place across the university.
+    + actively participate in school and departmental events and bodies, including retreats and committees.
+    + actively participate in SURPAS-hosted events, including the Postdoc Symposium.
+
+* *SURPAS (postdocs collectively)* should: 
+    + form coalitions with other organized groups of community members, including graduate students (e.g Graduate Student Council (GSC)) and medical residents (e.g. Stanford House Staff Union),[@shsu.2023] undergraduates, research staff, and campus workers represented by SEIU 2007[@seiu2007] or subcontracted workers employed by UG2.
+    + (SURPAS Council) pass a resolution calling on GSC and the Undergraduate Senate in support of postdocs to bring the Long Range Planning Report to the agenda of the Faculty Senate. Currently, a joint resolution by GSC and the Undergraduate Senate can bring a topic to the Faculty Senate agenda but postdocs have no formal mechanism for raising issues.
+
+* *Stanford Faculty* should:
+    + acknowledge the work of postdocs (e.g. in research publications, in grant applications, in mentoring, in lab management).
+    + support the removal of the “PI Waiver” requirement for postdocs applying for grants.
+    + support postdocs being included in University initiatives. This could include ensuring there is a postdoc representative on all committees on which faculty serve, including graduate student admissions, faculty hiring, faculty promotion, and University search committees (e.g. the Provost search committee).
+    + create a mechanism by which postdocs can raise a topic to the Faculty Senate agenda.
+
+* *Stanford Admin* should:
+    + proactively reach out to postdocs when holding events for the university community. It is not enough to add that a community session is nominally open to postdocs if there is no active outreach to our community.
+    + include postdocs with voting seats on University committees. True participation and representation requires the ability for people who are impacted by decisions to have a real say in those decisions.
+    + remove the requirement for a “PI Waiver” when postdocs are applying for fellowships and grants.
+
+* *Funding Bodies* should: 
+    + recognize university service in fellowship funding decisions (i.e. make it a specific criterion on which to judge).
+
+* *Publishing and Professional Organizations* should:
+    + write profiles of postdoctoral researchers.
+    + annotate author lists on publications with the career stage of the authors (in order to address, for instance, “how often are postdocs listed as first author or corresponding author?”).
+
+* *Local Community* should:
+    + (The Stanford Daily) assign a journalist to the ‘postdoc beat’, for instance, by sending someone to report on monthly SURPAS Council meetings.
+    + (GSC and Undergraduate Senate jointly) pass a resolution in coalition with SURPAS calling for the creation of a mechanism that allows postdocs to raise a topic on the Faculty Senate agenda.
+
+* *Santa Clara County Board of Supervisors* should:
+    + proactively reach out to postdocs as key university stakeholders.
+
+* *State and National Governments* should:
+    + create and fund policy fellowships targeted to postdocs.
+
+---
+
+## Postdoc Status
+
+**Identified Issue:** 
+
+Uncertain status of postdocs between student and employee. Postdocs are often unaware of their rights due to this uncertain classification and a lack of knowledge around labor laws for a population that is composed of a majority of people on temporary visas. The five-year time limit for postdocs is another way this uncertainty is embodied - based on focus group conversations, the official transition to staff after reaching the postdoc time limit rarely is accompanied by a change in duties or responsibilities.
+
+**Recommendations:**
+
+
+* *Postdocs themselves (as individuals)* should:
+    + educate themselves about their rights as workers within the United States.
+    + invite and include staff scientists who have transitioned from their postdoc role to events organized by postdocs.
+
+* *SURPAS (postdocs collectively)* should: 
+    + proactively reach out to the Santa Clara County Office of Labor Standards Enforcement to set up a “Know Your Rights” Training at a Council Meeting. Given the transient nature of postdocs, holding regular trainings (e.g. yearly) would be important.
+
+* *Stanford Faculty* should:
+    + provide explicit expectations on contracts and timelines, with a clear path to a permanent position wherever possible.
+    + (continue to) provide effective mentoring for longer term career development 
+    + (continue to) provide full and proper recognition of postdocs’ work through authorships in papers, 
+    + (continue to) acknowledge individual postdocs’ contributory roles in grants by including them as named co-writers.
+
+* *Stanford Admin* should:
+    + officially define a postdoc as any non-tenure track, non-administrative academic employee holding a terminal degree.
+    + offer matched contributions to retirement accounts for postdocs.
+    + increase postdoc salaries for each additional year of experience as is done by the NIH.
+    + create long-term research staff positions.
+    + (continue to) inform postdocs of the grants and fellowships that are available to them. For instance, by the Research Management Group (RMG).
+
+* *Funding Bodies* should: 
+    + create long-term research staff positions that are compensated appropriately.
+    + provide increased funds for senior postdoctoral fellows and research scientists.
+
+* *Publishing and Professional Organizations* should:
+    + write about the status of non-faculty doctorate holding researchers within academia, a role that has received even less attention than the postdoc position.
+
+* *Local Community* should:
+    + (postdoc unions at UCSF and UC Berkeley) talk with postdocs at Stanford to help educate on labor rights of postdocs.
+    + (Stanford House Staff Union) speak with postdocs to talk about Stanford-specific conditions that led medical residents to choose to unionize.
+
+* *Santa Clara County Board of Supervisors* should:
+    + coordinate with SURPAS via the Office of Labor Standards Enforcement to help inform our (mostly international) community about labor law and rights in the United States with a “Know Your Rights” Training.
+
+* *State and National Governments* should:
+    + positively affirm the worker rights of the highly skilled workforce carrying out advanced academic research (e.g. through the National Labor Relations Board).
+
+---
+
+## Insecurity: Job
+
+**Identified Issue:** 
+
+Postdocs are positioned as a transitory role in academia, and this period is defined by high pressure to produce research output along with high uncertainty of success in the faculty job market (most academic postdocs do not go on to tenure-track roles). This means that a postdoc has deep uncertainty built into it and this is compounded with additional job insecurity due to short-term contracts (often of a single year at a time).
+
+**Recommendations:**
+
+
+* *Postdocs themselves (as individuals)* should:
+    + make decisions that are most appropriate for themselves and their families in planning for the future.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advocate for multi-year postdoc contracts.
+    + continue to advocate for matched contributions to retirement accounts for postdocs. 
+    + continue to highlight the loss of stable, tenure-track jobs from the academic workforce and the related impacts on current and future postdocs.
+
+* *Stanford Faculty* should:
+    + communicate expectations and timelines clearly to postdocs, regardless of contract time limits.
+    + offer multi-year contracts (at least two years) for each hiring and renewal for postdocs.
+    + advocate against the removal of tenure track jobs and replacement of academic labor with contingent and adjunct roles.
+
+* *Stanford Admin* should:
+    + institute multi-year minimum contract lengths.
+    + provide matched contributions to retirement accounts for postdocs.
+    + increase compensation for postdocs based on years of experience.
+    + reverse the trend of replacing tenure track faculty with contingent and adjunct faculty.
+
+* *Funding Bodies* should: 
+    + create permanent staff positions for senior researchers.
+    + create incentive structures that encourage hiring of tenure track faculty and discourage replacement of stable jobs with contingent and adjunct roles.
+
+* *Publishing and Professional Organizations* should:
+    + specifically highlight the increase in contingent and adjunct roles at the expense of tenure track roles and the associated implications for the academic workforce.
+    + research and write about the conditions for non-faculty doctorate holding researchers within the academic workforce.
+
+* *Local Community* should:
+    + (Bay Area Postdocs) coordinate with postdocs at Stanford to advocate for better conditions for all academic workers across the region and country, especially postdocs.
+
+* *Santa Clara County Board of Supervisors* should:
+    + send regular emails (e.g. quarterly) to postdocs via Community Engagement Liaison highlighting County services postdocs may be eligible for in order to help academic workers meet basic needs during their time working as postdocs.
+
+* *State and National Governments* should:
+    + increase funding for early career researchers to allow for greater stability in life planning.
+    + create more funding for tenure track faculty positions and discourage replacement of stable employment with contingent and adjunct roles.
+
+
+---
+
+## Insecurity: Immigration
+
+**Identified Issue:** 
+
+The job insecurity that postdocs face (see above) is further compounded for international postdocs (>60% of postdocs at Stanford) by stress around immigration requirements and obtaining visas. Short-term contracts mean short-term immigration documents and regular re-applications for visas in order to continue working as a postdoc in the US.
+
+**Recommendations:**
+
+
+* *Postdocs themselves (as individuals)* should:
+    + plan far in advance for obtaining and renewing visas.
+    + continue to provide mutual aid and personal experience (e.g. via the postdoc exchange listserv) to help postdocs with visa applications.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advertise peer-resourced mutual aid and sharing of personal experience applying for visas and navigating bureaucracy. 
+    + reach out to Stanford Law School to inquire about setting up free legal advice clinics for postdocs.
+
+* *Stanford Faculty* should:
+    + provide contracts longer than 1 year to provide stability.
+    + understand that international postdocs will need to spend time and money applying for visas.
+    + actively engage and be knowledgeable about visa processes to support, remind, guide, and provide the necessary resources to their postdocs.
+
+* *Stanford Admin* should:
+    + standardize postdoc visa services across departments and spread best practices. Currently, different departments provide different levels of support for international postdocs based on localized policy decisions and administrative staff capacity.
+    + where possible encourage contracts that have a duration longer than one year in order to obtain visas that also have a duration longer than one year.
+
+* *Funding Bodies* should: 
+    + create more funding opportunities that are available to non-citizen/permanent resident researchers who work in the US.
+
+* *Publishing and Professional Organizations* should:
+    + highlight contributions to the academic research enterprise in the US made by researchers who are on temporary visas.
+
+* *Local Community* should:
+    + (Stanford Law School) provide free consultations for postdocs seeking assistance with visa issues.
+    + (Bechtel International Center) proactively reach out to and include postdocs with community events and support services.
+
+* *Santa Clara County Board of Supervisors* should:
+    + send quarterly emails to postdocs at Stanford via Community Engagement Liaison with information about the Santa Clara County Office of Immigrant Relations.[@scci.2023]
+
+* *State and National Governments* should:
+    + streamline the visa process for advanced researchers working at non-profit universities.
+    + provide visas that allow spouses of academic workers to obtain employment to supplement postdoc salaries.
+
+---
+
+## Career Tracking & Job Seeking
+
+**Identified Issue:** 
+
+Data on postdoc career outcomes are scarce (or not openly available), particularly at the local level. Without data such as these, postdocs and potential postdocs cannot make informed decisions around their own career planning.
+
+**Recommendations:**
+
+
+* *Postdocs themselves (as individuals)* should:
+    + share knowledge of personal career outcomes (place of employment and salary).
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advocate for SURPAS to receive access to the postdoc alumni network (for instance, from BioSci Careers) in order to establish connections for future career development in academia and industry.
+    + serve as a repository of information about postdoc career transitions and salary scales, to be publicly posted after anonymization.
+
+* *Stanford Faculty* should:
+    + (continue to) track and publicly disclose on their lab webpages the career transitions made by postdocs who have left their labs.
+
+* *Stanford Admin* should:
+    + join the Coalition for Next Generation Life Sciences. 
+    + publicly disclose all (anonymized) postdoc career tracking data (i.e. for all postdocs, not just in life sciences). In addition to posting yearly totals of postdoc numbers on IDEAL Dashboard, turnover should be included (i.e. number of new postdocs joining, number of postdocs leaving,). 
+    + include median postdoc time at Stanford disaggregated across departments as is possible whilst maintaining anonymity. 
+    + allow postdocs to join the Stanford Alumni Network.
+    + (continue to) facilitate networking opportunities for postdocs, with industry-specific career mentors and Stanford alumni. For instance, through Stanford Career Education[@sce.2023] and the School of Medicine BioSci Careers.[@bsc.2023]
+
+* *Funding Bodies* should: 
+    + consider both participation in open data sharing on postdoc outcomes (e.g. Coalition for Next Generation Life Sciences) and the results of those outcomes in funding decisions.
+    + require tracking of postdoc career outcomes by funded institutions. Postdoc career outcomes are an important component for understanding the robustness of the academic research ecosystem.
+
+* *Publishing and Professional Organizations* should:
+    + utilize national data and generate surveys to track career outcomes for early career researchers.
+    + investigate the replacement of tenure track faculty roles with contingent and adjunct roles.
+
+* *Local Community* should:
+    + (local employers) highlight postdoctoral experience (or lack thereof) for workers they employ.
+
+* *Santa Clara County Board of Supervisors* should:
+    + track and disclose publicly (e.g. via online dashboard) employment statistics for all workers within the County disaggregated across employment sectors with information including total number of employees and wage and benefits statistics.
+
+* *State and National Governments* should:
+    + mandate tracking of postdoc career outcomes. State and national governments invest a great deal of resources in training researchers through graduate education and postdoctoral work. Postdoc career outcomes are an important component for understanding the governments’ return on investment in this space. For instance, how many postdocs go on to a career that did not require their postdoctoral training? What is the best way to distribute research funding?
+
+---
+
+## Incentives in Academia
+
+**Identified Issue:** 
+
+Academic incentive structures are not aligned with the needs of the workforce. Within existing academic incentive structures, it is difficult for postdocs to gain credit or recognition for the work they perform (e.g. postdocs don’t get credit for mentoring, grant-writing, or peer review on paper, just by word of mouth from their advisor).
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + sign up to serve as reviewers for journals in their discipline.
+    + actively highlight contributions such as mentoring, grant writing, and peer review in CVs and resumes.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advocate for recognition of ongoing work performed by postdocs that goes unacknowledged due to lack of metrics within current incentive structures (e.g. DEI work).
+
+* *Stanford Faculty* should:
+    + proactively include postdocs in grant writing and peer review processes, and give them credit for this work (e.g. by naming them as core contributors). This may require the removal of the “PI Waiver” requirement (see the Postdoc Visibility section).
+    + (continue to) highlight contributions from postdocs clearly in recommendation letters.
+    + advocate for creation of incentive structures to recognize work that currently goes unrewarded and uncompensated.
+    + recognize work beyond published papers (e.g. peer review, organizing conferences, DEI work, etc.) in hiring and tenure decisions.
+
+* *Stanford Admin* should:
+    + make an official tracking platform similar to the postdoc teaching certificate to validate and acknowledge the contributions of postdocs in mentorship. This would be a structured program for mentorship training that has specific, well-defined criteria for completion that results in a professional certification that could be included on a CV/biosketch.
+
+* *Funding Bodies* should: 
+    + recognize mentoring, peer review, etc. as part of selection criteria in funding decisions.
+    + track contributions to the research enterprise beyond paper publication, such as peer review and contributions to grant writing from those who do not serve as Principal Investigators.
+
+* *Publishing and Professional Organizations* should:
+    + adopt and continue models of open peer review, annotated with the career stage of reviewers.
+    + provide monetary compensation to peer reviewers.
+
+* *Local Community* should:
+    + (Bay Area Postdoc Associations) work together with postdocs at Stanford to help recognize work by early career researchers that is currently unacknowledged.
+
+* *Santa Clara County Board of Supervisors* should:
+    + create funded positions and grants to leverage the expertise of local academic employees in researching and implementing policy topics.
+
+* *State and National Governments* should:
+    + create funded positions and grants to leverage the expertise of local academic employees in researching and implementing policy topics.
+
+---
+
+## Orientation & Communication
+
+**Identified Issue:** 
+
+Onboarding and orientation are overwhelming and ineffective for new postdocs. After onboarding, there is not a centralized platform where one can access all the required information for a postdoc. The OPA website itself is not enough, a lot of the information comes from listserv or word-of-mouth after arriving on campus.
+
+**Recommendations:**
+
+
+* *Postdocs themselves (as individuals)* should:
+    + continue to share personal knowledge and experiences with incoming postdocs.
+    + proactively seek out administrators to receive needed information.
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to promote the available resources to incoming and new postdocs at council meetings or social gatherings.
+    + facilitate the creation of a ‘cohort’ or ‘buddy system’ in which new postdocs are assigned to small groups to give specific points of contact to share knowledge and best practices. These groups of new postdocs should also include older postdoc volunteers to be able to provide insight from experience.
+
+* *Stanford Faculty* should:
+    + educate themselves on resources available to postdocs and proactively inform their newly hired postdocs about relevant topics.
+
+* *Stanford Admin* should:
+    + make a centralized on-boarding document that can list all available resources for postdocs. This document should be shared online.
+    + have a follow-up orientation presentation other than the first on-boarding meeting (which has more information than one can absorb at the time).
+    + assist in administering the cohort/buddy system to connect postdocs with each other.
+
+* *Funding Bodies* should: 
+    + require an on-boarding plan for incoming postdocs as part of the training plan in fellowship applications.
+
+* *Publishing and Professional Organizations* should:
+    + (professional organizations) hold quarterly webinars with general information for incoming postdocs based on the location of the organization.
+
+* *Local Community* should:
+    + (Undergraduates and Graduate students) share relevant and helpful information to new Postdocs arriving in their lab.
+
+* *Santa Clara County Board of Supervisors* should:
+    + direct the Office of Labor Standards Enforcement to send quarterly ‘Know Your Rights’ information to postdocs at Stanford.
+
+* *State and National Governments* should:
+    + (State) work with local Universities to set up a state-specific guideline for incoming Postdocs that can be adopted by individual Universities.
+    + (National) work with the National Postdoc Association and Universities to set-up a general guideline for incoming postdocs.
+
+
+---
+
+## Personal Health & Safety
+
+**Identified Issue:** 
+
+Postdocs face a variety of personal health and safety risks on campus. Postdocs may work long or unusual hours and therefore need to be on and moving around campus late at night; Black postdocs may be asked by campus police (Stanford Department of Public Safety) to show their University ID in order to justify their existence in this space (as has occurred on numerous occasions on Stanford campus); postdocs may not be able to work remotely and so be required to work on-site even in the midst of a pandemic; international postdocs may feel less able to speak up about workplace harassment or abuse given their immigration status, particularly so if the harasser/abuser is in a position of power over them; postdocs are also vulnerable to mental health issues. Notably, these risks are in addition to the regular occupational health and safety risks of working in a lab environment.
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + monitor local COVID levels through tracking wastewater on the County COVID Dashboard.[@sccph.2023]
+    + utilize Stanford-provided COVID antigen tests as needed.
+    + familiarize themselves with campus safety amenities, such as 5-SURE Safe Rides.[@5sure]
+    + watch out for the safety of others around them (be an upstander, not a bystander).
+
+* *SURPAS (postdocs collectively)* should: 
+    + continue to advocate for more community oversight for the campus police (Stanford Department of Public Safety).
+    + continue to advocate for clearer communication from Stanford Admin around public health concerns (including pandemics).
+    + continue to offer spaces and opportunities for postdocs to raise issues that have affected them or that they are concerned about.
+    + act in solidarity with Faculty, Admin, and other campus stakeholders to ensure that all postdocs (and everyone else) are safe at all times.
+
+* *Stanford Faculty* should:
+    + ensure cultures of safety in the laboratory are developed and adhered to.
+    + be attuned to the safety concerns of their group members by asking them about it.
+    + advocate to Stanford Admin for improvements in safety amenities across campus to ensure that everyone is safe at all times.
+
+* *Stanford Admin* should:
+    + continue to ensure stringent laboratory safety protocols and strong cultures of experimental safety through Environmental Health & Safety.
+    + restore full service of Marguerite Shuttles on campus to pre-pandemic levels.
+    + mandate anti-racist training for members of Stanford University Department of Public Safety.
+    + proactively invite postdocs to meetings and reports from the Community Board on Public Safety.[@cbps]
+    + allow for postdocs and other community members to opt in to continued surveillance testing beyond antigen testing for symptomatic individuals (e.g. nucleic acid-based provided through Color during the pandemic).
+    + ensure walkways on campus are well-lit and emergency access points are available.
+    + continue to provide ready access to mental health services for postdocs.
+
+* *Funding Bodies* should: 
+    + factor compliance with professional codes of conduct in funding decisions.
+
+* *Publishing and Professional Organizations* should:
+    + create and enforce codes of conduct for membership.
+    + research and report on mental health challenges within the postdoc population.
+
+* *Local Community* should:
+    + (undergraduate and graduate student bodies) work in solidarity with SURPAS to advocate for improved safety measures across campus.
+
+* *Santa Clara County Board of Supervisors* should:
+    + create an easy to access mechanism for members of the Stanford community to report any topics related to the Stanford Department of Public Safety that may require the Board to exercise its oversight authority. Stanford Department of Public Safety employees are deputized by the Santa Clara County’s Sheriff Office but are private employees of Stanford University. The situation is similar to municipal police departments but without typical mechanisms for public oversight.
+
+* *State and National Governments* should:
+    + continue to require reporting of sexual violence on campuses through Title IX.
+
+---
+
+## Language in Communication
+
+**Identified Issue:** 
+
+A majority of postdocs at Stanford are international, meaning that a significant fraction do not speak English as a first language. Even for international postdocs from English-speaking countries, cultural and historical background can give rise to misunderstandings (see [Article VIII: External Communications, Section 4](appendixa.qmd#article-viii-external-communications) in Appendix A: SURPAS (Stanford Postdoc Association) Bylaws). At the same time, effective communication is an essential skill in academic and research careers. 
+
+**Recommendations:**
+
+* *Postdocs themselves (as individuals)* should:
+    + seek opportunities to develop linguistic and cultural understanding within the US academic context.
+    + actively seek out and engage in anti-racism training.
+
+* *SURPAS (postdocs collectively)* should: 
+    + arrange anti-racism training sessions for all postdocs.
+    + advocate for the creation of anti-racism training sessions for Stanford community members.
+    + continue to provide spaces for postdocs to practice their communication and presentation skills (e.g. SURPAS Postdoc Symposium).
+
+* *Stanford Faculty* should:
+    + continue to offer opportunities for postdocs to practice presenting their work in low-stakes settings (e.g. at group meeting in advance of a conference talk).
+    + advocate for the creation of anti-racist training sessions for Stanford community members.
+    + encourage postdocs to present their work at conferences and meetings, both at Stanford and beyond.
+
+* *Stanford Admin* should:
+    + (Office of Postdoctoral Affairs) continue to offer courses on oral communication for non-native english speakers.[@opa.2023-4]
+    + develop mandatory anti-racist training sessions for Stanford community members.
+
+* *Funding Bodies* should: 
+    + require anti-racist training sessions as a condition of receiving funding.
+
+* *Publishing and Professional Organizations* should:
+    + provide resources for communicating research findings in languages other than English.
+provide resources for aiding researchers whose first language is not English to improve their English communication skills.
+

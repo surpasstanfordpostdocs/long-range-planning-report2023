@@ -1,0 +1,89 @@
+---
+title: "EXECUTIVE SUMMARY"
+#order: 2
+---
+
+[Postdocs at Stanford](background.qmd) are an extremely highly educated group of researchers drawn from all over the world. As of 2023, there are nearly 2500 postdocs at Stanford. Since 1998, postdocs at Stanford have been represented by SURPAS (the Stanford University Postdoc Association).
+
+## Purpose
+The [purpose](purpose.qmd) of the Long Range Planning process was **to build a shared collective vision of the future of postdocs at Stanford.** That process led to the creation of this Report.
+ 
+This Report aims to serve a number of subsidiary purposes:
+
+* To communicate a vision for the future of postdocs at Stanford and to coordinate continued advocacy efforts towards strategic goals in pursuit of that vision.
+
+* To provide a snapshot-in-time record of postdoc advocacy efforts at Stanford.
+
+* To communicate the conditions and thoughts of postdocs at Stanford to others, including non-postdoc allies and postdocs at other institutions.
+
+## Outline
+
+The body of this Report contains four sections, addressing:
+
+1. The broader [occupational context](competitivelandscape.qmd) of the postdoc population in the US;
+
+2. The [historical context](previouswork.qmd) of postdoc representation and advocacy at Stanford;
+
+3. The [current mindset of postdocs](focusgroups.qmd) at Stanford, ascertained through focus groups; and,
+
+4. Contemporary [advocacy efforts](ongoingadvocacy.qmd) of postdocs at Stanford.
+
+The Report concludes with an extensive list of [recommendations](recs.qmd) broken down by specific issues faced by postdocs and action items for specific stakeholders.
+
+## Findings
+
+**In brief, the findings of this Report are:**
+
+* Postdocs in academia are underpaid.
+
+* In real terms, postdocs at Stanford are additionally underpaid and have lost ground in recent years relative to local cost of living.
+
+* Postdocs at Stanford with dependents face extreme financial pressures.
+
+* Most postdocs in academia do not become tenure-track researchers.
+
+* Postdocs at Stanford crave more structured training and more information on expectations and outcomes.
+
+* Postdocs at Stanford exist in an occupational limbo; not students, not staff.
+
+* Postdocs at Stanford are underappreciated, performing labor that goes unacknowledged and/or uncredited.
+
+* Postdocs at Stanford appreciate the resources and opportunities for research provided by Stanford, and love the vibrant postdoc community.
+
+* Postdocs at Stanford continue to face specific Justice, Diversity, Equity, Inclusion, and Belonging issues. However, these are overshadowed by difficulties in fulfilling basic human needs.
+
+* Postdocs at Stanford face job instability in the short term because of single-year contracts and in the longer term because of the 5-year postdoc term limit at Stanford.
+
+* Postdocs at Stanford who are international (>60%) face additional job and life instability due to single-year visa extensions.
+
+## Vision
+
+Our Vision for the future is:
+
+> **Postdocs at Stanford should be enabled to perform the best research possible, and be supported to achieve success in their subsequent careers inside or outside of academia.**
+
+## Principles
+
+* **Postdocs should be appreciated and not exploited.**
+    + Postdocs should receive salary and benefits commensurate with their existing high level of training and their expected contributions to the research enterprise.
+    + Postdocs at Stanford should receive yearly increases in their salary in accordance with their increasing research experience (as is done by the NIH and was done in the past at Stanford). 
+    + Postdocs at Stanford should be classed as advanced research staff and not as students or trainees, and receive employment benefits in accordance with this.
+
+* **Postdocs’ basic needs should be met.**
+    + On top of the level of compensation that acknowledges postdocs’ experience and contributions (see above), postdoc salary and benefits at Stanford should be increased to account for the high cost-of-living of the local area.
+    + The minimum salary should be set at a level such that postdocs do not need to spend more than 30% of their income on housing.
+    + Stanford should provide childcare facilities such that all postdocs are able to find a place for their child/ren and postdocs should not be required to spend more than 30% of their income on childcare.
+
+* **Postdocs should have job security.**
+    + The postdoc period should not be limited to 5 years. There should be no distinction made between “postdocs” and “research staff”. Postdocs are advanced research staff.
+    + Postdocs should be employed as permanent staff, with provisions to terminate their employment if explicitly stated conditions are not met, rather than yearly contracts.
+    + Work visas should be sought and supported to reflect this permanent staff work status in order to allow for international researchers to continue to work at Stanford as now.
+
+* **Postdocs should receive job structure and career support outside of their immediate research groups.**
+    + Structured guidance should be provided to postdocs at multiple points throughout their time at Stanford, ideally in a cohort setting. The existing postdoc orientation session run by OPA is appreciated but overwhelming.
+    + Career tracking of past postdocs should be undertaken and the findings communicated to current postdocs in the context of career planning.
+    + Group leaders should receive training to improve their mentorship skills.
+
+* **Postdocs should be actively included in University business.**
+    + Postdocs should continue to have representatives sit on University committees and working groups, ideally with voting rights.
+    + Postdocs should have a formal mechanism for raising issues to the Faculty Senate.

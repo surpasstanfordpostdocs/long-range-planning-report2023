@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "long-range-planning-report2023"
+  page-navigation: true
+  sidebar: 
+    style: "docked" #"floating" 
+    search: true
+    title: "SURPAS Long Range Planning Report 2023: The Future of Postdocs at Stanford"
+    subtitle: "The Future of Postdocs at Stanford"
+    contents: 
+      - contents.qmd
+      - execsumm.qmd
+      - section: "Front Matter"
+        contents:
+          - acknowledgements.qmd
+          - background.qmd
+          - purpose.qmd
+      - section: "Body of Report"
+        contents:
+          - competitivelandscape.qmd
+          - previouswork.qmd
+          - focusgroups.qmd
+          - ongoingadvocacy.qmd
+      - recs.qmd
+      - conclusions.qmd
+      - biblio.qmd
+      - section: "Appendices"
+        contents:
+          - appendixa.qmd
+          - appendixb.qmd
+          - appendixc.qmd
+          - appendixd.qmd
+          - charts.qmd
+      - downloads.qmd
+    #collapse-level: 1
+
+  #google-analytics: "UA-XXXXXXXX"
+
+format:
+  html:
+    theme: 
+      - yeti #sandstone #pulse #cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    code-fold: true
+    fontsize: 11pt
+    link-external-newwindow: true
+    link-external-icon: true
+    #linkcolor: firebrick
+
+jupyter: python3
+
+
+
+
+
+
+
+

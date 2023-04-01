@@ -1,0 +1,21 @@
+---
+title: "Download the Report"
+---
+
+## Download the Full Report
+
+The SURPAS Long Range Planning Report was originally formulated as a printable document. 
+
+Download the full Report [here](data/SURPAS_LongRangePlanningReport2023_FINAL.pdf). (pdf format, 4MB)
+
+Recommended citation:
+```
+@misc{surpaslrp.2023, 
+year = {2023}, 
+title = {{SURPAS Long Range Planning Report: The Future of Postdocs at Stanford}}, 
+author = {{SURPAS Long Range Planning Committee}}, 
+url = {https://github.com/surpasstanfordpostdocs/long-range-planning-report2023}, 
+urldate = {2023-4-1}, 
+month = {4}
+}
+```

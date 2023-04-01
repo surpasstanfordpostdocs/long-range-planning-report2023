@@ -1,0 +1,45 @@
+---
+title: "Purpose, Mission, & Process"
+bibliography: 20230324_SURPAS_Long_Range_Planning_refs_edited.bib
+csl: nature.csl
+---
+
+## Purpose, Mission, & Process for SURPAS Long Range Planning
+
+Beginning in early 2020, SURPAS has been engaged in a Long Range Planning process, the *purpose* of which is **to build a shared collective vision of the future of postdocs at Stanford**.
+
+During this collaborative process, the SURPAS Long Range Planning Committee (“the Committee”) sought participation and feedback from all interested postdocs in order to formalize the expectations, hopes, and goals regarding life as a postdoc.
+
+The *mission* of the Committee was **to conduct a community-oriented, bottom-up process to assess the broad vision and strategic goals of the postdoc community and provide clear communication of these to all postdocs now and into the future, as well as to other stakeholders**.
+
+The Long Range Planning process sought to be a means of detailing what work postdocs believe needs to be done, providing recommendations for how to achieve change, and setting mile markers that future postdocs can use in their advocacy efforts.
+
+The Committee conducted three major information-gathering efforts: 
+
+* the first was to pull together an understanding of the [competitive landscape](competitivelandscape.qmd) for postdocs based upon published research, career-focused reporting, and labor statistics; 
+
+* the second was to [review past reports, presentations, and other documents](previouswork.qmd) produced by former postdoc representatives at Stanford, predominantly those operating within SURPAS or one of the postdoc affinity groups (Stanford Black Postdoc Association, Stanford Latinx Postdoc Association, LGBTQIA+ Postdocs, Stanford Chinese Postdoc Association); and,
+
+* the third was to conduct a [series of focus groups](focusgroups.qmd) with postdocs currently at Stanford to gain a deeper understanding of what postdocs are thinking about regarding their own experiences and the future of postdocs at Stanford. 
+
+The Committee then synthesized the information gathered through these three major efforts into the present Long Range Planning Report (“the Report”), which is to be made publicly accessible.
+
+Many issues brought before SURPAS require sustained advocacy for a number of years to bring about change. This Report aims **to serve as a vehicle to coordinate advocacy for postdocs through time**.
+
+The Committee’s intention was to create a living document, with each new generation of postdocs engaging in their own Long Range Planning process to determine what a postdoc means to them.
+
+This Report contains recommendations of action items for postdocs and other stakeholders within and beyond the University community. Recommended action items for other stakeholders within the University will clearly delineate postdoc goals and expectations of those in leadership positions.
+
+The Committee recognizes that many postdocs will go on to leadership roles in their future careers and hopes that the information and recommendations contained within this Report may additionally provide a roadmap for progress to be made beyond Stanford.
+
+The Long Range Planning process and this Report were deliberately focused on foregrounding the voices and efforts of postdocs themselves: **“What do *postdocs* think about the postdoc role?”**. Postdocs are oftentimes overlooked within the research enterprise and decisions are made on their behalf; sometimes with postdoc representatives in the room, sometimes not. No doubt postdocs exist within a complex research ecosystem and postdocs benefit greatly from the efforts of non-postdoc allies. However, with respect to the postdoc role, the thoughts of postdocs themselves should be paramount.
+
+We hope to engage with the University as a unique and important stakeholder group while Stanford continues to execute the vision that emerged from the University-wide long range planning process.[@sfd.2023]
+
+The Long Range Planning work contained within this Report spanned approximately January 2020 to December 2022. This means it was conducted in the context of: the COVID-19 pandemic; the murder of George Floyd (and countless other Black community members); the January 6, 2021 insurrection at the US Capitol Building; multiple conservative Supreme Court decisions, including the striking down of the constitutional right to an abortion (Roe vs Wade, 1973); Stanford's President becoming implicated in image manipulation in published papers; and the largest mobilization of academic workers for labor rights in United States history as 48,000 postdocs, graduate students, and researchers across the University of California system went on strike. Postdocs at Stanford were and continue to be impacted by all of these events.
+
+Importantly, the Committee was inspired and deeply influenced by the leadership of the Black community at Stanford in their clear and explicit statement of goals and values published in The Stanford Daily on Juneteenth 2020, entitled “Opinion: Letter to the President and Provost: Action items for achieving racial equity”.[@sfd.racialequity] The Recommendations within this Report seek to emulate this by detailing action items that are similarly clear and directed.
+
+The Committee actively sought to center the voices of the most marginalized members of our community through a process of outreach and engagement with postdoc affinity groups such as the Stanford Black Postdoc Association, the LGBTQIA+ Postdoc Group at Stanford, and the Stanford Latinx Postdoc Association.
+
+
