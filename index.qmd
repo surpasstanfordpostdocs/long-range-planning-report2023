@@ -1,7 +1,35 @@
 ---
 title: "SURPAS Long Range Planning Report 2023"
+subtitle: "The Future of Postdocs at Stanford"
 
 ---
 
+Welcome to the online version of the SURPAS Long Range Planning Report 2023. 
 
-![](images/SURPAS_logo_1_cw.png){#fig-surpaslogo width=80%}
+Between early 2020 and 2023, the Stanford University Postdoctoral Association, known as SURPAS, has been building a community-oriented vision for the future of postdocs at Stanford.
+
+Broadly, this effort sought to answer the question: **“What do postdocs think about the postdoc role?”** This Report was officially endorsed by the full SURPAS Council on Thursday, March 30, 2023. 
+
+For this effort, the Long Range Planning Committee analyzed historical postdoc advocacy at Stanford, held twelve focus group conversations with postdocs at Stanford, and collected details of contemporary advocacy efforts into a single document. More than 70 individuals engaged with the Report in the drafting stage, providing hundreds of comments to reflect the vision of the whole postdoc community.
+
+---
+
+**Navigation**
+
+Use the menu on the left hand side to navigate through the different sections of the Report. 
+
+The "two-page" ***Excutive Summary*** is [here](execsumm.qmd).
+
+The full ***Table of Contents*** is [here](contents.qmd).
+
+You can download a ***pdf of the Report*** from [this page](downloads.qmd).
+
+---
+
+**Contact**
+
+To get in touch with SURPAS, please use this [online form](https://surpas.stanford.edu/contact-us/#messageus).
+
+---
+
+![](images/SURPAS_logo_1_cw.png){#fig-surpaslogo width=70%}

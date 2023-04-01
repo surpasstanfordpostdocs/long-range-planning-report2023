@@ -14,7 +14,7 @@ Recommended citation:
 year = {2023}, 
 title = {{SURPAS Long Range Planning Report: The Future of Postdocs at Stanford}}, 
 author = {{SURPAS Long Range Planning Committee}}, 
-url = {https://github.com/surpasstanfordpostdocs/long-range-planning-report2023}, 
+url = {https://surpasstanfordpostdocs.github.io/long-range-planning-report2023/}, 
 urldate = {2023-4-1}, 
 month = {4}
 }

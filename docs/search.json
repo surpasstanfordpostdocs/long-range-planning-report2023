@@ -298,7 +298,7 @@
     "href": "downloads.html",
     "title": "Download the Report",
     "section": "",
-    "text": "The SURPAS Long Range Planning Report was originally formulated as a printable document.\nDownload the full Report here. (pdf format, 4MB)\nRecommended citation:\n@misc{surpaslrp.2023, \nyear = {2023}, \ntitle = {{SURPAS Long Range Planning Report: The Future of Postdocs at Stanford}}, \nauthor = {{SURPAS Long Range Planning Committee}}, \nurl = {https://github.com/surpasstanfordpostdocs/long-range-planning-report2023}, \nurldate = {2023-4-1}, \nmonth = {4}\n}"
+    "text": "The SURPAS Long Range Planning Report was originally formulated as a printable document.\nDownload the full Report here. (pdf format, 4MB)\nRecommended citation:\n@misc{surpaslrp.2023, \nyear = {2023}, \ntitle = {{SURPAS Long Range Planning Report: The Future of Postdocs at Stanford}}, \nauthor = {{SURPAS Long Range Planning Committee}}, \nurl = {https://surpasstanfordpostdocs.github.io/long-range-planning-report2023/}, \nurldate = {2023-4-1}, \nmonth = {4}\n}"
   },
   {
     "objectID": "charts.html",
@@ -306,5 +306,12 @@
     "title": "Interactive Charts",
     "section": "",
     "text": "Re-format with (e.g.) Altair.\n\n\nCode\n# Import modules.\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport pandas as pd\nimport seaborn as sns\n\n# Set formatting for Seaborn.\nsns.set_theme(style=\"ticks\")\nsns.set(rc={'figure.figsize':(4,4)})\nsns.set_style(\"white\")\n\n# Load datatable from csv file.\ndf_AMI_HHall = pd.read_csv(\"./data/AMI_over_time,_Santa_Clara,_HHall_long.csv\")\n\n# Plot the lines on using facets.\nrp = sns.relplot(\n    data=df_AMI_HHall,\n    x=\"Year\", y=\"Income ($)\",\n    hue=\"Level\", col=\"Household size\",\n    kind=\"line\",\n    col_wrap=2,\n    height=3, aspect=.90, facet_kws=dict(sharex=False),\n)\n# Adjust the spacing in the figure.\nrp.fig.subplots_adjust(top=0.85) \n\n# Add a title for the facetgrid chart.\nrp.fig.suptitle(\"Stanford Minimum Postdoc Salary and Area Median Income\\n for Santa Clara County over time\", fontsize=16)\n\n# Show the plot.\nplt.show()\n\n\n\n\n\nFigure 1: Comparison of Stanford Minimum Postdoc Salary with Area Median Income (AMI) levels for Santa Clara County (the county in which Stanford is located), including federally defined (by the Department of Housing and Urban Development, HUD) definitions of Moderate, Median, Low, Very Low, and Extremely Low Income. Twice the Postdoc Minimum Salary is also included in graphs for households of 2 or more persons. Sources: California HCD, Office for Postdoctoral Affairs and email correspondence. Refer to Appendix D: Data Tables for raw data used to prepare this graph."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SURPAS Long Range Planning Report 2023",
+    "section": "",
+    "text": "Welcome to the online version of the SURPAS Long Range Planning Report 2023.\nBetween early 2020 and 2023, the Stanford University Postdoctoral Association, known as SURPAS, has been building a community-oriented vision for the future of postdocs at Stanford.\nBroadly, this effort sought to answer the question: “What do postdocs think about the postdoc role?” This Report was officially endorsed by the full SURPAS Council on Thursday, March 30, 2023.\nFor this effort, the Long Range Planning Committee analyzed historical postdoc advocacy at Stanford, held twelve focus group conversations with postdocs at Stanford, and collected details of contemporary advocacy efforts into a single document. More than 70 individuals engaged with the Report in the drafting stage, providing hundreds of comments to reflect the vision of the whole postdoc community.\n\nNavigation\nUse the menu on the left hand side to navigate through the different sections of the Report.\nThe “two-page” Excutive Summary is here.\nThe full Table of Contents is here.\nYou can download a pdf of the Report from this page.\n\nContact\nTo get in touch with SURPAS, please use this online form."
   }
 ]
