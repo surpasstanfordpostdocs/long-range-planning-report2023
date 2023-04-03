@@ -22,7 +22,9 @@ The Committee is empowered to write follow up articles for publication, describi
 
 ### Slides presented at February 23, 2023 Council Meeting
 
-![](images/placeholder.png){#fig-council_slides width=80%}
+![](images/CouncilMeeting_Slides_1-12.png){#fig-council_slides1 width=80%}
+
+![](images/CouncilMeeting_Slides_13-25.png){#fig-council_slides2 width=80%}
 
 ### Motion to Adopt Long Range Planning Report
 
